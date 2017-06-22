@@ -1,0 +1,1420 @@
+04/05/2017 14:26:15: Started Bot V.1.0.0.0.
+04/05/2017 14:26:27: Login to Grepolis.
+04/05/2017 14:26:39: Updating Town Data.
+04/05/2017 14:26:42: Updating Game Data.
+04/05/2017 14:26:43: Updating Building Data.
+04/05/2017 14:26:45: Updating Unit Data.
+04/05/2017 14:26:45: Login successful.
+04/05/2017 14:27:17: Starting Cycle!
+04/05/2017 14:27:19: Switching to 01 Es geht los
+04/05/2017 14:27:21: Exception in UpdateCulturalInfoResponse: Der Index lag außerhalb des Bereichs. Er darf nicht negativ und kleiner als die Auflistung sein.
+Parametername: startIndex
+04/05/2017 14:27:22: Locating Farmes for 01 Es geht los
+04/05/2017 14:27:24: Demanding resources from Kyhyithdou(1)
+04/05/2017 14:27:26: Demanding resources from Kyhyithdou(2)
+04/05/2017 14:27:28: Demanding resources from Kyhyithdou(3)
+04/05/2017 14:27:28: Successful demanded resources from Kyhyithdou
+04/05/2017 14:29:25: Started Bot V.1.0.0.0.
+04/05/2017 14:29:26: Login to Grepolis.
+04/05/2017 14:29:33: Updating Town Data.
+04/05/2017 14:29:34: Updating Game Data.
+04/05/2017 14:29:36: Updating Building Data.
+04/05/2017 14:29:38: Updating Unit Data.
+04/05/2017 14:29:38: Login successful.
+04/05/2017 14:30:13: Starting Cycle!
+04/05/2017 14:30:15: Switching to 01 Es geht los
+04/05/2017 14:31:47: Started Bot V.1.0.0.0.
+04/05/2017 14:31:51: Login to Grepolis.
+04/05/2017 14:31:57: Updating Town Data.
+04/05/2017 14:31:58: Updating Game Data.
+04/05/2017 14:32:01: Updating Building Data.
+04/05/2017 14:32:03: Updating Unit Data.
+04/05/2017 14:32:04: Login successful.
+04/05/2017 14:32:17: Starting Cycle!
+04/05/2017 14:32:18: Switching to 01 Es geht los
+04/05/2017 14:39:29: Started Bot V.1.0.0.0.
+04/05/2017 14:39:31: Login to Grepolis.
+04/05/2017 14:39:37: Updating Town Data.
+04/05/2017 14:39:40: Updating Game Data.
+04/05/2017 14:39:42: Updating Building Data.
+04/05/2017 14:39:44: Updating Unit Data.
+04/05/2017 14:39:44: Login successful.
+04/05/2017 14:39:59: Starting Cycle!
+04/05/2017 14:40:01: Switching to 01 Es geht los
+04/06/2017 09:06:50: Started Bot V.1.0.0.0.
+04/06/2017 09:07:08: Login to Grepolis.
+04/06/2017 09:07:47: Updating Town Data.
+04/06/2017 09:07:53: Updating Game Data.
+04/06/2017 09:07:53: Updating Building Data.
+04/06/2017 09:07:54: Updating Unit Data.
+04/06/2017 09:07:54: Login successful.
+04/06/2017 09:13:19: Starting Cycle!
+04/06/2017 09:13:21: Switching to 01 Es geht los
+04/06/2017 09:13:24: Locating Farmes for 01 Es geht los
+04/06/2017 09:13:26: Demanding resources from Kyhyithdou(1)
+04/06/2017 09:13:28: Demanding resources from Kyhyithdou(2)
+04/06/2017 09:13:30: Demanding resources from Kyhyithdou(3)
+04/06/2017 09:13:30: Successful demanded resources from Kyhyithdou
+04/06/2017 09:13:32: Demanding resources from Dougavstriga(1)
+04/06/2017 09:13:34: Demanding resources from Dougavstriga(2)
+04/06/2017 09:13:36: Demanding resources from Dougavstriga(3)
+04/06/2017 09:13:36: Successful demanded resources from Dougavstriga
+04/06/2017 09:13:38: Demanding resources from Nagagavdra(1)
+04/06/2017 09:13:40: Demanding resources from Nagagavdra(2)
+04/06/2017 09:13:42: Demanding resources from Nagagavdra(3)
+04/06/2017 09:13:42: Successful demanded resources from Nagagavdra
+04/06/2017 09:13:43: Demanding resources from Thosgadra(1)
+04/06/2017 09:13:45: Demanding resources from Thosgadra(2)
+04/06/2017 09:13:47: Demanding resources from Thosgadra(3)
+04/06/2017 09:13:47: Successful demanded resources from Thosgadra
+04/06/2017 09:13:48: Demanding resources from Gakos(1)
+04/06/2017 09:13:50: Demanding resources from Gakos(2)
+04/06/2017 09:13:52: Demanding resources from Gakos(3)
+04/06/2017 09:13:52: Successful demanded resources from Gakos
+04/06/2017 09:13:53: Demanding resources from Gavstri(1)
+04/06/2017 09:13:55: Demanding resources from Gavstri(2)
+04/06/2017 09:13:57: Demanding resources from Gavstri(3)
+04/06/2017 09:13:57: Successful demanded resources from Gavstri
+04/06/2017 09:13:58: Starting trade between 01 Es geht los and 02.2 Oz
+04/06/2017 09:14:00: Sending resources to 02.2 Oz (Wood: 0/15690, Stone: 0/7646, Silver: 1505/7646)
+04/06/2017 09:14:02: Switching to 02.1 Robinatuss Stad
+04/06/2017 09:14:05: Locating Farmes for 02.1 Robinatuss Stad
+04/06/2017 09:14:07: Starting trade between 02.1 Robinatuss Stad and 02.2 Oz
+04/06/2017 09:14:09: Sending resources to 02.2 Oz (Wood: 600/15693, Stone: 0/7649, Silver: 0/9154)
+04/06/2017 09:14:10: Switching to 02.2 Oz
+04/06/2017 09:14:14: Locating Farmes for 02.2 Oz
+04/06/2017 09:14:16: Switching to 03 mufftners Stadt
+04/06/2017 09:14:19: Locating Farmes for 03 mufftners Stadt
+04/06/2017 09:14:22: Starting trade between 03 mufftners Stadt and 02.2 Oz
+04/06/2017 09:14:23: Sending resources to 02.2 Oz (Wood: 0/16300, Stone: 0/7655, Silver: 8316/9160)
+04/06/2017 09:14:24: Switching to 04 Smyrna
+04/06/2017 09:14:28: Locating Farmes for 04 Smyrna
+04/06/2017 09:14:30: Starting trade between 04 Smyrna and 02.2 Oz
+04/06/2017 09:14:32: Sending resources to 02.2 Oz (Wood: 0/16304, Stone: 7581/7658, Silver: 0/17479)
+04/06/2017 09:14:34: Switching to 05 Pallantium
+04/06/2017 09:14:38: Locating Farmes for 05 Pallantium
+04/06/2017 09:14:40: Starting trade between 05 Pallantium and 02.2 Oz
+04/06/2017 09:14:41: Sending resources to 02.2 Oz (Wood: 745/16309, Stone: 0/15243, Silver: 0/17483)
+04/06/2017 09:14:43: Switching to 06 Loki
+04/06/2017 09:14:47: Locating Farmes for 06 Loki
+04/06/2017 09:14:48: Starting trade between 06 Loki and 02.2 Oz
+04/06/2017 09:14:50: Sending resources to 02.2 Oz (Wood: 0/17058, Stone: 0/15246, Silver: 600/17486)
+04/06/2017 09:14:52: Switching to 07 Robinatuss Stadt
+04/06/2017 09:14:55: Locating Farmes for 07 Robinatuss Stadt
+04/06/2017 09:14:57: Starting trade between 07 Robinatuss Stadt and 02.2 Oz
+04/06/2017 09:14:59: Sending resources to 02.2 Oz (Wood: 0/17062, Stone: 3036/15249, Silver: 0/18089)
+04/06/2017 09:15:01: Switching to 08 Löwenstein
+04/06/2017 09:15:04: Locating Farmes for 08 Löwenstein
+04/06/2017 09:15:06: Starting trade between 08 Löwenstein and 02.2 Oz
+04/06/2017 09:15:08: 08 Löwenstein has not enough resources to send.
+04/06/2017 09:23:21: Started Bot V.1.0.0.0.
+04/06/2017 09:23:25: Login to Grepolis.
+04/06/2017 09:23:35: Updating Town Data.
+04/06/2017 09:23:40: Updating Game Data.
+04/06/2017 09:23:40: Updating Building Data.
+04/06/2017 09:23:42: Updating Unit Data.
+04/06/2017 09:23:42: Login successful.
+04/06/2017 09:27:26: Started Bot V.1.0.0.0.
+04/06/2017 09:27:37: Login to Grepolis.
+04/06/2017 09:27:43: Updating Town Data.
+04/06/2017 09:27:45: Updating Game Data.
+04/06/2017 09:27:47: Updating Building Data.
+04/06/2017 09:27:49: Updating Unit Data.
+04/06/2017 09:27:49: Login successful.
+04/06/2017 09:28:13: Starting Cycle!
+04/06/2017 09:28:14: Switching to 01 Es geht los
+04/06/2017 09:28:18: Locating Farmes for 01 Es geht los
+04/06/2017 09:28:20: Demanding resources from Kyhyithdou(1)
+04/06/2017 09:28:22: Demanding resources from Kyhyithdou(2)
+04/06/2017 09:28:24: Demanding resources from Kyhyithdou(3)
+04/06/2017 09:28:24: Successful demanded resources from Kyhyithdou
+04/06/2017 09:28:26: Demanding resources from Dougavstriga(1)
+04/06/2017 09:28:28: Demanding resources from Dougavstriga(2)
+04/06/2017 09:28:30: Demanding resources from Dougavstriga(3)
+04/06/2017 09:28:30: Successful demanded resources from Dougavstriga
+04/06/2017 09:28:31: Demanding resources from Nagagavdra(1)
+04/06/2017 09:28:33: Demanding resources from Nagagavdra(2)
+04/06/2017 09:28:35: Demanding resources from Nagagavdra(3)
+04/06/2017 09:28:35: Successful demanded resources from Nagagavdra
+04/06/2017 09:28:37: Demanding resources from Thosgadra(1)
+04/06/2017 09:28:39: Demanding resources from Thosgadra(2)
+04/06/2017 09:28:41: Demanding resources from Thosgadra(3)
+04/06/2017 09:28:41: Successful demanded resources from Thosgadra
+04/06/2017 09:28:43: Demanding resources from Gakos(1)
+04/06/2017 09:28:44: Demanding resources from Gakos(2)
+04/06/2017 09:28:46: Demanding resources from Gakos(3)
+04/06/2017 09:28:46: Successful demanded resources from Gakos
+04/06/2017 09:28:48: Demanding resources from Gavstri(1)
+04/06/2017 09:28:49: Demanding resources from Gavstri(2)
+04/06/2017 09:28:51: Demanding resources from Gavstri(3)
+04/06/2017 09:28:51: Successful demanded resources from Gavstri
+04/06/2017 09:28:52: Starting trade between 01 Es geht los and 02.2 Oz
+04/06/2017 09:28:54: Sending resources to 02.2 Oz (Wood: 0/17447, Stone: 0/18601, Silver: 674/20706)
+04/06/2017 09:28:57: Switching to 02.1 Robinatuss Stad
+04/06/2017 09:29:00: Locating Farmes for 02.1 Robinatuss Stad
+04/06/2017 09:29:02: Starting trade between 02.1 Robinatuss Stad and 02.2 Oz
+04/06/2017 09:29:04: Sending resources to 02.2 Oz (Wood: 4343/17451, Stone: 0/18604, Silver: 0/20783)
+04/06/2017 09:29:06: Switching to 02.2 Oz
+04/06/2017 09:29:09: Locating Farmes for 02.2 Oz
+04/06/2017 09:29:11: Switching to 03 mufftners Stadt
+04/06/2017 09:29:15: Locating Farmes for 03 mufftners Stadt
+04/06/2017 09:29:17: Starting trade between 03 mufftners Stadt and 02.2 Oz
+04/06/2017 09:29:19: Sending resources to 02.2 Oz (Wood: 0/21801, Stone: 348/18610, Silver: 3591/20789)
+04/06/2017 09:29:21: Switching to 04 Smyrna
+04/06/2017 09:29:24: Locating Farmes for 04 Smyrna
+04/06/2017 09:29:25: Starting trade between 04 Smyrna and 02.2 Oz
+04/06/2017 09:29:27: Sending resources to 02.2 Oz (Wood: 0/21805, Stone: 3326/18962, Silver: 0/24384)
+04/06/2017 09:29:29: Switching to 05 Pallantium
+04/06/2017 09:29:33: Locating Farmes for 05 Pallantium
+04/06/2017 09:29:35: Starting trade between 05 Pallantium and 02.2 Oz
+04/06/2017 09:29:36: Sending resources to 02.2 Oz (Wood: 3624/21809, Stone: 0/22291, Silver: 0/24387)
+04/06/2017 09:29:38: Switching to 06 Loki
+04/06/2017 09:29:41: Locating Farmes for 06 Loki
+04/06/2017 09:29:43: Starting trade between 06 Loki and 02.2 Oz
+04/06/2017 09:29:45: Sending resources to 02.2 Oz (Wood: 0/25438, Stone: 0/22294, Silver: 3096/24390)
+04/06/2017 09:29:47: Switching to 07 Robinatuss Stadt
+04/06/2017 09:29:51: Locating Farmes for 07 Robinatuss Stadt
+04/06/2017 09:29:53: Starting trade between 07 Robinatuss Stadt and 02.2 Oz
+04/06/2017 09:29:54: Sending resources to 02.2 Oz (Wood: 0/25442, Stone: 5007/22298, Silver: 0/27490)
+04/06/2017 09:29:56: Switching to 08 Löwenstein
+04/06/2017 09:30:00: Locating Farmes for 08 Löwenstein
+04/06/2017 09:30:01: Starting trade between 08 Löwenstein and 02.2 Oz
+04/06/2017 09:30:03: 08 Löwenstein has not enough resources to send.
+04/06/2017 09:30:05: Switching to 09.1 Kätzchen
+04/06/2017 09:30:09: Locating Farmes for 09.1 Kätzchen
+04/06/2017 09:30:11: Starting trade between 09.1 Kätzchen and 09.2 Scheiß Red Bull
+04/06/2017 09:30:13: Not enough resources for 09.2 Scheiß Red Bull / trade capacity. (Trade capacity: 10000, Wood: 2047, Stone: 9265, Silver: 15600)
+04/06/2017 09:30:15: Switching to 09.2 Scheiß Red Bull
+04/06/2017 09:30:18: Started party.
+04/06/2017 09:30:20: Locating Farmes for 09.2 Scheiß Red Bull
+04/06/2017 09:30:22: Switching to 10 Noch einers Stadt
+04/06/2017 09:30:25: Locating Farmes for 10 Noch einers Stadt
+04/06/2017 09:30:27: Switching to 11.1 Sturmwind
+04/06/2017 09:30:31: Locating Farmes for 11.1 Sturmwind
+04/06/2017 09:30:32: Starting trade between 11.1 Sturmwind and 09.2 Scheiß Red Bull
+04/06/2017 09:30:34: 11.1 Sturmwind has not enough resources to send.
+04/06/2017 09:30:35: Switching to 11.2 Jochen
+04/06/2017 09:30:39: Locating Farmes for 11.2 Jochen
+04/06/2017 09:30:41: Starting trade between 11.2 Jochen and 09.2 Scheiß Red Bull
+04/06/2017 09:30:43: Sending resources to 09.2 Scheiß Red Bull (Wood: 0/2215, Stone: 1479/12609, Silver: 0/12609)
+04/06/2017 09:30:45: Switching to 12 Pfui I
+04/06/2017 09:30:49: Locating Farmes for 12 Pfui I
+04/06/2017 09:30:51: Starting trade between 12 Pfui I and 09.2 Scheiß Red Bull
+04/06/2017 09:30:53: Sending resources to 09.2 Scheiß Red Bull (Wood: 0/2218, Stone: 0/14092, Silver: 10189/12613)
+04/06/2017 09:30:55: Switching to 13 TekNo.a
+04/06/2017 09:30:58: Locating Farmes for 13 TekNo.a
+04/06/2017 09:31:00: Switching to M55-011
+04/06/2017 09:31:03: Started party.
+04/06/2017 09:31:04: Locating Farmes for M55-011
+04/06/2017 09:31:06: Starting trade between M55-011 and 10 Noch einers Stadt
+04/06/2017 09:31:08: Sending resources to 10 Noch einers Stadt (Wood: 600/8148, Stone: 0/2848, Silver: 600/2848)
+04/06/2017 09:31:09: Finished Cycle!
+04/06/2017 09:40:23: Started Bot V.1.0.0.0.
+04/06/2017 09:40:24: Login to Grepolis.
+04/06/2017 09:40:30: Updating Town Data.
+04/06/2017 09:40:32: Updating Game Data.
+04/06/2017 09:40:34: Updating Building Data.
+04/06/2017 09:40:35: Updating Unit Data.
+04/06/2017 09:40:35: Login successful.
+04/06/2017 09:40:51: Starting Cycle!
+04/06/2017 09:40:52: Switching to 01 Es geht los
+04/06/2017 09:40:56: Started games.
+04/06/2017 09:40:58: Started triumph.
+04/06/2017 09:41:00: Locating Farmes for 01 Es geht los
+04/06/2017 09:41:02: Demanding resources from Kyhyithdou(1)
+04/06/2017 09:41:03: Demanding resources from Kyhyithdou(2)
+04/06/2017 09:41:05: Demanding resources from Kyhyithdou(3)
+04/06/2017 09:41:05: Successful demanded resources from Kyhyithdou
+04/06/2017 09:41:06: Demanding resources from Dougavstriga(1)
+04/06/2017 09:41:08: Demanding resources from Dougavstriga(2)
+04/06/2017 09:41:10: Demanding resources from Dougavstriga(3)
+04/06/2017 09:41:11: Successful demanded resources from Dougavstriga
+04/06/2017 09:52:03: Started Bot V.1.0.0.0.
+04/06/2017 09:52:05: Login to Grepolis.
+04/06/2017 09:52:11: Updating Town Data.
+04/06/2017 09:52:13: Updating Game Data.
+04/06/2017 09:52:16: Updating Building Data.
+04/06/2017 09:52:18: Updating Unit Data.
+04/06/2017 09:52:18: Login successful.
+04/06/2017 09:52:58: Starting Cycle!
+04/06/2017 09:53:00: Switching to 01 Es geht los
+04/06/2017 09:53:24: Locating Farmes for 01 Es geht los
+04/06/2017 09:53:26: Demanding resources from Kyhyithdou(1)
+04/06/2017 09:53:37: Demanding resources from Kyhyithdou(2)
+04/06/2017 09:53:39: Demanding resources from Kyhyithdou(3)
+04/06/2017 09:53:39: Successful demanded resources from Kyhyithdou
+04/06/2017 09:53:41: Demanding resources from Dougavstriga(1)
+04/06/2017 09:53:43: Demanding resources from Dougavstriga(2)
+04/06/2017 09:53:45: Demanding resources from Dougavstriga(3)
+04/06/2017 09:53:45: Successful demanded resources from Dougavstriga
+04/06/2017 09:53:47: Demanding resources from Nagagavdra(1)
+04/06/2017 09:53:48: Demanding resources from Nagagavdra(2)
+04/06/2017 09:53:50: Demanding resources from Nagagavdra(3)
+04/06/2017 09:53:50: Successful demanded resources from Nagagavdra
+04/06/2017 09:53:52: Demanding resources from Thosgadra(1)
+04/06/2017 09:53:54: Demanding resources from Thosgadra(2)
+04/06/2017 09:53:56: Demanding resources from Thosgadra(3)
+04/06/2017 09:53:56: Successful demanded resources from Thosgadra
+04/06/2017 09:53:57: Demanding resources from Gakos(1)
+04/06/2017 09:53:59: Demanding resources from Gakos(2)
+04/06/2017 09:54:01: Demanding resources from Gakos(3)
+04/06/2017 09:54:01: Successful demanded resources from Gakos
+04/06/2017 09:54:03: Demanding resources from Gavstri(1)
+04/06/2017 09:54:05: Demanding resources from Gavstri(2)
+04/06/2017 09:54:07: Demanding resources from Gavstri(3)
+04/06/2017 09:54:07: Successful demanded resources from Gavstri
+04/06/2017 09:54:09: Starting trade between 01 Es geht los and 02.2 Oz
+04/06/2017 09:54:10: Sending resources to 02.2 Oz (Wood: 0/9670, Stone: 620/8993, Silver: 1023/8993)
+04/06/2017 09:54:12: Switching to 02.1 Robinatuss Stad
+04/06/2017 09:55:33: Started Bot V.1.0.0.0.
+04/06/2017 09:55:40: Login to Grepolis.
+04/06/2017 09:55:45: Updating Town Data.
+04/06/2017 09:55:47: Updating Game Data.
+04/06/2017 09:55:50: Updating Building Data.
+04/06/2017 09:55:52: Updating Unit Data.
+04/06/2017 09:55:52: Login successful.
+04/06/2017 09:56:21: Starting Cycle!
+04/06/2017 09:56:23: Switching to 01 Es geht los
+04/06/2017 09:56:27: Locating Farmes for 01 Es geht los
+04/06/2017 09:56:29: Starting trade between 01 Es geht los and 02.2 Oz
+04/06/2017 09:56:31: 01 Es geht los has not enough resources to send.
+04/06/2017 09:56:32: Switching to 02.1 Robinatuss Stad
+04/06/2017 09:56:36: Locating Farmes for 02.1 Robinatuss Stad
+04/06/2017 09:56:38: Starting trade between 02.1 Robinatuss Stad and 02.2 Oz
+04/06/2017 09:56:40: Not enough resources for 02.2 Oz / trade capacity. (Trade capacity: 10000, Wood: 15475, Stone: 13961, Silver: 7347)
+04/06/2017 09:56:42: Switching to 02.2 Oz
+04/06/2017 09:56:45: Locating Farmes for 02.2 Oz
+04/06/2017 09:56:47: Switching to 03 mufftners Stadt
+04/06/2017 09:56:51: Locating Farmes for 03 mufftners Stadt
+04/06/2017 09:56:53: Starting trade between 03 mufftners Stadt and 02.2 Oz
+04/06/2017 09:56:55: Sending resources to 02.2 Oz (Wood: 0/9745, Stone: 339/9675, Silver: 413/10078)
+04/06/2017 09:56:57: Switching to 04 Smyrna
+04/06/2017 09:57:01: Locating Farmes for 04 Smyrna
+04/06/2017 09:57:02: Starting trade between 04 Smyrna and 02.2 Oz
+04/06/2017 10:11:46: Started Bot V.1.0.0.0.
+04/06/2017 10:11:48: Login to Grepolis.
+04/06/2017 10:11:54: Updating Town Data.
+04/06/2017 10:11:57: Updating Game Data.
+04/06/2017 10:11:59: Updating Building Data.
+04/06/2017 10:12:01: Updating Unit Data.
+04/06/2017 10:12:01: Login successful.
+04/06/2017 10:12:18: Starting Cycle!
+04/06/2017 10:12:19: Switching to 01 Es geht los
+04/06/2017 10:15:03: Started Bot V.1.0.0.0.
+04/06/2017 10:15:05: Login to Grepolis.
+04/06/2017 10:15:11: Updating Town Data.
+04/06/2017 10:15:14: Updating Game Data.
+04/06/2017 10:15:16: Updating Building Data.
+04/06/2017 10:15:18: Updating Unit Data.
+04/06/2017 10:15:18: Login successful.
+04/06/2017 10:15:20: Finished Cycle!
+04/06/2017 10:15:31: Starting Cycle!
+04/06/2017 10:15:33: Switching to 01 Es geht los
+04/06/2017 10:27:11: Started Bot V.1.0.0.0.
+04/06/2017 10:27:12: Login to Grepolis.
+04/06/2017 10:27:18: Updating Town Data.
+04/06/2017 10:27:21: Updating Game Data.
+04/06/2017 10:27:23: Updating Building Data.
+04/06/2017 10:27:24: Updating Unit Data.
+04/06/2017 10:27:25: Login successful.
+04/06/2017 10:30:05: Started Bot V.1.0.0.0.
+04/06/2017 10:30:07: Login to Grepolis.
+04/06/2017 10:30:12: Updating Town Data.
+04/06/2017 10:30:14: Updating Game Data.
+04/06/2017 10:30:17: Updating Building Data.
+04/06/2017 10:30:18: Updating Unit Data.
+04/06/2017 10:30:19: Login successful.
+04/06/2017 13:36:43: Started Bot V.1.0.0.0.
+04/06/2017 13:36:46: Login to Grepolis.
+04/06/2017 13:36:57: Updating Town Data.
+04/06/2017 13:37:00: Updating Game Data.
+04/06/2017 13:37:01: Updating Building Data.
+04/06/2017 13:37:03: Updating Unit Data.
+04/06/2017 13:37:03: Login successful.
+04/06/2017 13:38:02: Started Bot V.1.0.0.0.
+04/06/2017 13:52:51: Started Bot V.1.0.0.0.
+04/06/2017 13:52:53: Login to Grepolis.
+04/06/2017 13:52:58: Updating Town Data.
+04/06/2017 13:53:00: Updating Game Data.
+04/06/2017 13:53:02: Updating Building Data.
+04/06/2017 13:53:04: Updating Unit Data.
+04/06/2017 13:53:04: Login successful.
+04/06/2017 13:53:37: Starting Cycle!
+04/06/2017 13:53:39: Switching to 01 Es geht los
+04/06/2017 13:53:43: Started triumph.
+04/06/2017 13:53:45: Locating Farmes for 01 Es geht los
+04/06/2017 13:53:47: Demanding resources from Kyhyithdou(1)
+04/06/2017 13:53:49: Demanding resources from Kyhyithdou(2)
+04/06/2017 13:53:51: Demanding resources from Kyhyithdou(3)
+04/06/2017 13:53:51: Successful demanded resources from Kyhyithdou
+04/06/2017 13:53:52: Demanding resources from Dougavstriga(1)
+04/06/2017 13:53:54: Demanding resources from Dougavstriga(2)
+04/06/2017 13:53:56: Demanding resources from Dougavstriga(3)
+04/06/2017 13:53:56: Successful demanded resources from Dougavstriga
+04/06/2017 13:53:58: Demanding resources from Nagagavdra(1)
+04/06/2017 13:54:00: Demanding resources from Nagagavdra(2)
+04/06/2017 13:54:01: Demanding resources from Nagagavdra(3)
+04/06/2017 13:54:02: Successful demanded resources from Nagagavdra
+04/06/2017 13:54:03: Demanding resources from Thosgadra(1)
+04/06/2017 13:54:05: Demanding resources from Thosgadra(2)
+04/06/2017 13:54:07: Demanding resources from Thosgadra(3)
+04/06/2017 13:54:07: Successful demanded resources from Thosgadra
+04/06/2017 13:54:09: Demanding resources from Gakos(1)
+04/06/2017 13:54:10: Demanding resources from Gakos(2)
+04/06/2017 13:54:13: Demanding resources from Gakos(3)
+04/06/2017 13:54:13: Successful demanded resources from Gakos
+04/06/2017 13:54:14: Demanding resources from Gavstri(1)
+04/06/2017 13:54:16: Demanding resources from Gavstri(2)
+04/06/2017 13:54:18: Demanding resources from Gavstri(3)
+04/06/2017 13:54:18: Successful demanded resources from Gavstri
+04/06/2017 13:54:19: Starting trade between 01 Es geht los and 02.2 Oz
+04/06/2017 13:54:21: Sending resources to 02.2 Oz (Wood: 0/10665, Stone: 4985/9166, Silver: 4996/9166)
+04/06/2017 13:54:23: Switching to 02.1 Robinatuss Stad
+04/06/2017 13:54:26: Locating Farmes for 02.1 Robinatuss Stad
+04/06/2017 13:54:28: Starting trade between 02.1 Robinatuss Stad and 02.2 Oz
+04/06/2017 13:54:31: Not enough resources for 02.2 Oz / trade capacity. (Trade capacity: 10000, Wood: 15475, Stone: 13961, Silver: 7347)
+04/06/2017 13:54:33: Switching to 02.2 Oz
+04/06/2017 13:54:37: Locating Farmes for 02.2 Oz
+04/06/2017 13:54:39: Switching to 03 mufftners Stadt
+04/06/2017 13:54:42: Started party.
+04/06/2017 13:54:44: Locating Farmes for 03 mufftners Stadt
+04/06/2017 13:54:46: Starting trade between 03 mufftners Stadt and 02.2 Oz
+04/06/2017 13:54:48: 03 mufftners Stadt has not enough resources to send.
+04/06/2017 13:54:50: Switching to 04 Smyrna
+04/06/2017 13:54:54: Locating Farmes for 04 Smyrna
+04/06/2017 13:54:56: Starting trade between 04 Smyrna and 02.2 Oz
+04/06/2017 13:54:58: Not enough resources for 02.2 Oz / trade capacity. (Trade capacity: 10000, Wood: 4967, Stone: 18413, Silver: 9256)
+04/06/2017 13:54:59: Switching to 05 Pallantium
+04/06/2017 13:55:02: Locating Farmes for 05 Pallantium
+04/06/2017 13:55:04: Starting trade between 05 Pallantium and 02.2 Oz
+04/06/2017 13:55:06: Sending resources to 02.2 Oz (Wood: 4681/10686, Stone: 0/14168, Silver: 0/14179)
+04/06/2017 13:55:08: Switching to 06 Loki
+04/06/2017 13:55:12: Locating Farmes for 06 Loki
+04/06/2017 13:55:14: Starting trade between 06 Loki and 02.2 Oz
+04/06/2017 13:55:16: Not enough resources for 02.2 Oz / trade capacity. (Trade capacity: 10000, Wood: 7791, Stone: 16783, Silver: 15339)
+04/06/2017 13:55:17: Switching to 07 Robinatuss Stadt
+04/06/2017 13:55:21: Locating Farmes for 07 Robinatuss Stadt
+04/06/2017 13:55:22: Starting trade between 07 Robinatuss Stadt and 02.2 Oz
+04/06/2017 13:55:24: 07 Robinatuss Stadt has not enough resources to send.
+04/06/2017 13:55:25: Switching to 08 Löwenstein
+04/06/2017 13:55:29: Locating Farmes for 08 Löwenstein
+04/06/2017 13:55:31: Starting trade between 08 Löwenstein and 02.2 Oz
+04/06/2017 13:55:32: Sending resources to 02.2 Oz (Wood: 0/15379, Stone: 1127/14179, Silver: 0/14190)
+04/06/2017 13:55:34: Switching to 09.1 Kätzchen
+04/06/2017 13:55:38: Started party.
+04/06/2017 13:55:39: Locating Farmes for 09.1 Kätzchen
+04/06/2017 13:55:42: Starting trade between 09.1 Kätzchen and 09.2 Scheiß Red Bull
+04/06/2017 13:55:44: Sending resources to 09.2 Scheiß Red Bull (Wood: 0/3256, Stone: 0/18223, Silver: 600/18223)
+04/06/2017 13:55:46: Switching to 09.2 Scheiß Red Bull
+04/06/2017 13:55:49: Locating Farmes for 09.2 Scheiß Red Bull
+04/06/2017 13:55:51: Switching to 10 Noch einers Stadt
+04/06/2017 13:55:55: Locating Farmes for 10 Noch einers Stadt
+04/06/2017 13:55:57: Switching to 11.1 Sturmwind
+04/06/2017 13:56:01: Locating Farmes for 11.1 Sturmwind
+04/06/2017 13:56:03: Starting trade between 11.1 Sturmwind and 09.2 Scheiß Red Bull
+04/06/2017 13:56:05: 11.1 Sturmwind has not enough resources to send.
+04/06/2017 13:56:06: Switching to 11.2 Jochen
+04/06/2017 13:56:10: Locating Farmes for 11.2 Jochen
+04/06/2017 13:56:11: Starting trade between 11.2 Jochen and 09.2 Scheiß Red Bull
+04/06/2017 13:56:13: Sending resources to 09.2 Scheiß Red Bull (Wood: 0/3265, Stone: 4875/18234, Silver: 0/18834)
+04/06/2017 13:56:15: Switching to 12 Pfui I
+04/06/2017 13:56:18: Locating Farmes for 12 Pfui I
+04/06/2017 13:56:20: Starting trade between 12 Pfui I and 09.2 Scheiß Red Bull
+04/06/2017 13:56:22: Sending resources to 09.2 Scheiß Red Bull (Wood: 3584/3267, Stone: 0/23112, Silver: 2653/18837)
+04/06/2017 13:56:24: Switching to 13 TekNo.a
+04/06/2017 13:56:28: Started party.
+04/06/2017 13:56:29: Locating Farmes for 13 TekNo.a
+04/06/2017 13:56:31: Switching to 14 011
+04/06/2017 13:56:35: Locating Farmes for 14 011
+04/06/2017 13:56:37: Starting trade between 14 011 and 10 Noch einers Stadt
+04/06/2017 13:56:38: 14 011 has not enough resources to send.
+04/06/2017 13:56:39: Finished Cycle!
+04/06/2017 14:12:05: Started Bot V.1.0.0.0.
+04/06/2017 14:12:52: Login to Grepolis.
+04/06/2017 14:13:05: Updating Town Data.
+04/06/2017 14:13:11: Updating Game Data.
+04/06/2017 14:13:11: Updating Building Data.
+04/06/2017 14:13:13: Updating Unit Data.
+04/06/2017 14:13:13: Login successful.
+04/06/2017 14:13:31: Starting Cycle!
+04/06/2017 14:13:33: Switching to 01 Es geht los
+04/06/2017 14:13:35: Locating Farmes for 01 Es geht los
+04/06/2017 14:13:37: Demanding resources from Kyhyithdou(1)
+04/06/2017 14:13:39: Demanding resources from Kyhyithdou(2)
+04/06/2017 14:13:41: Demanding resources from Kyhyithdou(3)
+04/06/2017 14:13:41: Successful demanded resources from Kyhyithdou
+04/06/2017 14:13:43: Demanding resources from Dougavstriga(1)
+04/06/2017 14:13:44: Demanding resources from Dougavstriga(2)
+04/06/2017 14:13:45: Demanding resources from Dougavstriga(3)
+04/06/2017 14:13:46: Starting reconnect.
+04/06/2017 14:13:46: Login to Grepolis.
+04/06/2017 14:13:46: Server response indicated that you were no longer logged in. (LoginToGrepolisPart1
+04/06/2017 14:16:00: Started Bot V.1.0.0.0.
+04/06/2017 14:16:26: Login to Grepolis.
+04/06/2017 14:16:32: Updating Town Data.
+04/06/2017 14:16:34: Updating Game Data.
+04/06/2017 14:16:36: Updating Building Data.
+04/06/2017 14:16:38: Updating Unit Data.
+04/06/2017 14:16:38: Login successful.
+04/06/2017 14:16:52: Starting Cycle!
+04/06/2017 14:16:54: Switching to 01 Es geht los
+04/06/2017 14:16:55: Locating Farmes for 01 Es geht los
+04/06/2017 14:16:57: Demanding resources from Dougavstriga(1)
+04/06/2017 14:16:59: Demanding resources from Dougavstriga(2)
+04/06/2017 14:17:01: Demanding resources from Dougavstriga(3)
+04/06/2017 14:17:01: Successful demanded resources from Dougavstriga
+04/06/2017 14:17:03: Demanding resources from Nagagavdra(1)
+04/06/2017 14:17:04: Demanding resources from Nagagavdra(2)
+04/06/2017 14:17:06: Demanding resources from Nagagavdra(3)
+04/06/2017 14:17:07: Server response indicated that you were no longer logged in. LootFarmer
+04/06/2017 14:17:07: Login to Grepolis.
+04/06/2017 14:17:07: Starting reconnect.
+04/06/2017 14:19:39: Started Bot V.1.0.0.0.
+04/06/2017 14:19:40: Login to Grepolis.
+04/06/2017 14:19:46: Updating Town Data.
+04/06/2017 14:19:53: Updating Game Data.
+04/06/2017 14:19:53: Updating Building Data.
+04/06/2017 14:19:54: Updating Unit Data.
+04/06/2017 14:19:54: Login successful.
+04/06/2017 14:20:32: Starting Cycle!
+04/06/2017 14:20:33: Switching to 01 Es geht los
+04/06/2017 14:20:35: Locating Farmes for 01 Es geht los
+04/06/2017 14:20:37: Demanding resources from Kyhyithdou(1)
+04/06/2017 14:20:37: Server response indicated that you were no longer logged in. OpenFarmerWindow
+04/06/2017 14:20:37: Starting reconnect.
+04/06/2017 14:20:37: Login to Grepolis.
+04/06/2017 14:23:52: Started Bot V.1.0.0.0.
+04/06/2017 14:25:13: Login to Grepolis.
+04/06/2017 14:25:43: Updating Town Data.
+04/06/2017 14:25:52: Updating Game Data.
+04/06/2017 14:25:52: Updating Building Data.
+04/06/2017 14:25:54: Updating Unit Data.
+04/06/2017 14:25:54: Login successful.
+04/06/2017 14:26:22: Starting Cycle!
+04/06/2017 14:26:23: Switching to 01 Es geht los
+04/06/2017 14:26:25: Locating Farmes for 01 Es geht los
+04/06/2017 14:26:27: Demanding resources from Kyhyithdou(1)
+04/06/2017 14:26:29: Demanding resources from Kyhyithdou(2)
+04/06/2017 14:26:30: Demanding resources from Kyhyithdou(3)
+04/06/2017 14:26:30: Successful demanded resources from Kyhyithdou
+04/06/2017 14:26:32: Demanding resources from Dougavstriga(1)
+04/06/2017 14:26:34: Demanding resources from Dougavstriga(2)
+04/06/2017 14:26:34: Server response indicated that you were no longer logged in. GetTownSpecificData
+04/06/2017 14:26:34: Starting reconnect.
+04/06/2017 14:26:34: Login to Grepolis.
+04/06/2017 14:26:41: Demanding resources from Dougavstriga(2)
+04/06/2017 14:26:43: Demanding resources from Dougavstriga(3)
+04/06/2017 14:26:43: Successful demanded resources from Dougavstriga
+04/06/2017 14:26:44: Demanding resources from Nagagavdra(1)
+04/06/2017 14:26:45: Demanding resources from Nagagavdra(2)
+04/06/2017 14:26:47: Demanding resources from Nagagavdra(3)
+04/06/2017 14:26:47: Successful demanded resources from Nagagavdra
+04/06/2017 14:26:49: Demanding resources from Thosgadra(1)
+04/06/2017 14:26:51: Demanding resources from Thosgadra(2)
+04/06/2017 14:26:53: Demanding resources from Thosgadra(3)
+04/06/2017 14:26:53: Successful demanded resources from Thosgadra
+04/06/2017 14:26:55: Demanding resources from Gakos(1)
+04/06/2017 14:26:57: Demanding resources from Gakos(2)
+04/06/2017 14:26:59: Demanding resources from Gakos(3)
+04/06/2017 14:26:59: Successful demanded resources from Gakos
+04/06/2017 14:27:01: Demanding resources from Gavstri(1)
+04/06/2017 14:27:03: Demanding resources from Gavstri(2)
+04/06/2017 14:27:05: Demanding resources from Gavstri(3)
+04/06/2017 14:27:05: Successful demanded resources from Gavstri
+04/06/2017 14:27:09: Starting trade between 01 Es geht los and 02.2 Oz
+04/06/2017 14:27:11: Sending resources to 02.2 Oz (Wood: 0/16255, Stone: 3356/16025, Silver: 1994/16025)
+04/06/2017 14:27:12: Switching to 02.1 Robinatuss Stad
+04/06/2017 14:27:14: Locating Farmes for 02.1 Robinatuss Stad
+04/06/2017 14:27:17: Starting trade between 02.1 Robinatuss Stad and 02.2 Oz
+04/06/2017 14:27:19: Not enough resources for 02.2 Oz / trade capacity. (Trade capacity: 10000, Wood: 15475, Stone: 13961, Silver: 7347)
+04/06/2017 14:27:21: Switching to 02.2 Oz
+04/06/2017 15:00:00: Started Bot V.1.0.0.0.
+04/06/2017 15:00:09: Login to Grepolis.
+04/06/2017 15:00:35: Updating Town Data.
+04/06/2017 15:00:39: Updating Game Data.
+04/06/2017 15:00:39: Updating Building Data.
+04/06/2017 15:00:41: Updating Unit Data.
+04/06/2017 15:00:41: Login successful.
+04/06/2017 15:01:02: Starting Cycle!
+04/06/2017 15:01:04: Switching to 01 Es geht los
+04/06/2017 15:01:05: Locating Farmes for 01 Es geht los
+04/06/2017 15:01:07: Demanding resources from Kyhyithdou(1)
+04/06/2017 15:01:09: Demanding resources from Kyhyithdou(2)
+04/06/2017 15:01:11: Demanding resources from Kyhyithdou(3)
+04/06/2017 15:01:11: Successful demanded resources from Kyhyithdou
+04/06/2017 15:01:13: Demanding resources from Dougavstriga(1)
+04/06/2017 15:01:15: Demanding resources from Dougavstriga(2)
+04/06/2017 15:01:17: Demanding resources from Dougavstriga(3)
+04/06/2017 15:01:17: Successful demanded resources from Dougavstriga
+04/06/2017 15:01:19: Demanding resources from Nagagavdra(1)
+04/06/2017 15:01:20: Demanding resources from Nagagavdra(2)
+04/06/2017 15:01:22: Demanding resources from Nagagavdra(3)
+04/06/2017 15:01:22: Successful demanded resources from Nagagavdra
+04/06/2017 15:01:24: Demanding resources from Thosgadra(1)
+04/06/2017 15:01:26: Demanding resources from Thosgadra(2)
+04/06/2017 15:01:28: Demanding resources from Thosgadra(3)
+04/06/2017 15:01:28: Server response indicated that you were no longer logged in. LootFarmer
+04/06/2017 15:01:28: Stopped bot.
+04/06/2017 15:01:33: Starting reconnect.
+04/06/2017 15:01:33: Login to Grepolis.
+04/06/2017 15:01:56: Updating Town Data.
+04/06/2017 15:01:59: Updating Game Data.
+04/06/2017 15:02:01: Updating Building Data.
+04/06/2017 15:02:03: Updating Unit Data.
+04/06/2017 15:02:03: Login successful.
+04/06/2017 15:02:05: Finished Cycle!
+04/10/2017 15:57:58: Started Bot V.1.0.0.0.
+04/10/2017 15:58:14: Login to Grepolis.
+04/10/2017 15:58:26: Updating Town Data.
+04/10/2017 15:58:31: Updating Game Data.
+04/10/2017 15:58:31: Updating Building Data.
+04/10/2017 15:58:31: Updating Unit Data.
+04/10/2017 15:58:32: Login successful.
+04/10/2017 15:59:05: Starting Cycle!
+04/10/2017 15:59:07: Switching to 01 Es geht los
+04/10/2017 15:59:08: Locating Farmes for 01 Es geht los
+04/10/2017 15:59:10: Demanding resources from Kyhyithdou(1)
+04/10/2017 15:59:12: Demanding resources from Kyhyithdou(2)
+04/10/2017 15:59:14: Demanding resources from Kyhyithdou(3)
+04/10/2017 15:59:14: Successful demanded resources from Kyhyithdou
+04/10/2017 15:59:16: Demanding resources from Dougavstriga(1)
+04/10/2017 15:59:18: Demanding resources from Dougavstriga(2)
+04/10/2017 16:00:20: Started Bot V.1.0.0.0.
+04/10/2017 16:00:21: Login to Grepolis.
+04/10/2017 16:00:28: Updating Town Data.
+04/10/2017 16:00:29: Updating Game Data.
+04/10/2017 16:00:31: Updating Building Data.
+04/10/2017 16:00:33: Updating Unit Data.
+04/10/2017 16:00:33: Login successful.
+04/10/2017 16:01:39: Starting Cycle!
+04/10/2017 16:01:41: Switching to 01 Es geht los
+04/10/2017 16:01:49: Starting Cycle!
+04/10/2017 16:01:51: Locating Farmes for 01 Es geht los
+04/10/2017 16:01:52: Demanding resources from Dougavstriga(1)
+04/10/2017 16:01:54: Demanding resources from Dougavstriga(2)
+04/10/2017 16:01:56: Demanding resources from Dougavstriga(3)
+04/10/2017 16:01:56: Successful demanded resources from Dougavstriga
+04/10/2017 16:01:58: Demanding resources from Nagagavdra(1)
+04/10/2017 16:02:00: Demanding resources from Nagagavdra(2)
+04/10/2017 16:02:01: Demanding resources from Nagagavdra(3)
+04/10/2017 16:02:02: Successful demanded resources from Nagagavdra
+04/10/2017 16:02:04: Demanding resources from Thosgadra(1)
+04/10/2017 16:02:05: Demanding resources from Thosgadra(2)
+04/10/2017 16:02:07: Demanding resources from Thosgadra(3)
+04/10/2017 16:02:07: Successful demanded resources from Thosgadra
+04/10/2017 16:02:09: Demanding resources from Gakos(1)
+04/10/2017 16:02:10: Demanding resources from Gakos(2)
+04/10/2017 16:02:14: Starting Cycle!
+04/10/2017 16:02:16: Demanding resources from Gakos(3)
+04/10/2017 16:02:16: Successful demanded resources from Gakos
+04/10/2017 16:02:18: Demanding resources from Gavstri(1)
+04/10/2017 16:02:19: Demanding resources from Gavstri(2)
+04/10/2017 16:02:21: Demanding resources from Gavstri(3)
+04/10/2017 16:02:21: Successful demanded resources from Gavstri
+04/10/2017 16:02:24: Started triumph.
+04/10/2017 16:02:26: Started party.
+04/10/2017 16:02:28: Starting trade between 01 Es geht los and 02.2 Oz
+04/10/2017 16:02:30: 01 Es geht los has not enough resources to send.
+04/10/2017 16:02:31: Switching to 02.1 Robinatuss Stad
+04/10/2017 16:02:33: Locating Farmes for 02.1 Robinatuss Stad
+04/10/2017 16:02:37: Started party.
+04/10/2017 16:02:39: Starting trade between 02.1 Robinatuss Stad and 02.2 Oz
+04/10/2017 16:02:41: Sending resources to 02.2 Oz (Wood: 600/16663, Stone: 0/28786, Silver: 0/28786)
+04/10/2017 16:02:43: Switching to 02.2 Oz
+04/10/2017 16:02:45: Locating Farmes for 02.2 Oz
+04/10/2017 16:02:49: Switching to 03 mufftners Stadt
+04/10/2017 16:02:50: Locating Farmes for 03 mufftners Stadt
+04/10/2017 16:02:54: Starting trade between 03 mufftners Stadt and 02.2 Oz
+04/10/2017 16:02:56: Sending resources to 02.2 Oz (Wood: 0/17270, Stone: 279/28791, Silver: 279/28791)
+04/10/2017 16:02:58: Switching to 04 Smyrna
+04/10/2017 16:03:00: Locating Farmes for 04 Smyrna
+04/10/2017 16:03:04: Started party.
+04/10/2017 16:03:06: Starting trade between 04 Smyrna and 02.2 Oz
+04/10/2017 16:03:08: 04 Smyrna has not enough resources to send.
+04/10/2017 16:03:09: Switching to 05 Pallantium
+04/10/2017 16:03:11: Locating Farmes for 05 Pallantium
+04/10/2017 16:03:14: Started party.
+04/10/2017 16:03:16: Starting trade between 05 Pallantium and 02.2 Oz
+04/10/2017 16:03:18: Sending resources to 02.2 Oz (Wood: 600/17280, Stone: 0/29079, Silver: 0/29079)
+04/10/2017 16:03:20: Switching to 06 Loki
+04/11/2017 13:56:59: Started Bot V.1.0.0.0.
+04/11/2017 13:57:20: Exception in AddBuildingToBotQueue: Die Sequenz enthält kein übereinstimmendes Element.
+04/11/2017 13:59:26: Started Bot V.1.0.0.0.
+04/11/2017 13:59:44: Login to Grepolis.
+04/11/2017 13:59:57: Updating Town Data.
+04/11/2017 14:00:05: Updating Game Data.
+04/11/2017 14:00:05: Updating Building Data.
+04/11/2017 14:00:05: Updating Unit Data.
+04/11/2017 14:00:05: Login successful.
+04/11/2017 14:01:10: Started Bot V.1.0.0.0.
+04/11/2017 14:01:11: Login to Grepolis.
+04/11/2017 14:02:20: Started Bot V.1.0.0.0.
+04/11/2017 14:02:22: Login to Grepolis.
+04/11/2017 14:02:28: Updating Town Data.
+04/11/2017 14:02:30: Updating Game Data.
+04/11/2017 14:02:32: Updating Building Data.
+04/11/2017 14:02:34: Updating Unit Data.
+04/11/2017 14:02:34: Login successful.
+04/11/2017 14:02:51: Exception in RemoveBuildingFromQueueAtIndex: Der Index lag außerhalb des Bereichs. Er darf nicht negativ und kleiner als die Auflistung sein.
+Parametername: index
+04/11/2017 14:05:04: Started Bot V.1.0.0.0.
+04/11/2017 14:05:08: Login to Grepolis.
+04/11/2017 14:05:14: Updating Town Data.
+04/11/2017 14:05:16: Updating Game Data.
+04/11/2017 14:05:18: Updating Building Data.
+04/11/2017 14:05:20: Updating Unit Data.
+04/11/2017 14:05:20: Login successful.
+04/11/2017 14:07:55: Started Bot V.1.0.0.0.
+04/11/2017 14:07:56: Login to Grepolis.
+04/11/2017 14:08:02: Updating Town Data.
+04/11/2017 14:08:04: Updating Game Data.
+04/11/2017 14:08:06: Updating Building Data.
+04/11/2017 14:08:08: Updating Unit Data.
+04/11/2017 14:08:08: Login successful.
+04/11/2017 14:08:55: Exception in UpdateQueueGUI: Die Auflistung wurde geändert. Der Enumerationsvorgang kann möglicherweise nicht ausgeführt werden.
+04/11/2017 14:10:24: Started Bot V.1.0.0.0.
+04/11/2017 14:10:27: Login to Grepolis.
+04/11/2017 14:10:33: Updating Town Data.
+04/11/2017 14:10:35: Updating Game Data.
+04/11/2017 14:10:37: Updating Building Data.
+04/11/2017 14:10:39: Updating Unit Data.
+04/11/2017 14:10:40: Login successful.
+04/11/2017 14:13:56: Started Bot V.1.0.0.0.
+04/11/2017 14:13:57: Login to Grepolis.
+04/11/2017 14:14:03: Updating Town Data.
+04/11/2017 14:14:05: Updating Game Data.
+04/11/2017 14:14:07: Updating Building Data.
+04/11/2017 14:14:09: Updating Unit Data.
+04/11/2017 14:14:09: Login successful.
+04/11/2017 14:14:18: Exception in UpdateQueueGUI: Die Auflistung wurde geändert. Der Enumerationsvorgang kann möglicherweise nicht ausgeführt werden.
+04/11/2017 14:16:44: Started Bot V.1.0.0.0.
+04/11/2017 14:16:45: Login to Grepolis.
+04/11/2017 14:16:51: Updating Town Data.
+04/11/2017 14:16:53: Updating Game Data.
+04/11/2017 14:16:55: Updating Building Data.
+04/11/2017 14:16:57: Updating Unit Data.
+04/11/2017 14:16:58: Login successful.
+04/11/2017 14:17:04: Exception in RemoveBuildingFromQueueAtIndex: Der Index lag außerhalb des Bereichs. Er darf nicht negativ und kleiner als die Auflistung sein.
+Parametername: index
+04/11/2017 14:17:26: Started Bot V.1.0.0.0.
+04/11/2017 14:17:27: Login to Grepolis.
+04/11/2017 14:17:33: Updating Town Data.
+04/11/2017 14:17:35: Updating Game Data.
+04/11/2017 14:17:37: Updating Building Data.
+04/11/2017 14:17:39: Updating Unit Data.
+04/11/2017 14:17:39: Login successful.
+04/11/2017 14:23:31: Started Bot V.1.0.0.0.
+04/11/2017 14:23:33: Login to Grepolis.
+04/11/2017 14:23:51: Updating Town Data.
+04/11/2017 14:26:20: Started Bot V.1.0.0.0.
+04/11/2017 14:26:22: Login to Grepolis.
+04/11/2017 14:26:28: Updating Town Data.
+04/11/2017 14:26:33: Updating Game Data.
+04/11/2017 14:26:33: Updating Building Data.
+04/11/2017 14:26:35: Updating Unit Data.
+04/11/2017 14:26:35: Login successful.
+04/12/2017 08:17:22: Started Bot V.1.0.0.0.
+04/12/2017 08:29:11: Started Bot V.1.0.0.0.
+04/12/2017 08:29:14: Login to Grepolis.
+04/12/2017 08:29:45: Updating Town Data.
+04/12/2017 08:29:53: Updating Game Data.
+04/12/2017 08:29:53: Updating Building Data.
+04/12/2017 08:29:53: Updating Unit Data.
+04/12/2017 08:29:53: Login successful.
+04/12/2017 08:32:44: Started Bot V.1.0.0.0.
+04/12/2017 08:32:53: Login to Grepolis.
+04/12/2017 08:33:16: Updating Town Data.
+04/12/2017 08:33:18: Exception in LoadTownSettingsFromXml: Es müssen gültige Informationen angegeben werden, um die Zeichenfolge einzufügen.
+04/12/2017 08:33:23: Updating Game Data.
+04/12/2017 08:33:23: Updating Building Data.
+04/12/2017 08:33:25: Updating Unit Data.
+04/12/2017 08:33:25: Login successful.
+04/12/2017 08:34:36: Started Bot V.1.0.0.0.
+04/12/2017 08:34:44: Login to Grepolis.
+04/12/2017 08:34:51: Updating Town Data.
+04/12/2017 08:34:52: Updating Game Data.
+04/12/2017 08:34:55: Updating Building Data.
+04/12/2017 08:34:57: Updating Unit Data.
+04/12/2017 08:34:57: Login successful.
+04/12/2017 08:37:05: Started Bot V.1.0.0.0.
+04/12/2017 08:37:06: Login to Grepolis.
+04/12/2017 08:37:13: Updating Town Data.
+04/12/2017 08:37:15: Updating Game Data.
+04/12/2017 08:37:17: Updating Building Data.
+04/12/2017 08:37:19: Updating Unit Data.
+04/12/2017 08:37:19: Login successful.
+04/12/2017 08:42:22: Started Bot V.1.0.0.0.
+04/12/2017 08:42:28: Login to Grepolis.
+04/12/2017 08:43:00: Updating Town Data.
+04/12/2017 08:43:06: Updating Game Data.
+04/12/2017 08:43:06: Updating Building Data.
+04/12/2017 08:43:06: Updating Unit Data.
+04/12/2017 08:43:06: Login successful.
+04/12/2017 10:49:41: Started Bot V.1.0.0.0.
+04/12/2017 10:56:17: Login to Grepolis.
+04/12/2017 10:56:28: Updating Town Data.
+04/12/2017 10:56:31: Updating Game Data.
+04/12/2017 10:56:32: Updating Building Data.
+04/12/2017 10:56:34: Updating Unit Data.
+04/12/2017 10:56:34: Login successful.
+04/12/2017 10:57:03: Starting Cycle!
+04/12/2017 10:57:04: Switching to 01 Es geht los
+04/12/2017 10:57:06: Locating Farmes for 01 Es geht los
+04/12/2017 10:57:08: Demanding resources from Kyhyithdou(1)
+04/12/2017 10:57:10: Demanding resources from Kyhyithdou(2)
+04/12/2017 10:57:12: Demanding resources from Kyhyithdou(3)
+04/12/2017 10:57:12: Successful demanded resources from Kyhyithdou
+04/12/2017 10:57:14: Demanding resources from Dougavstriga(1)
+04/12/2017 10:57:15: Demanding resources from Dougavstriga(2)
+04/12/2017 10:57:17: Demanding resources from Dougavstriga(3)
+04/12/2017 10:57:17: Successful demanded resources from Dougavstriga
+04/12/2017 10:57:19: Demanding resources from Nagagavdra(1)
+04/12/2017 10:57:21: Demanding resources from Nagagavdra(2)
+04/12/2017 10:57:23: Demanding resources from Nagagavdra(3)
+04/12/2017 10:57:23: Successful demanded resources from Nagagavdra
+04/12/2017 10:57:25: Demanding resources from Thosgadra(1)
+04/12/2017 10:57:27: Demanding resources from Thosgadra(2)
+04/12/2017 10:57:29: Demanding resources from Thosgadra(3)
+04/12/2017 10:57:29: Successful demanded resources from Thosgadra
+04/12/2017 10:57:30: Demanding resources from Gakos(1)
+04/12/2017 10:57:32: Demanding resources from Gakos(2)
+04/12/2017 10:57:34: Demanding resources from Gakos(3)
+04/12/2017 10:57:34: Successful demanded resources from Gakos
+04/12/2017 10:57:36: Demanding resources from Gavstri(1)
+04/12/2017 10:57:37: Demanding resources from Gavstri(2)
+04/12/2017 10:57:39: Demanding resources from Gavstri(3)
+04/12/2017 10:57:40: Successful demanded resources from Gavstri
+04/12/2017 10:57:43: Started triumph.
+04/12/2017 10:57:45: Request failed. Retry CheckMainBuilding.
+04/12/2017 10:57:45: Ingame error in CheckMainBuilding
+04/12/2017 10:57:47: Request failed. Retry CheckMainBuilding.
+04/12/2017 10:57:47: Ingame error in CheckMainBuilding
+04/12/2017 10:57:49: Request failed. Retry CheckMainBuilding.
+04/12/2017 10:57:49: Ingame error in CheckMainBuilding
+04/12/2017 10:57:51: Too many retrys.
+04/12/2017 10:57:51: Ingame error in CheckMainBuilding
+04/12/2017 11:00:28: Started Bot V.1.0.0.0.
+04/12/2017 11:00:30: Login to Grepolis.
+04/12/2017 11:00:36: Updating Town Data.
+04/12/2017 11:00:39: Updating Game Data.
+04/12/2017 11:00:41: Updating Building Data.
+04/12/2017 11:00:43: Updating Unit Data.
+04/12/2017 11:00:44: Login successful.
+04/12/2017 11:00:57: Starting Cycle!
+04/12/2017 11:00:59: Switching to 01 Es geht los
+04/12/2017 11:01:01: Locating Farmes for 01 Es geht los
+04/12/2017 11:03:18: Started Bot V.1.0.0.0.
+04/12/2017 11:03:35: Login to Grepolis.
+04/12/2017 11:03:41: Updating Town Data.
+04/12/2017 11:03:43: Updating Game Data.
+04/12/2017 11:03:46: Updating Building Data.
+04/12/2017 11:03:48: Updating Unit Data.
+04/12/2017 11:03:48: Login successful.
+04/12/2017 11:03:59: Starting Cycle!
+04/12/2017 11:04:01: Switching to 01 Es geht los
+04/12/2017 11:04:03: Locating Farmes for 01 Es geht los
+04/12/2017 11:04:05: Demanding resources from Kyhyithdou(1)
+04/12/2017 11:04:06: Demanding resources from Kyhyithdou(2)
+04/12/2017 11:04:08: Demanding resources from Kyhyithdou(3)
+04/12/2017 11:04:08: Successful demanded resources from Kyhyithdou
+04/12/2017 11:04:10: Demanding resources from Dougavstriga(1)
+04/12/2017 11:04:12: Demanding resources from Dougavstriga(2)
+04/12/2017 11:04:14: Demanding resources from Dougavstriga(3)
+04/12/2017 11:04:14: Successful demanded resources from Dougavstriga
+04/12/2017 11:04:15: Demanding resources from Nagagavdra(1)
+04/12/2017 11:04:17: Demanding resources from Nagagavdra(2)
+04/12/2017 11:04:19: Demanding resources from Nagagavdra(3)
+04/12/2017 11:04:19: Successful demanded resources from Nagagavdra
+04/12/2017 11:04:21: Demanding resources from Thosgadra(1)
+04/12/2017 11:04:23: Demanding resources from Thosgadra(2)
+04/12/2017 11:04:25: Demanding resources from Thosgadra(3)
+04/12/2017 11:04:25: Successful demanded resources from Thosgadra
+04/12/2017 11:04:26: Demanding resources from Gakos(1)
+04/12/2017 11:04:27: Demanding resources from Gakos(2)
+04/12/2017 11:04:30: Demanding resources from Gakos(3)
+04/12/2017 11:04:30: Successful demanded resources from Gakos
+04/12/2017 11:04:31: Demanding resources from Gavstri(1)
+04/12/2017 11:04:32: Demanding resources from Gavstri(2)
+04/12/2017 11:04:34: Demanding resources from Gavstri(3)
+04/12/2017 11:04:34: Successful demanded resources from Gavstri
+04/12/2017 11:09:18: Started Bot V.1.0.0.0.
+04/12/2017 11:09:19: Login to Grepolis.
+04/12/2017 11:09:26: Updating Town Data.
+04/12/2017 11:09:27: Updating Game Data.
+04/12/2017 11:09:30: Updating Building Data.
+04/12/2017 11:09:32: Updating Unit Data.
+04/12/2017 11:09:32: Login successful.
+04/12/2017 11:09:46: Starting Cycle!
+04/12/2017 11:09:47: Switching to 01 Es geht los
+04/12/2017 11:09:49: Locating Farmes for 01 Es geht los
+04/12/2017 11:09:51: Demanding resources from Kyhyithdou(1)
+04/12/2017 11:09:52: Demanding resources from Kyhyithdou(2)
+04/12/2017 11:09:54: Demanding resources from Kyhyithdou(3)
+04/12/2017 11:09:54: Successful demanded resources from Kyhyithdou
+04/12/2017 11:09:56: Demanding resources from Dougavstriga(1)
+04/12/2017 11:09:58: Demanding resources from Dougavstriga(2)
+04/12/2017 11:10:00: Demanding resources from Dougavstriga(3)
+04/12/2017 11:10:00: Successful demanded resources from Dougavstriga
+04/12/2017 11:10:02: Demanding resources from Nagagavdra(1)
+04/12/2017 11:10:04: Demanding resources from Nagagavdra(2)
+04/12/2017 11:10:05: Demanding resources from Nagagavdra(3)
+04/12/2017 11:10:05: Successful demanded resources from Nagagavdra
+04/12/2017 11:10:07: Demanding resources from Thosgadra(1)
+04/12/2017 11:10:09: Demanding resources from Thosgadra(2)
+04/12/2017 11:10:11: Demanding resources from Thosgadra(3)
+04/12/2017 11:10:11: Successful demanded resources from Thosgadra
+04/12/2017 11:10:12: Demanding resources from Gakos(1)
+04/12/2017 11:10:15: Demanding resources from Gakos(2)
+04/12/2017 11:10:17: Demanding resources from Gakos(3)
+04/12/2017 11:10:17: Successful demanded resources from Gakos
+04/12/2017 11:10:19: Demanding resources from Gavstri(1)
+04/12/2017 11:10:21: Demanding resources from Gavstri(2)
+04/12/2017 11:10:22: Demanding resources from Gavstri(3)
+04/12/2017 11:10:23: Successful demanded resources from Gavstri
+04/12/2017 11:11:55: Started Bot V.1.0.0.0.
+04/12/2017 11:11:57: Login to Grepolis.
+04/12/2017 11:12:03: Updating Town Data.
+04/12/2017 11:12:05: Updating Game Data.
+04/12/2017 11:12:08: Updating Building Data.
+04/12/2017 11:12:09: Updating Unit Data.
+04/12/2017 11:12:10: Login successful.
+04/12/2017 11:12:22: Starting Cycle!
+04/12/2017 11:12:24: Switching to 01 Es geht los
+04/12/2017 11:12:26: Locating Farmes for 01 Es geht los
+04/12/2017 14:10:09: Started Bot V.1.0.0.0.
+04/12/2017 14:10:59: Login to Grepolis.
+04/12/2017 14:11:14: Updating Town Data.
+04/12/2017 14:11:19: Updating Game Data.
+04/12/2017 14:11:19: Updating Building Data.
+04/12/2017 14:11:21: Updating Unit Data.
+04/12/2017 14:11:21: Login successful.
+04/12/2017 14:12:43: Starting Cycle!
+04/12/2017 14:12:45: Switching to 01 Es geht los
+04/12/2017 14:12:46: Locating Farmes for 01 Es geht los
+04/12/2017 14:12:48: Demanding resources from Kyhyithdou(1)
+04/12/2017 14:12:50: Demanding resources from Kyhyithdou(2)
+04/12/2017 14:12:51: Demanding resources from Kyhyithdou(3)
+04/12/2017 14:12:51: Successful demanded resources from Kyhyithdou
+04/12/2017 14:12:53: Demanding resources from Dougavstriga(1)
+04/12/2017 14:12:55: Demanding resources from Dougavstriga(2)
+04/12/2017 14:12:57: Demanding resources from Dougavstriga(3)
+04/12/2017 14:12:57: Successful demanded resources from Dougavstriga
+04/12/2017 14:12:59: Demanding resources from Nagagavdra(1)
+04/12/2017 14:13:00: Demanding resources from Nagagavdra(2)
+04/12/2017 14:13:02: Demanding resources from Nagagavdra(3)
+04/12/2017 14:13:02: Successful demanded resources from Nagagavdra
+04/12/2017 14:13:04: Demanding resources from Thosgadra(1)
+04/12/2017 14:13:06: Demanding resources from Thosgadra(2)
+04/12/2017 14:13:08: Demanding resources from Thosgadra(3)
+04/12/2017 14:13:08: Successful demanded resources from Thosgadra
+04/12/2017 14:13:10: Demanding resources from Gakos(1)
+04/12/2017 14:13:12: Demanding resources from Gakos(2)
+04/12/2017 14:13:14: Demanding resources from Gakos(3)
+04/12/2017 14:13:14: Successful demanded resources from Gakos
+04/12/2017 14:13:16: Demanding resources from Gavstri(1)
+04/12/2017 14:13:17: Demanding resources from Gavstri(2)
+04/12/2017 14:13:19: Demanding resources from Gavstri(3)
+04/12/2017 14:13:20: Successful demanded resources from Gavstri
+04/12/2017 14:13:23: Started triumph.
+04/12/2017 14:15:53: Nothing to build.
+04/12/2017 14:15:54: Starting trade between 01 Es geht los and 02.2 Oz
+04/12/2017 14:15:56: Sending resources to 02.2 Oz (Wood: 0/30600, Stone: 644/28426, Silver: 644/28426)
+04/12/2017 14:15:58: Switching to 02.1 Robinatuss Stad
+04/12/2017 14:15:59: Locating Farmes for 02.1 Robinatuss Stad
+04/12/2017 14:16:10: Building queue is disabled.
+04/12/2017 14:16:11: Starting trade between 02.1 Robinatuss Stad and 02.2 Oz
+04/12/2017 14:16:13: 02.2 Oz has enough resources.
+04/12/2017 14:16:15: Switching to 02.2 Oz
+04/12/2017 14:16:17: Locating Farmes for 02.2 Oz
+04/12/2017 14:16:22: Building queue is disabled.
+04/12/2017 14:16:23: Switching to 03 mufftners Stadt
+04/12/2017 14:16:25: Locating Farmes for 03 mufftners Stadt
+04/12/2017 14:16:30: Building queue is disabled.
+04/12/2017 14:16:32: Starting trade between 03 mufftners Stadt and 02.2 Oz
+04/12/2017 14:16:34: 02.2 Oz has enough resources.
+04/12/2017 14:16:36: Switching to 04 Smyrna
+04/12/2017 14:16:37: Locating Farmes for 04 Smyrna
+04/12/2017 14:16:42: Building queue is disabled.
+04/12/2017 14:16:44: Starting trade between 04 Smyrna and 02.2 Oz
+04/12/2017 14:16:45: 02.2 Oz has enough resources.
+04/12/2017 14:16:47: Switching to 05 Pallantium
+04/12/2017 14:16:49: Locating Farmes for 05 Pallantium
+04/12/2017 14:19:30: Starting Cycle!
+04/12/2017 14:19:34: Building queue is disabled.
+04/12/2017 14:19:36: Starting trade between 05 Pallantium and 02.2 Oz
+04/12/2017 14:19:37: 02.2 Oz has enough resources.
+04/12/2017 14:19:39: Switching to 06 Loki
+04/12/2017 14:19:41: Locating Farmes for 06 Loki
+04/12/2017 14:19:46: Building queue is disabled.
+04/12/2017 14:19:48: Starting trade between 06 Loki and 02.2 Oz
+04/12/2017 14:19:50: 02.2 Oz has enough resources.
+04/12/2017 14:19:52: Switching to 07 Robinatuss Stadt
+04/12/2017 14:19:53: Locating Farmes for 07 Robinatuss Stadt
+04/12/2017 14:19:57: Started party.
+04/12/2017 14:20:01: Building queue is disabled.
+04/12/2017 14:20:03: Starting trade between 07 Robinatuss Stadt and 02.2 Oz
+04/12/2017 14:20:04: 02.2 Oz has enough resources.
+04/12/2017 14:20:06: Switching to 08 Löwenstein
+04/12/2017 14:20:07: Locating Farmes for 08 Löwenstein
+04/12/2017 14:20:13: Building queue is disabled.
+04/12/2017 14:20:14: Starting trade between 08 Löwenstein and 02.2 Oz
+04/12/2017 14:20:16: 08 Löwenstein has not enough resources to send.
+04/12/2017 14:20:17: Switching to 09.1 Kätzchen
+04/12/2017 14:20:19: Locating Farmes for 09.1 Kätzchen
+04/12/2017 14:20:24: Building queue is disabled.
+04/12/2017 14:20:26: Starting trade between 09.1 Kätzchen and 09.2 Scheiß Red Bull
+04/12/2017 14:20:27: Not enough resources for 09.2 Scheiß Red Bull / trade capacity. (Trade capacity: 10000, Wood: 1171, Stone: 4518, Silver: 15600)
+04/12/2017 14:20:29: Switching to 09.2 Scheiß Red Bull
+04/12/2017 14:20:31: Locating Farmes for 09.2 Scheiß Red Bull
+04/12/2017 14:20:36: Building queue is disabled.
+04/12/2017 14:20:38: Switching to 10 Noch einers Stadt
+04/12/2017 14:20:39: Locating Farmes for 10 Noch einers Stadt
+04/12/2017 14:20:45: Nothing to build.
+04/12/2017 14:20:46: Switching to 11.1 Sturmwind
+04/12/2017 14:20:48: Locating Farmes for 11.1 Sturmwind
+04/12/2017 14:20:57: Building queue is disabled.
+04/12/2017 14:20:59: Starting trade between 11.1 Sturmwind and 09.2 Scheiß Red Bull
+04/12/2017 14:21:01: 11.1 Sturmwind has not enough resources to send.
+04/12/2017 14:21:02: Switching to 11.2 Jochen
+04/12/2017 14:21:03: Locating Farmes for 11.2 Jochen
+04/12/2017 14:21:11: Building queue is disabled.
+04/12/2017 14:21:12: Starting trade between 11.2 Jochen and 09.2 Scheiß Red Bull
+04/12/2017 14:21:14: 11.2 Jochen has not enough resources to send.
+04/12/2017 14:21:15: Switching to 12 Pfui I
+04/12/2017 14:21:17: Locating Farmes for 12 Pfui I
+04/12/2017 14:21:24: Building queue is disabled.
+04/12/2017 14:21:25: Starting trade between 12 Pfui I and 09.2 Scheiß Red Bull
+04/12/2017 14:21:27: Sending resources to 09.2 Scheiß Red Bull (Wood: 600/9511, Stone: 0/29959, Silver: 0/29959)
+04/12/2017 14:21:29: Switching to 13 TekNo.a
+04/12/2017 14:21:30: Locating Farmes for 13 TekNo.a
+04/12/2017 14:21:39: Building queue is disabled.
+04/12/2017 14:21:41: Switching to 14 011
+04/12/2017 14:21:42: Locating Farmes for 14 011
+04/12/2017 14:21:50: Building queue is disabled.
+04/12/2017 14:21:51: Starting trade between 14 011 and 10 Noch einers Stadt
+04/12/2017 14:21:53: Sending resources to 10 Noch einers Stadt (Wood: 0/10787, Stone: 819/4443, Silver: 0/4443)
+04/12/2017 14:21:55: Switching to 15 Weisswasserhafen
+04/12/2017 14:21:56: Locating Farmes for 15 Weisswasserhafen
+04/13/2017 09:13:26: Started Bot V.1.0.0.0.
+04/13/2017 09:14:39: Login to Grepolis.
+04/13/2017 09:14:53: Updating Town Data.
+04/13/2017 09:14:56: Exception in UpdateGameDataResponse: Der Index lag außerhalb des Bereichs. Er darf nicht negativ und kleiner als die Auflistung sein.
+Parametername: startIndex
+04/13/2017 09:14:58: Updating Game Data.
+04/13/2017 09:14:58: Updating Building Data.
+04/13/2017 09:15:00: Updating Unit Data.
+04/13/2017 09:15:01: Login successful.
+04/13/2017 09:19:09: Starting Cycle!
+04/13/2017 09:19:11: Switching to 01 Es geht los
+04/13/2017 09:19:12: Locating Farmes for 01 Es geht los
+04/13/2017 09:19:14: Demanding resources from Kyhyithdou(1)
+04/13/2017 09:19:16: Demanding resources from Kyhyithdou(2)
+04/13/2017 09:19:16: Request failed. Retry GetTownSpecificData.
+04/13/2017 09:19:16: Ingame error in GetTownSpecificData
+04/13/2017 09:19:18: Demanding resources from Kyhyithdou(2)
+04/13/2017 09:19:18: Request failed. Retry GetTownSpecificData.
+04/13/2017 09:19:18: Ingame error in GetTownSpecificData
+04/13/2017 09:19:20: Demanding resources from Kyhyithdou(2)
+04/13/2017 09:19:20: Request failed. Retry GetTownSpecificData.
+04/13/2017 09:19:20: Ingame error in GetTownSpecificData
+04/13/2017 09:19:22: Demanding resources from Kyhyithdou(2)
+04/13/2017 09:19:22: Too many retrys.
+04/13/2017 09:19:22: Ingame error in GetTownSpecificData
+04/13/2017 09:20:52: Started Bot V.1.0.0.0.
+04/13/2017 09:20:54: Login to Grepolis.
+04/13/2017 09:20:59: Updating Town Data.
+04/13/2017 09:21:01: Updating Game Data.
+04/13/2017 09:21:02: Exception in UpdateGameDataResponse: Der Index lag außerhalb des Bereichs. Er darf nicht negativ und kleiner als die Auflistung sein.
+Parametername: startIndex
+04/13/2017 09:21:04: Updating Building Data.
+04/13/2017 09:21:06: Updating Unit Data.
+04/13/2017 09:22:05: Started Bot V.1.0.0.0.
+04/13/2017 09:22:12: Login to Grepolis.
+04/13/2017 09:22:18: Updating Town Data.
+04/13/2017 09:22:20: Updating Game Data.
+04/13/2017 09:22:23: Updating Building Data.
+04/13/2017 09:22:25: Updating Unit Data.
+04/13/2017 09:22:25: Login successful.
+04/13/2017 09:22:37: Starting Cycle!
+04/13/2017 09:22:39: Switching to 01 Es geht los
+04/13/2017 09:22:41: Locating Farmes for 01 Es geht los
+04/13/2017 09:22:43: Demanding resources from Kyhyithdou(1)
+04/13/2017 09:22:45: Demanding resources from Kyhyithdou(2)
+04/13/2017 09:22:47: Demanding resources from Kyhyithdou(3)
+04/13/2017 09:22:47: Successful demanded resources from Kyhyithdou
+04/13/2017 09:22:48: Demanding resources from Dougavstriga(1)
+04/13/2017 09:22:50: Demanding resources from Dougavstriga(2)
+04/13/2017 09:22:52: Demanding resources from Dougavstriga(3)
+04/13/2017 09:22:52: Successful demanded resources from Dougavstriga
+04/13/2017 09:22:54: Demanding resources from Nagagavdra(1)
+04/13/2017 09:22:56: Demanding resources from Nagagavdra(2)
+04/13/2017 09:22:58: Demanding resources from Nagagavdra(3)
+04/13/2017 09:22:58: Successful demanded resources from Nagagavdra
+04/13/2017 09:22:59: Demanding resources from Thosgadra(1)
+04/13/2017 09:23:01: Demanding resources from Thosgadra(2)
+04/13/2017 09:23:04: Demanding resources from Thosgadra(3)
+04/13/2017 09:23:04: Successful demanded resources from Thosgadra
+04/13/2017 09:23:05: Demanding resources from Gakos(1)
+04/13/2017 09:23:07: Demanding resources from Gakos(2)
+04/13/2017 09:23:09: Demanding resources from Gakos(3)
+04/13/2017 09:23:09: Successful demanded resources from Gakos
+04/13/2017 09:23:11: Demanding resources from Gavstri(1)
+04/13/2017 09:23:13: Demanding resources from Gavstri(2)
+04/13/2017 09:23:14: Demanding resources from Gavstri(3)
+04/13/2017 09:23:15: Successful demanded resources from Gavstri
+04/13/2017 09:23:18: Started triumph.
+04/13/2017 09:23:20: Started party.
+04/13/2017 09:23:24: Starting trade between 01 Es geht los and 02.2 Oz
+04/13/2017 09:23:26: Not enough resources for 02.2 Oz / trade capacity. (Trade capacity: 10000, Wood: 10407, Stone: 12600, Silver: 15600)
+04/13/2017 09:23:28: Switching to 02.1 Robinatuss Stad
+04/13/2017 09:23:30: Locating Farmes for 02.1 Robinatuss Stad
+04/13/2017 09:23:33: Started party.
+04/13/2017 09:23:37: Starting trade between 02.1 Robinatuss Stad and 02.2 Oz
+04/13/2017 09:23:39: Sending resources to 02.2 Oz (Wood: 600/624, Stone: 0/28723, Silver: 0/28723)
+04/13/2017 09:23:41: Switching to 02.2 Oz
+04/13/2017 09:23:43: Locating Farmes for 02.2 Oz
+04/13/2017 09:23:49: Switching to 03 mufftners Stadt
+04/13/2017 09:23:51: Locating Farmes for 03 mufftners Stadt
+04/13/2017 09:23:54: Started party.
+04/13/2017 09:23:58: Starting trade between 03 mufftners Stadt and 02.2 Oz
+04/13/2017 09:23:59: Sending resources to 02.2 Oz (Wood: 600/1234, Stone: 0/28731, Silver: 0/28731)
+04/13/2017 09:24:01: Switching to 04 Smyrna
+04/13/2017 09:24:03: Locating Farmes for 04 Smyrna
+04/13/2017 09:24:07: Started party.
+04/13/2017 09:24:11: Starting trade between 04 Smyrna and 02.2 Oz
+04/13/2017 09:24:12: Sending resources to 02.2 Oz (Wood: 600/1840, Stone: 0/28736, Silver: 0/28736)
+04/13/2017 09:24:14: Switching to 05 Pallantium
+04/13/2017 09:24:16: Locating Farmes for 05 Pallantium
+04/13/2017 09:24:20: Switching to 06 Loki
+04/13/2017 09:24:22: Locating Farmes for 06 Loki
+04/13/2017 09:24:26: Started party.
+04/13/2017 09:24:29: Starting trade between 06 Loki and 05 Pallantium
+04/13/2017 09:24:31: Sending resources to 05 Pallantium (Wood: 600/462, Stone: 0/23812, Silver: 600/23812)
+04/13/2017 09:24:32: Switching to 07 Robinatuss Stadt
+04/13/2017 09:24:34: Locating Farmes for 07 Robinatuss Stadt
+04/13/2017 09:24:40: Starting trade between 07 Robinatuss Stadt and 05 Pallantium
+04/13/2017 09:24:42: 07 Robinatuss Stadt has not enough resources to send.
+04/13/2017 09:24:44: Switching to 08 Löwenstein
+04/13/2017 09:24:46: Locating Farmes for 08 Löwenstein
+04/13/2017 09:24:50: Started party.
+04/13/2017 09:24:54: Starting trade between 08 Löwenstein and 02.2 Oz
+04/13/2017 09:24:56: 08 Löwenstein has not enough resources to send.
+04/13/2017 09:24:58: Switching to 09.1 Kätzchen
+04/13/2017 09:24:59: Locating Farmes for 09.1 Kätzchen
+04/13/2017 09:25:05: Starting trade between 09.1 Kätzchen and 10 Noch einers Stadt
+04/13/2017 09:25:06: Sending resources to 10 Noch einers Stadt (Wood: 0/18418, Stone: 0/4713, Silver: 600/4713)
+04/13/2017 09:25:08: Switching to 09.2 Scheiß Red Bull
+04/13/2017 09:25:09: Locating Farmes for 09.2 Scheiß Red Bull
+04/13/2017 09:25:15: Starting trade between 09.2 Scheiß Red Bull and 10 Noch einers Stadt
+04/13/2017 09:25:16: Sending resources to 10 Noch einers Stadt (Wood: 0/18422, Stone: 6935/4716, Silver: 1566/5316)
+04/13/2017 09:25:18: Switching to 10 Noch einers Stadt
+04/13/2017 09:25:20: Locating Farmes for 10 Noch einers Stadt
+04/13/2017 09:25:25: Switching to 11.1 Sturmwind
+04/13/2017 09:25:27: Locating Farmes for 11.1 Sturmwind
+04/13/2017 09:25:32: Switching to 11.2 Jochen
+04/13/2017 09:25:34: Locating Farmes for 11.2 Jochen
+04/13/2017 09:25:38: Started party.
+04/13/2017 09:25:41: Starting trade between 11.2 Jochen and 11.1 Sturmwind
+04/13/2017 09:25:43: 11.2 Jochen has not enough resources to send.
+04/13/2017 09:25:45: Switching to 12 Pfui I
+04/13/2017 09:25:46: Locating Farmes for 12 Pfui I
+04/13/2017 09:25:50: Started party.
+04/13/2017 09:25:53: Starting trade between 12 Pfui I and 11.1 Sturmwind
+04/13/2017 09:25:55: Sending resources to 11.1 Sturmwind (Wood: 600/3626, Stone: 0/19012, Silver: 600/19012)
+04/13/2017 09:25:57: Switching to 13 TekNo.a
+04/13/2017 09:25:59: Locating Farmes for 13 TekNo.a
+04/13/2017 09:26:03: Started party.
+04/13/2017 09:26:06: Starting trade between 13 TekNo.a and 16 Banana
+04/13/2017 09:26:07: 13 TekNo.a has not enough resources to send.
+04/13/2017 09:26:08: Switching to 14 011
+04/13/2017 09:26:11: Locating Farmes for 14 011
+04/13/2017 09:26:15: Started party.
+04/13/2017 09:26:18: Starting trade between 14 011 and 10 Noch einers Stadt
+04/13/2017 09:26:20: 14 011 has not enough resources to send.
+04/13/2017 09:26:22: Switching to 15 Weisswasserhafen
+04/13/2017 09:26:24: Locating Farmes for 15 Weisswasserhafen
+04/13/2017 09:26:28: Switching to 16 Banana
+04/13/2017 09:26:29: Locating Farmes for 16 Banana
+04/13/2017 09:26:34: Finished Cycle!
+04/13/2017 09:27:32: Started Bot V.1.0.0.0.
+04/13/2017 09:40:07: Started Bot V.1.0.0.0.
+04/13/2017 09:40:09: Login to Grepolis.
+04/13/2017 09:41:04: Started Bot V.1.0.0.0.
+04/13/2017 09:41:06: Login to Grepolis.
+04/13/2017 09:41:12: Updating Town Data.
+04/13/2017 09:41:14: Updating Game Data.
+04/13/2017 09:41:17: Updating Building Data.
+04/13/2017 09:41:19: Updating Unit Data.
+04/13/2017 09:41:19: Login successful.
+04/13/2017 09:41:38: Starting Cycle!
+04/13/2017 09:41:40: Switching to 01 Es geht los
+04/13/2017 09:41:42: 01 Es geht los: Locating Farmers.
+04/13/2017 09:41:44: 01 Es geht los: Demanding resources from Kyhyithdou.
+04/13/2017 09:41:49: 01 Es geht los: Successful demanded resources from Kyhyithdou.
+04/13/2017 09:41:50: 01 Es geht los: Demanding resources from Dougavstriga.
+04/13/2017 09:41:55: 01 Es geht los: Successful demanded resources from Dougavstriga.
+04/13/2017 09:41:56: 01 Es geht los: Demanding resources from Nagagavdra.
+04/13/2017 09:42:00: 01 Es geht los: Successful demanded resources from Nagagavdra.
+04/13/2017 09:42:01: 01 Es geht los: Demanding resources from Thosgadra.
+04/13/2017 09:42:05: 01 Es geht los: Successful demanded resources from Thosgadra.
+04/13/2017 09:42:07: 01 Es geht los: Demanding resources from Gakos.
+04/13/2017 09:42:11: 01 Es geht los: Successful demanded resources from Gakos.
+04/13/2017 09:42:13: 01 Es geht los: Demanding resources from Gavstri.
+04/13/2017 09:42:17: 01 Es geht los: Successful demanded resources from Gavstri.
+04/13/2017 09:42:22: 01 Es geht los: Nothing to build.
+04/13/2017 09:42:24: 01 Es geht los: Starting trade between 01 Es geht los and 02.2 Oz.
+04/13/2017 09:42:26: 01 Es geht los: Not enough resources for 02.2 Oz / trade capacity. (Trade capacity: 10000, Wood: 11081, Stone: 13460, Silver: 16367)
+04/13/2017 09:42:28: Switching to 02.1 Robinatuss Stad
+04/13/2017 09:42:30: 02.1 Robinatuss Stad: Locating Farmers.
+04/13/2017 09:42:35: 02.1 Robinatuss Stad: Nothing to build.
+04/13/2017 09:42:37: 02.1 Robinatuss Stad: Starting trade between 02.1 Robinatuss Stad and 02.2 Oz.
+04/13/2017 09:42:38: 02.1 Robinatuss Stad: Not enough resources for 02.2 Oz / trade capacity. (Trade capacity: 10000, Wood: 15003, Stone: 12602, Silver: 15602)
+04/13/2017 09:42:40: Switching to 02.2 Oz
+04/13/2017 09:42:41: 02.2 Oz: Locating Farmers.
+04/13/2017 09:42:47: 02.2 Oz: Nothing to build.
+04/13/2017 09:42:49: Switching to 03 mufftners Stadt
+04/13/2017 09:42:51: 03 mufftners Stadt: Locating Farmers.
+04/13/2017 09:42:56: 03 mufftners Stadt: Building queue is disabled.
+04/13/2017 09:42:58: 03 mufftners Stadt: Starting trade between 03 mufftners Stadt and 02.2 Oz.
+04/13/2017 09:43:00: 03 mufftners Stadt: Not enough resources for 02.2 Oz / trade capacity. (Trade capacity: 10000, Wood: 15002, Stone: 12602, Silver: 15603)
+04/13/2017 09:43:01: Switching to 04 Smyrna
+04/13/2017 09:43:03: 04 Smyrna: Locating Farmers.
+04/13/2017 09:43:08: 04 Smyrna: Building queue is disabled.
+04/13/2017 09:43:10: 04 Smyrna: Starting trade between 04 Smyrna and 02.2 Oz.
+04/13/2017 09:43:12: 04 Smyrna: Not enough resources for 02.2 Oz / trade capacity. (Trade capacity: 10000, Wood: 15002, Stone: 12603, Silver: 15602)
+04/13/2017 09:43:13: Switching to 05 Pallantium
+04/13/2017 09:43:15: 05 Pallantium: Locating Farmers.
+04/13/2017 09:43:20: 05 Pallantium: Building queue is disabled.
+04/13/2017 09:43:22: Switching to 06 Loki
+04/13/2017 09:43:23: 06 Loki: Locating Farmers.
+04/13/2017 09:43:29: 06 Loki: Building queue is disabled.
+04/13/2017 09:43:30: 06 Loki: Starting trade between 06 Loki and 05 Pallantium.
+04/13/2017 09:43:32: 06 Loki: Not enough resources to send.
+04/13/2017 09:43:33: Switching to 07 Robinatuss Stadt
+04/13/2017 09:43:35: 07 Robinatuss Stadt: Locating Farmers.
+04/13/2017 09:43:41: 07 Robinatuss Stadt: Building queue is disabled.
+04/13/2017 09:43:43: 07 Robinatuss Stadt: Starting trade between 07 Robinatuss Stadt and 05 Pallantium.
+04/13/2017 09:43:45: 07 Robinatuss Stadt: Not enough resources to send.
+04/13/2017 09:43:47: Switching to 08 Löwenstein
+04/13/2017 09:43:49: 08 Löwenstein: Locating Farmers.
+04/13/2017 09:43:54: 08 Löwenstein: Building queue is disabled.
+04/13/2017 09:43:55: 08 Löwenstein: Starting trade between 08 Löwenstein and 02.2 Oz.
+04/13/2017 09:43:57: 08 Löwenstein: Not enough resources to send.
+04/13/2017 09:43:59: Switching to 09.1 Kätzchen
+04/13/2017 09:44:00: 09.1 Kätzchen: Locating Farmers.
+04/13/2017 09:44:05: 09.1 Kätzchen: Building queue is disabled.
+04/13/2017 09:44:06: 09.1 Kätzchen: Starting trade between 09.1 Kätzchen and 10 Noch einers Stadt.
+04/13/2017 09:44:08: 09.1 Kätzchen: Sending resources to 10 Noch einers Stadt. (Wood: 0/18851, Stone: 0/11989, Silver: 3706/11989)
+04/13/2017 09:44:10: Switching to 09.2 Scheiß Red Bull
+04/13/2017 09:44:12: 09.2 Scheiß Red Bull: Locating Farmers.
+04/13/2017 09:44:17: 09.2 Scheiß Red Bull: Building queue is disabled.
+04/13/2017 09:44:18: 09.2 Scheiß Red Bull: Starting trade between 09.2 Scheiß Red Bull and 10 Noch einers Stadt.
+04/13/2017 09:44:20: 09.2 Scheiß Red Bull: Sending resources to 10 Noch einers Stadt. (Wood: 0/18856, Stone: 3050/11993, Silver: 3714/15699)
+04/13/2017 09:44:22: Switching to 10 Noch einers Stadt
+04/13/2017 09:44:24: 10 Noch einers Stadt: Locating Farmers.
+04/13/2017 09:44:29: 10 Noch einers Stadt: Adding temple to ingame queue.
+04/13/2017 09:44:31: Switching to 11.1 Sturmwind
+04/13/2017 09:44:33: 11.1 Sturmwind: Locating Farmers.
+04/13/2017 09:44:38: 11.1 Sturmwind: Building queue is disabled.
+04/13/2017 09:44:40: Switching to 11.2 Jochen
+04/13/2017 09:44:41: 11.2 Jochen: Locating Farmers.
+04/13/2017 09:44:47: 11.2 Jochen: Building queue is disabled.
+04/13/2017 09:44:49: 11.2 Jochen: Starting trade between 11.2 Jochen and 11.1 Sturmwind.
+04/13/2017 09:44:51: 11.2 Jochen: Not enough resources to send.
+04/13/2017 09:44:53: Switching to 12 Pfui I
+04/13/2017 09:44:54: 12 Pfui I: Locating Farmers.
+04/13/2017 09:44:59: 12 Pfui I: Building queue is disabled.
+04/13/2017 09:45:01: 12 Pfui I: Starting trade between 12 Pfui I and 11.1 Sturmwind.
+04/13/2017 09:45:03: 12 Pfui I: Not enough resources to send.
+04/13/2017 09:45:04: Switching to 13 TekNo.a
+04/13/2017 09:45:06: 13 TekNo.a: Locating Farmers.
+04/13/2017 09:45:12: 13 TekNo.a: Building queue is disabled.
+04/13/2017 09:45:14: 13 TekNo.a: Starting trade between 13 TekNo.a and 16 Banana.
+04/13/2017 09:45:15: 13 TekNo.a: Not enough resources to send.
+04/13/2017 09:45:17: Switching to 14 011
+04/13/2017 09:45:19: 14 011: Locating Farmers.
+04/13/2017 09:45:25: 14 011: Adding docks to ingame queue.
+04/13/2017 09:45:27: 14 011: Starting trade between 14 011 and 10 Noch einers Stadt.
+04/13/2017 09:45:29: 14 011: Not enough resources to send.
+04/13/2017 09:45:31: Switching to 15 Weisswasserhafen
+04/13/2017 09:45:33: 15 Weisswasserhafen: Locating Farmers.
+04/13/2017 09:45:36: 15 Weisswasserhafen: Adding market to ingame queue.
+04/13/2017 09:45:38: Switching to 16 Banana
+04/13/2017 09:45:39: 16 Banana: Locating Farmers.
+04/13/2017 09:45:44: 16 Banana: Adding market to ingame queue.
+04/13/2017 09:45:46: Finished Cycle!
+04/21/2017 14:37:40: Started Bot V.1.0.0.0.
+04/21/2017 14:37:50: Login to Grepolis.
+04/21/2017 14:39:09: Started Bot V.1.0.0.0.
+04/21/2017 14:39:15: Login to Grepolis.
+04/21/2017 14:41:01: Started Bot V.1.0.0.0.
+04/21/2017 14:41:03: Login to Grepolis.
+05/04/2017 16:51:24: Started Bot V.1.0.0.0.
+05/04/2017 16:51:32: Login to Grepolis.
+05/04/2017 16:52:22: Updating Town Data.
+05/04/2017 16:52:24: Updating Game Data.
+05/04/2017 16:52:28: Updating Building Data.
+05/04/2017 16:52:31: Updating Unit Data.
+05/04/2017 16:52:32: Login successful.
+05/18/2017 11:30:50: Started Bot V.1.0.0.0.
+05/18/2017 11:33:03: Login to Grepolis.
+05/18/2017 11:33:16: Updating Town Data.
+05/18/2017 11:33:22: Updating Game Data.
+05/18/2017 11:33:22: Updating Building Data.
+05/18/2017 11:33:23: Updating Unit Data.
+05/18/2017 11:33:23: Login successful.
+05/18/2017 11:45:56: Starting Cycle!
+05/18/2017 11:45:57: Switching to 01.1 Knie nieder
+05/18/2017 11:45:59: 01.1 Knie nieder: Locating Farmers.
+05/18/2017 11:46:04: 01.1 Knie nieder: Nothing to build.
+05/18/2017 11:46:06: Switching to 01.2 Knie nieder I
+05/18/2017 11:46:08: 01.2 Knie nieder I: Locating Farmers.
+05/18/2017 11:46:13: 01.2 Knie nieder I: Demolishing barracks .
+05/18/2017 11:46:15: 01.2 Knie nieder I: Teardown barracks.
+05/18/2017 11:46:16: Switching to 02.1 Robinatuss Stad
+05/18/2017 11:46:18: 02.1 Robinatuss Stad: Locating Farmers.
+05/18/2017 11:46:24: 02.1 Robinatuss Stad: Nothing to build.
+05/18/2017 11:46:25: 02.1 Robinatuss Stad: Starting trade between 02.1 Robinatuss Stad and 01.2 Knie nieder I.
+05/18/2017 11:46:27: 02.1 Robinatuss Stad: Sending resources to 01.2 Knie nieder I. (Wood: 600/3530, Stone: 0/6742, Silver: 600/6742)
+05/18/2017 11:46:29: Switching to 02.2 Oz
+05/18/2017 11:46:30: 02.2 Oz: Locating Farmers.
+05/18/2017 11:46:35: 02.2 Oz: Nothing to build.
+05/18/2017 11:46:36: 02.2 Oz: Starting trade between 02.2 Oz and 01.2 Knie nieder I.
+05/18/2017 11:46:38: 02.2 Oz: Sending resources to 01.2 Knie nieder I. (Wood: 600/4137, Stone: 0/6748, Silver: 600/7348)
+05/18/2017 11:46:40: Switching to 03 mufftners Stadt
+05/18/2017 11:46:42: 03 mufftners Stadt: Locating Farmers.
+05/18/2017 11:46:48: 03 mufftners Stadt: Nothing to build.
+05/18/2017 11:46:49: 03 mufftners Stadt: Starting trade between 03 mufftners Stadt and 01.1 Knie nieder.
+05/18/2017 11:46:51: 03 mufftners Stadt: Sending resources to 01.1 Knie nieder. (Wood: 600/3412, Stone: 0/25228, Silver: 600/25228)
+05/18/2017 11:46:53: Switching to 05 Pallantium
+05/18/2017 11:46:55: 05 Pallantium: Locating Farmers.
+05/18/2017 11:47:00: 05 Pallantium: Nothing to build.
+05/18/2017 11:47:01: 05 Pallantium: Starting trade between 05 Pallantium and 01.1 Knie nieder.
+05/18/2017 11:47:03: 05 Pallantium: Sending resources to 01.1 Knie nieder. (Wood: 600/4019, Stone: 0/25233, Silver: 600/25833)
+05/18/2017 11:47:04: Switching to 06 Loki
+05/18/2017 11:47:06: 06 Loki: Locating Farmers.
+05/18/2017 11:47:12: 06 Loki: Building queue is disabled.
+05/18/2017 11:47:14: 06 Loki: Starting trade between 06 Loki and 01.1 Knie nieder.
+05/18/2017 11:47:16: 06 Loki: Sending resources to 01.1 Knie nieder. (Wood: 600/4626, Stone: 0/25239, Silver: 600/26439)
+05/18/2017 11:47:17: Switching to 07 Robinatuss Stadt
+05/18/2017 11:47:19: 07 Robinatuss Stadt: Locating Farmers.
+05/18/2017 11:47:24: 07 Robinatuss Stadt: Building queue is disabled.
+05/18/2017 11:47:25: 07 Robinatuss Stadt: Starting trade between 07 Robinatuss Stadt and 01.2 Knie nieder I.
+05/18/2017 11:47:27: 07 Robinatuss Stadt: Not enough resources to send.
+05/18/2017 11:47:29: Switching to 08 Löwenstein
+05/18/2017 11:47:31: 08 Löwenstein: Locating Farmers.
+05/18/2017 11:47:35: 08 Löwenstein: Started party.
+05/18/2017 11:47:38: 08 Löwenstein: Building queue is disabled.
+05/18/2017 11:47:39: 08 Löwenstein: Starting trade between 08 Löwenstein and 01.2 Knie nieder I.
+05/18/2017 11:47:41: 08 Löwenstein: Not enough resources to send.
+05/18/2017 11:47:43: Switching to 09.1 Kätzchen
+05/18/2017 11:47:45: 09.1 Kätzchen: Locating Farmers.
+05/18/2017 11:47:51: 09.1 Kätzchen: Building queue is disabled.
+05/18/2017 11:47:52: 09.1 Kätzchen: Starting trade between 09.1 Kätzchen and 01.1 Knie nieder.
+05/18/2017 11:47:54: 09.1 Kätzchen: Sending resources to 01.1 Knie nieder. (Wood: 600/5248, Stone: 0/25257, Silver: 600/27057)
+05/18/2017 11:47:56: Switching to 09.2 Scheiß Red Bull
+05/18/2017 11:47:57: 09.2 Scheiß Red Bull: Locating Farmers.
+05/18/2017 11:48:03: 09.2 Scheiß Red Bull: Building queue is disabled.
+05/18/2017 11:48:04: 09.2 Scheiß Red Bull: Starting trade between 09.2 Scheiß Red Bull and 01.1 Knie nieder.
+05/18/2017 11:48:06: 09.2 Scheiß Red Bull: Not enough resources to send.
+05/18/2017 11:48:08: Switching to 10 Noch einers Stadt
+05/18/2017 11:48:10: 10 Noch einers Stadt: Locating Farmers.
+05/18/2017 11:48:16: 10 Noch einers Stadt: Nothing to build.
+05/18/2017 11:48:18: 10 Noch einers Stadt: Starting trade between 10 Noch einers Stadt and 01.2 Knie nieder I.
+05/18/2017 11:48:19: 10 Noch einers Stadt: Sending resources to 01.2 Knie nieder I. (Wood: 600/4794, Stone: 0/6795, Silver: 600/7995)
+05/18/2017 11:48:21: Switching to 11.1 Sturmwind
+05/18/2017 11:48:23: 11.1 Sturmwind: Locating Farmers.
+05/18/2017 11:48:28: 11.1 Sturmwind: Building queue is disabled.
+05/18/2017 11:48:30: 11.1 Sturmwind: Starting trade between 11.1 Sturmwind and 18 Freiberg 01.
+05/18/2017 11:48:31: 11.1 Sturmwind: Sending resources to 18 Freiberg 01. (Wood: 600/9862, Stone: 0/2066, Silver: 600/2066)
+05/18/2017 11:48:33: Switching to 11.2 Jochen
+05/18/2017 11:48:34: 11.2 Jochen: Locating Farmers.
+05/18/2017 11:48:40: 11.2 Jochen: Building queue is disabled.
+05/18/2017 11:48:42: 11.2 Jochen: Starting trade between 11.2 Jochen and 18 Freiberg 01.
+05/18/2017 11:48:44: 11.2 Jochen: Sending resources to 18 Freiberg 01. (Wood: 600/10468, Stone: 0/2070, Silver: 600/2670)
+05/18/2017 11:48:45: Switching to 12 Pfui I
+05/18/2017 11:48:47: 12 Pfui I: Locating Farmers.
+05/18/2017 11:48:52: 12 Pfui I: Building queue is disabled.
+05/18/2017 11:48:54: 12 Pfui I: Starting trade between 12 Pfui I and 18 Freiberg 01.
+05/18/2017 11:48:55: 12 Pfui I: Sending resources to 18 Freiberg 01. (Wood: 600/11073, Stone: 0/2075, Silver: 600/3275)
+05/18/2017 11:48:57: Switching to 13 TekNo.a
+05/18/2017 11:48:59: 13 TekNo.a: Locating Farmers.
+05/18/2017 11:49:04: 13 TekNo.a: Building queue is disabled.
+05/18/2017 11:49:06: 13 TekNo.a: Starting trade between 13 TekNo.a and 21.1 Robinatuss Stad.
+05/18/2017 11:49:07: 13 TekNo.a: Not enough resources to send.
+05/18/2017 11:49:09: Switching to 14 011
+05/18/2017 11:49:11: 14 011: Locating Farmers.
+05/18/2017 11:49:16: 14 011: Nothing to build.
+05/18/2017 11:49:18: 14 011: Starting trade between 14 011 and 18 Freiberg 01.
+05/18/2017 11:49:19: 14 011: Sending resources to 18 Freiberg 01. (Wood: 600/11685, Stone: 0/2083, Silver: 600/3883)
+05/18/2017 11:49:21: Switching to 15 L01
+05/18/2017 11:49:23: 15 L01: Locating Farmers.
+05/18/2017 11:49:28: 15 L01: Nothing to build.
+05/18/2017 11:49:30: 15 L01: Starting trade between 15 L01 and 18 Freiberg 01.
+05/18/2017 11:49:32: 15 L01: Sending resources to 18 Freiberg 01. (Wood: 0/12290, Stone: 0/2088, Silver: 10000/4488)
+05/18/2017 11:49:34: Switching to 16 Banana
+05/18/2017 11:49:36: 16 Banana: Locating Farmers.
+05/18/2017 11:49:41: 16 Banana: Nothing to build.
+05/18/2017 11:49:43: 16 Banana: Starting trade between 16 Banana and 18 Freiberg 01.
+05/18/2017 11:49:44: 16 Banana: Sending resources to 18 Freiberg 01. (Wood: 600/12296, Stone: 0/2092, Silver: 600/14492)
+05/18/2017 11:49:46: Switching to 17 Front N 1.0
+05/18/2017 11:49:48: 17 Front N 1.0: Locating Farmers.
+05/18/2017 11:49:54: 17 Front N 1.0: Adding market to ingame queue.
+05/18/2017 11:49:55: 17 Front N 1.0: Starting trade between 17 Front N 1.0 and 18 Freiberg 01.
+05/18/2017 11:49:57: 17 Front N 1.0: Sending resources to 18 Freiberg 01. (Wood: 0/12902, Stone: 0/2097, Silver: 679/15097)
+05/18/2017 11:50:00: Switching to 18 Freiberg 01
+05/18/2017 11:50:01: 18 Freiberg 01: Locating Farmers.
+05/18/2017 11:50:07: 18 Freiberg 01: Adding market to ingame queue.
+05/18/2017 11:50:08: Switching to 19 Durch Reise
+05/18/2017 11:50:10: 19 Durch Reise: Locating Farmers.
+05/18/2017 11:50:16: 19 Durch Reise: Nothing to build.
+05/18/2017 11:50:17: 19 Durch Reise: Starting trade between 19 Durch Reise and 18 Freiberg 01.
+05/18/2017 11:50:19: 19 Durch Reise: Sending resources to 18 Freiberg 01. (Wood: 600/10427, Stone: 0/667, Silver: 600/14346)
+05/18/2017 11:50:21: Switching to 20 Robinatuss Stadt
+05/18/2017 11:50:23: 20 Robinatuss Stadt: Locating Farmers.
+05/18/2017 11:50:27: 20 Robinatuss Stadt: Adding docks to ingame queue.
+05/18/2017 11:50:29: Switching to 21.1 Robinatuss Stad
+05/18/2017 11:50:30: 21.1 Robinatuss Stad: Locating Farmers.
+05/18/2017 11:50:34: 21.1 Robinatuss Stad: Adding docks to ingame queue.
+05/18/2017 11:50:35: Switching to 21.2 Robinatuss Stad
+05/18/2017 11:50:37: 21.2 Robinatuss Stad: Locating Farmers.
+05/18/2017 11:50:40: 21.2 Robinatuss Stad: Adding hide to ingame queue.
+05/18/2017 11:50:42: Switching to 22 Blutiger Anfänger
+05/18/2017 11:50:44: 22 Blutiger Anfänger: Locating Farmers.
+05/18/2017 11:50:45: Exception in AddBuildingToIngameQueue: Der Index 7 liegt außerhalb des Bereichs.
+Parametername: index
+05/18/2017 11:50:49: 22 Blutiger Anfänger: Nothing to build.
+05/18/2017 11:50:51: 22 Blutiger Anfänger: Starting trade between 22 Blutiger Anfänger and 21.1 Robinatuss Stad.
+05/18/2017 11:50:53: 22 Blutiger Anfänger: Not enough resources to send.
+05/18/2017 11:50:54: Switching to 23 m55-001
+05/18/2017 11:50:56: 23 m55-001: Locating Farmers.
+05/18/2017 11:51:02: 23 m55-001: Nothing to build.
+05/18/2017 11:51:03: 23 m55-001: Starting trade between 23 m55-001 and 21.1 Robinatuss Stad.
+05/18/2017 11:51:04: 23 m55-001: Sending resources to 21.1 Robinatuss Stad. (Wood: 0/9363, Stone: 0/7136, Silver: 9444/7136)
+05/18/2017 11:51:07: Switching to 24.1 Robinatuss Stad
+05/18/2017 11:51:08: 24.1 Robinatuss Stad: Locating Farmers.
+05/18/2017 11:51:12: 24.1 Robinatuss Stad: Adding docks to ingame queue.
+05/18/2017 11:51:14: Switching to 24.2 Robinatuss Stad
+05/18/2017 11:51:15: 24.2 Robinatuss Stad: Locating Farmers.
+05/18/2017 11:51:19: 24.2 Robinatuss Stad: Adding hide to ingame queue.
+05/18/2017 11:51:21: Switching to 25.1 Robinatuss Stad
+05/18/2017 11:51:23: 25.1 Robinatuss Stad: Locating Farmers.
+05/18/2017 11:51:26: 25.1 Robinatuss Stad: Adding temple to ingame queue.
+05/18/2017 11:51:28: Finished Cycle!
+05/18/2017 13:57:05: Started Bot V.1.0.0.0.
+05/18/2017 13:57:11: Login to Grepolis.
+05/18/2017 13:57:24: Updating Town Data.
+05/18/2017 13:57:29: Updating Game Data.
+05/18/2017 13:57:30: Updating Building Data.
+05/18/2017 13:57:32: Updating Unit Data.
+05/18/2017 13:57:33: Login successful.
+05/18/2017 13:57:54: Starting Cycle!
+05/18/2017 13:57:56: Switching to 01.1 Knie nieder
+05/18/2017 13:57:58: 01.1 Knie nieder: Locating Farmers.
+05/18/2017 13:58:03: 01.1 Knie nieder: Adding market to ingame queue.
+05/18/2017 13:58:05: Switching to 01.2 Knie nieder I
+05/18/2017 13:58:06: 01.2 Knie nieder I: Locating Farmers.
+05/18/2017 13:58:12: 01.2 Knie nieder I: Demolishing barracks .
+05/18/2017 13:58:13: 01.2 Knie nieder I: Teardown barracks.
+05/18/2017 13:58:15: Switching to 02.1 Robinatuss Stad
+05/18/2017 13:58:17: 02.1 Robinatuss Stad: Locating Farmers.

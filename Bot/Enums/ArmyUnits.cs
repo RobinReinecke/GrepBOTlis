@@ -1,0 +1,34 @@
+﻿namespace Bot.Enums
+{
+    public enum ArmyUnits
+    {
+        militia,
+        sword,
+        slinger,
+        archer,
+        hoplite,
+        rider,
+        chariot,
+        catapult,
+        minotaur,
+        manticore,
+        centaur,
+        pegasus,
+        harpy,
+        medusa,
+        zyklop,
+        cerberus,
+        fury,
+        griffin,
+        calydonian_boar,
+        godsent,
+        big_transporter,
+        bireme,
+        attack_ship,
+        demolition_ship,
+        small_transporter,
+        trireme,
+        colonize_ship,
+        sea_monster
+    }
+}

@@ -1,0 +1,31 @@
+﻿namespace Bot.Enums
+{
+    public enum ControllerStates
+    {
+        LoginToGrepolisPart1,
+        LoginToGrepolisPart2,
+        LoginToGrepolisPart3,
+        LoggedIn,
+        UpdateGameData,
+        BuildingBuildData,
+        UpdateTowns,
+        UpdateUnits,
+        SwitchTown,
+        LocateFarmers,
+        OpenFarmerWindow,
+        GetTownSpecificData,
+        LootFarmer,
+        CheckTrade,
+        SendResources,
+        UpdateCulturalInfo,
+        StartCulturalFestival,
+        CheckMainBuilding,
+        CheckBuildingQueue,
+        CheckBuildingQueueTeardown,
+        FinishedCycle,
+        OpenBarracksWindow,
+        CheckLandUnitQueue,
+        OpenDocksWindow,
+        CheckNavyUnitQueue
+    }
+}

@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE403EB2-92BB-4C2A-A328-705D80D3CAF5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bot</RootNamespace>
+    <AssemblyName>Bot</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller.cs" />
+    <Compile Include="Custom\AdvTimer.cs" />
+    <Compile Include="Custom\ArmyUnit.cs" />
+    <Compile Include="Custom\Building.cs" />
+    <Compile Include="Custom\BuildingQueueBuilding.cs" />
+    <Compile Include="Custom\CulturalEvent.cs" />
+    <Compile Include="Custom\CustomArgs.cs" />
+    <Compile Include="Custom\Farmer.cs" />
+    <Compile Include="Custom\FarmTownRelation.cs" />
+    <Compile Include="Custom\Movement.cs" />
+    <Compile Include="Custom\Notification.cs" />
+    <Compile Include="Custom\Research.cs" />
+    <Compile Include="Custom\Technology.cs" />
+    <Compile Include="Custom\Town.cs" />
+    <Compile Include="Custom\Trade.cs" />
+    <Compile Include="Enums\ArmyUnits.cs" />
+    <Compile Include="Enums\Buildings.cs" />
+    <Compile Include="Enums\CulturalEvents.cs" />
+    <Compile Include="Enums\Gods.cs" />
+    <Compile Include="Enums\Resources.cs" />
+    <Compile Include="Enums\Technologies.cs" />
+    <Compile Include="Enums\TradingModes.cs" />
+    <Compile Include="Helpers\CookieHelper.cs" />
+    <Compile Include="Enums\ControllerStates.cs" />
+    <Compile Include="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\HttpHandler.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Helpers\Logger.cs" />
+    <Compile Include="Helpers\Parser.cs" />
+    <Compile Include="Helpers\Randomizer.cs" />
+    <Compile Include="Custom\Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Helpers\IOHelper.cs" />
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Images\zyklopx40.png" />
+    <None Include="Images\population.png" />
+    <None Include="Images\militia_40x40.png" />
+    <None Include="Images\favicon.ico" />
+    <None Include="Images\harpyx40.png" />
+    <None Include="Images\hoplitex40.png" />
+    <None Include="Images\manticorex40.png" />
+    <None Include="Images\medusax40.png" />
+    <None Include="Images\minotaurx40.png" />
+    <None Include="Images\pegasusx40.png" />
+    <None Include="Images\poseidon_mini.png" />
+    <None Include="Images\riderx40.png" />
+    <None Include="Images\sea_monsterx40.png" />
+    <None Include="Images\slingerx40.png" />
+    <None Include="Images\small_transporterx40.png" />
+    <None Include="Images\swordx40.png" />
+    <None Include="Images\triremex40.png" />
+    <None Include="Images\archerx40.png" />
+    <None Include="Images\attack_shipx40.png" />
+    <None Include="Images\big_transporterx40.png" />
+    <None Include="Images\biremex40.png" />
+    <None Include="Images\calydonian_boarx40.png" />
+    <None Include="Images\catapultx40.png" />
+    <None Include="Images\centaurx40.png" />
+    <None Include="Images\cerberusx40.png" />
+    <None Include="Images\chariotx40.png" />
+    <None Include="Images\colonize_shipx40.png" />
+    <None Include="Images\demolition_shipx40.png" />
+    <None Include="Images\furyx40.png" />
+    <None Include="Images\godsentx40.png" />
+    <None Include="Images\griffinx40.png" />
+    <Content Include="Images\wall.png" />
+    <Content Include="Images\wallx20.png" />
+    <Content Include="Images\wood.png" />
+    <None Include="Images\partyx50.jpeg" />
+    <Content Include="Images\academy.png" />
+    <Content Include="Images\academyx20.png" />
+    <Content Include="Images\addx20.png" />
+    <Content Include="Images\barracks.png" />
+    <Content Include="Images\barracksx20.png" />
+    <Content Include="Images\breadx50.jpeg" />
+    <Content Include="Images\docks.png" />
+    <Content Include="Images\docksx20.png" />
+    <Content Include="Images\emptyx20.png" />
+    <Content Include="Images\farm.png" />
+    <Content Include="Images\farmx20.png" />
+    <Content Include="Images\favor.png" />
+    <Content Include="Images\hide.png" />
+    <Content Include="Images\hidex20.png" />
+    <Content Include="Images\iron.png" />
+    <Content Include="Images\ironer.png" />
+    <Content Include="Images\ironerx20.png" />
+    <Content Include="Images\library.png" />
+    <Content Include="Images\libraryx20.png" />
+    <Content Include="Images\lighthouse.png" />
+    <Content Include="Images\lighthousex20.png" />
+    <Content Include="Images\lumber.png" />
+    <Content Include="Images\lumberx20.png" />
+    <Content Include="Images\main.png" />
+    <Content Include="Images\mainx20.png" />
+    <Content Include="Images\market.png" />
+    <Content Include="Images\marketx20.png" />
+    <Content Include="Images\oracle.png" />
+    <Content Include="Images\oraclex20.png" />
+    <Content Include="Images\statue.png" />
+    <Content Include="Images\statuex20.png" />
+    <Content Include="Images\stone.png" />
+    <Content Include="Images\stoner.png" />
+    <Content Include="Images\stonerx20.png" />
+    <Content Include="Images\storage.png" />
+    <Content Include="Images\storagex20.png" />
+    <Content Include="Images\temple.png" />
+    <Content Include="Images\templex20.png" />
+    <Content Include="Images\theater.png" />
+    <Content Include="Images\theaterx20.png" />
+    <Content Include="Images\theaterx50.jpeg" />
+    <Content Include="Images\thermal.png" />
+    <Content Include="Images\thermalx20.png" />
+    <Content Include="Images\tower.png" />
+    <Content Include="Images\towerx20.png" />
+    <Content Include="Images\trade_office.png" />
+    <Content Include="Images\trade_officex20.png" />
+    <Content Include="Images\triumphx50.jpeg" />
+    <Content Include="Images\village.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

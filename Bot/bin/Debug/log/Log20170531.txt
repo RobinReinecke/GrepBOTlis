@@ -1,0 +1,2736 @@
+05/31/2017 10:24:18: Started GrepBOTlis V.1.0.0.0
+05/31/2017 10:24:34: Login to Grepolis.
+05/31/2017 10:24:44: Updating Town Data.
+05/31/2017 10:24:50: Updating Game Data.
+05/31/2017 10:24:50: Updating Building Data.
+05/31/2017 10:24:52: Updating Unit Data.
+05/31/2017 10:24:52: Login successful.
+05/31/2017 10:37:50: Starting Cycle!
+05/31/2017 10:37:52: Switching to 01.1 Knie nieder
+05/31/2017 10:37:54: 01.1 Knie nieder: Locating Farmers.
+05/31/2017 10:37:58: 01.1 Knie nieder: Started party.
+05/31/2017 10:38:02: 01.1 Knie nieder: Nothing to build.
+05/31/2017 10:38:04: 01.1 Knie nieder: Checking land unit queue.
+05/31/2017 10:38:05: 01.1 Knie nieder: Cannot find trainable units.
+05/31/2017 10:38:06: 01.1 Knie nieder: Checking navy unit queue.
+05/31/2017 10:38:08: 01.1 Knie nieder: Cannot find trainable units.
+05/31/2017 10:38:09: 01.1 Knie nieder: Starting trade between 01.1 Knie nieder and 26.1 Robinatuss Stad.
+05/31/2017 10:38:11: 01.1 Knie nieder: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 10:38:12: Switching to 01.2 Knie nieder I
+05/31/2017 10:38:14: 01.2 Knie nieder I: Locating Farmers.
+05/31/2017 10:38:17: 01.2 Knie nieder I: Started party.
+05/31/2017 10:38:20: 01.2 Knie nieder I: Nothing to build.
+05/31/2017 10:38:22: 01.2 Knie nieder I: Checking land unit queue.
+05/31/2017 10:38:24: 01.2 Knie nieder I: Cannot find trainable units.
+05/31/2017 10:38:25: 01.2 Knie nieder I: Checking navy unit queue.
+05/31/2017 10:38:27: 01.2 Knie nieder I: Adding bireme (1) to the ingame queue.
+05/31/2017 10:38:27: 01.2 Knie nieder I: Navy unit(s) added to ingame queue.
+05/31/2017 10:38:28: 01.2 Knie nieder I: Starting trade between 01.2 Knie nieder I and 26.1 Robinatuss Stad.
+05/31/2017 10:38:30: 01.2 Knie nieder I: Not enough resources to send.
+05/31/2017 10:38:31: Switching to 02.1 Robinatuss Stad
+05/31/2017 10:38:33: 02.1 Robinatuss Stad: Locating Farmers.
+05/31/2017 10:38:36: 02.1 Robinatuss Stad: Started party.
+05/31/2017 10:38:40: 02.1 Robinatuss Stad: Nothing to build.
+05/31/2017 10:38:42: 02.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 10:38:44: 02.1 Robinatuss Stad: Cannot find trainable units.
+05/31/2017 10:38:45: 02.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 10:38:47: 02.1 Robinatuss Stad: Cannot find trainable units.
+05/31/2017 10:38:49: 02.1 Robinatuss Stad: Starting trade between 02.1 Robinatuss Stad and 26.1 Robinatuss Stad.
+05/31/2017 10:38:50: 02.1 Robinatuss Stad: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 10:38:52: Switching to 02.2 Oz
+05/31/2017 10:38:54: 02.2 Oz: Locating Farmers.
+05/31/2017 10:38:58: 02.2 Oz: Started party.
+05/31/2017 10:39:01: 02.2 Oz: Nothing to build.
+05/31/2017 10:39:02: 02.2 Oz: Checking land unit queue.
+05/31/2017 10:39:04: 02.2 Oz: Cannot find trainable units.
+05/31/2017 10:39:06: 02.2 Oz: Checking navy unit queue.
+05/31/2017 10:39:08: 02.2 Oz: Cannot find trainable units.
+05/31/2017 10:39:09: 02.2 Oz: Starting trade between 02.2 Oz and 26.1 Robinatuss Stad.
+05/31/2017 10:39:11: 02.2 Oz: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 10:39:13: Switching to 03 mufftners Stadt
+05/31/2017 10:39:15: 03 mufftners Stadt: Locating Farmers.
+05/31/2017 10:39:19: 03 mufftners Stadt: Started party.
+05/31/2017 10:39:22: 03 mufftners Stadt: Nothing to build.
+05/31/2017 10:39:23: 03 mufftners Stadt: Checking land unit queue.
+05/31/2017 10:39:25: 03 mufftners Stadt: Cannot find trainable units.
+05/31/2017 10:39:27: 03 mufftners Stadt: Checking navy unit queue.
+05/31/2017 10:39:28: 03 mufftners Stadt: Cannot find trainable units.
+05/31/2017 10:39:30: 03 mufftners Stadt: Starting trade between 03 mufftners Stadt and 26.1 Robinatuss Stad.
+05/31/2017 10:39:32: 03 mufftners Stadt: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 10:39:33: Switching to 05 Pallantium
+05/31/2017 10:39:35: 05 Pallantium: Locating Farmers.
+05/31/2017 10:39:39: 05 Pallantium: Started party.
+05/31/2017 10:39:43: 05 Pallantium: Nothing to build.
+05/31/2017 10:39:44: 05 Pallantium: Checking land unit queue.
+05/31/2017 10:39:46: 05 Pallantium: Cannot find trainable units.
+05/31/2017 10:39:48: 05 Pallantium: Checking navy unit queue.
+05/31/2017 10:39:50: 05 Pallantium: Cannot find trainable units.
+05/31/2017 10:39:52: 05 Pallantium: Starting trade between 05 Pallantium and 26.1 Robinatuss Stad.
+05/31/2017 10:39:53: 05 Pallantium: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 10:39:55: Switching to 06 Loki
+05/31/2017 10:39:56: 06 Loki: Locating Farmers.
+05/31/2017 10:40:00: 06 Loki: Started party.
+05/31/2017 10:40:04: 06 Loki: Nothing to build.
+05/31/2017 10:40:06: 06 Loki: Checking land unit queue.
+05/31/2017 10:40:07: 06 Loki: Cannot find trainable units.
+05/31/2017 10:40:09: 06 Loki: Checking navy unit queue.
+05/31/2017 10:40:11: 06 Loki: Cannot find trainable units.
+05/31/2017 10:40:12: 06 Loki: Starting trade between 06 Loki and 26.1 Robinatuss Stad.
+05/31/2017 10:40:14: 06 Loki: Not enough resources to send.
+05/31/2017 10:40:15: Switching to 07 Robinatuss Stadt
+05/31/2017 10:40:17: 07 Robinatuss Stadt: Locating Farmers.
+05/31/2017 10:40:20: 07 Robinatuss Stadt: Started party.
+05/31/2017 10:40:24: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 10:40:26: 07 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 10:40:27: 07 Robinatuss Stadt: Adding manticore (1) to the ingame queue.
+05/31/2017 10:40:27: 07 Robinatuss Stadt: Land unit(s) added to ingame queue.
+05/31/2017 10:40:29: 07 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 10:40:31: 07 Robinatuss Stadt: Cannot find trainable units.
+05/31/2017 10:40:33: 07 Robinatuss Stadt: Starting trade between 07 Robinatuss Stadt and 26.1 Robinatuss Stad.
+05/31/2017 10:40:35: 07 Robinatuss Stadt: Not enough resources to send.
+05/31/2017 10:40:36: Switching to 08 Löwenstein
+05/31/2017 10:40:38: 08 Löwenstein: Locating Farmers.
+05/31/2017 10:40:42: 08 Löwenstein: Started party.
+05/31/2017 10:40:46: 08 Löwenstein: Nothing to build.
+05/31/2017 10:40:47: 08 Löwenstein: Checking land unit queue.
+05/31/2017 10:40:48: 08 Löwenstein: Adding harpy (5) to the ingame queue.
+05/31/2017 10:40:49: 08 Löwenstein: Land unit(s) added to ingame queue.
+05/31/2017 10:40:50: 08 Löwenstein: Checking navy unit queue.
+05/31/2017 10:40:52: 08 Löwenstein: Cannot find trainable units.
+05/31/2017 10:40:54: 08 Löwenstein: Starting trade between 08 Löwenstein and 26.1 Robinatuss Stad.
+05/31/2017 10:40:55: 08 Löwenstein: Not enough resources to send.
+05/31/2017 10:40:57: Switching to 09.1 Kätzchen
+05/31/2017 10:40:59: 09.1 Kätzchen: Locating Farmers.
+05/31/2017 10:41:03: 09.1 Kätzchen: Started party.
+05/31/2017 10:41:06: 09.1 Kätzchen: Nothing to build.
+05/31/2017 10:41:08: 09.1 Kätzchen: Checking land unit queue.
+05/31/2017 10:41:09: 09.1 Kätzchen: Cannot find trainable units.
+05/31/2017 10:41:11: 09.1 Kätzchen: Checking navy unit queue.
+05/31/2017 10:41:12: 09.1 Kätzchen: Cannot find trainable units.
+05/31/2017 10:41:14: 09.1 Kätzchen: Starting trade between 09.1 Kätzchen and 26.1 Robinatuss Stad.
+05/31/2017 10:41:16: 09.1 Kätzchen: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 10:41:17: Switching to 09.2 Scheiß Red Bull
+05/31/2017 10:41:19: 09.2 Scheiß Red Bull: Locating Farmers.
+05/31/2017 10:41:23: 09.2 Scheiß Red Bull: Started party.
+05/31/2017 10:41:27: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 10:41:29: 09.2 Scheiß Red Bull: Checking land unit queue.
+05/31/2017 10:41:31: 09.2 Scheiß Red Bull: Adding griffin (2) to the ingame queue.
+05/31/2017 10:41:31: 09.2 Scheiß Red Bull: Land unit(s) added to ingame queue.
+05/31/2017 10:41:33: 09.2 Scheiß Red Bull: Checking navy unit queue.
+05/31/2017 10:41:34: 09.2 Scheiß Red Bull: Cannot find trainable units.
+05/31/2017 10:41:36: 09.2 Scheiß Red Bull: Starting trade between 09.2 Scheiß Red Bull and 26.1 Robinatuss Stad.
+05/31/2017 10:41:37: 09.2 Scheiß Red Bull: Not enough resources to send.
+05/31/2017 10:41:39: Switching to 10 Noch einers Stadt
+05/31/2017 10:41:40: 10 Noch einers Stadt: Locating Farmers.
+05/31/2017 10:41:45: 10 Noch einers Stadt: Nothing to build.
+05/31/2017 10:41:47: 10 Noch einers Stadt: Checking land unit queue.
+05/31/2017 10:41:48: 10 Noch einers Stadt: Cannot find trainable units.
+05/31/2017 10:41:50: 10 Noch einers Stadt: Checking navy unit queue.
+05/31/2017 10:41:51: 10 Noch einers Stadt: Cannot find trainable units.
+05/31/2017 10:41:53: 10 Noch einers Stadt: Starting trade between 10 Noch einers Stadt and 26.1 Robinatuss Stad.
+05/31/2017 10:41:55: 10 Noch einers Stadt: Not enough resources to send.
+05/31/2017 10:41:57: Switching to 11.1 Sturmwind
+05/31/2017 10:41:59: 11.1 Sturmwind: Locating Farmers.
+05/31/2017 10:42:02: 11.1 Sturmwind: Started party.
+05/31/2017 10:42:05: 11.1 Sturmwind: Nothing to build.
+05/31/2017 10:42:07: 11.1 Sturmwind: Checking land unit queue.
+05/31/2017 10:42:09: 11.1 Sturmwind: Cannot find trainable units.
+05/31/2017 10:42:10: 11.1 Sturmwind: Checking navy unit queue.
+05/31/2017 10:42:12: 11.1 Sturmwind: Cannot find trainable units.
+05/31/2017 10:42:13: 11.1 Sturmwind: Starting trade between 11.1 Sturmwind and 21.2 Robinatuss Stad.
+05/31/2017 10:42:15: 11.1 Sturmwind: Not enough resources to send.
+05/31/2017 10:42:17: Switching to 11.2 Jochen
+05/31/2017 10:42:19: 11.2 Jochen: Locating Farmers.
+05/31/2017 10:42:22: 11.2 Jochen: Started triumph.
+05/31/2017 10:42:24: 11.2 Jochen: Started party.
+05/31/2017 10:42:28: 11.2 Jochen: Demolishing main .
+05/31/2017 10:42:31: 11.2 Jochen: Checking land unit queue.
+05/31/2017 10:42:33: 11.2 Jochen: Cannot find trainable units.
+05/31/2017 10:42:35: 11.2 Jochen: Checking navy unit queue.
+05/31/2017 10:42:37: 11.2 Jochen: Cannot find trainable units.
+05/31/2017 10:42:38: 11.2 Jochen: Starting trade between 11.2 Jochen and 21.2 Robinatuss Stad.
+05/31/2017 10:42:40: 11.2 Jochen: Not enough resources to send.
+05/31/2017 10:42:41: Switching to 12 Pfui I
+05/31/2017 10:42:43: 12 Pfui I: Locating Farmers.
+05/31/2017 10:42:47: 12 Pfui I: Started party.
+05/31/2017 10:42:50: 12 Pfui I: Nothing to build.
+05/31/2017 10:42:52: 12 Pfui I: Checking land unit queue.
+05/31/2017 10:42:53: 12 Pfui I: Cannot find trainable units.
+05/31/2017 10:42:55: 12 Pfui I: Checking navy unit queue.
+05/31/2017 10:42:57: 12 Pfui I: Cannot find trainable units.
+05/31/2017 10:42:59: 12 Pfui I: Starting trade between 12 Pfui I and 26.1 Robinatuss Stad.
+05/31/2017 10:43:00: 12 Pfui I: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 10:43:02: Switching to 13 TekNo.a
+05/31/2017 10:43:04: 13 TekNo.a: Locating Farmers.
+05/31/2017 10:43:07: 13 TekNo.a: Started party.
+05/31/2017 10:43:10: 13 TekNo.a: Nothing to build.
+05/31/2017 10:43:12: 13 TekNo.a: Checking land unit queue.
+05/31/2017 10:43:13: 13 TekNo.a: Cannot find trainable units.
+05/31/2017 10:43:15: 13 TekNo.a: Checking navy unit queue.
+05/31/2017 10:43:17: 13 TekNo.a: Cannot find trainable units.
+05/31/2017 10:43:19: 13 TekNo.a: Starting trade between 13 TekNo.a and 21.1 Robinatuss Stad.
+05/31/2017 10:43:20: 13 TekNo.a: Not enough resources to send.
+05/31/2017 10:43:22: Switching to 14 011
+05/31/2017 10:43:23: 14 011: Locating Farmers.
+05/31/2017 10:43:27: 14 011: Started party.
+05/31/2017 10:43:31: 14 011: Nothing to build.
+05/31/2017 10:43:33: 14 011: Checking land unit queue.
+05/31/2017 10:43:34: 14 011: Cannot find trainable units.
+05/31/2017 10:43:36: 14 011: Checking navy unit queue.
+05/31/2017 10:43:38: 14 011: Cannot find trainable units.
+05/31/2017 10:43:40: 14 011: Starting trade between 14 011 and 26.1 Robinatuss Stad.
+05/31/2017 10:43:41: 14 011: Not enough resources to send.
+05/31/2017 10:43:43: Switching to 15 L01
+05/31/2017 10:43:45: 15 L01: Locating Farmers.
+05/31/2017 10:43:48: 15 L01: Started party.
+05/31/2017 10:43:52: 15 L01: Nothing to build.
+05/31/2017 10:43:54: 15 L01: Checking land unit queue.
+05/31/2017 10:43:56: 15 L01: Cannot find trainable units.
+05/31/2017 10:43:57: 15 L01: Checking navy unit queue.
+05/31/2017 10:43:59: 15 L01: Cannot find trainable units.
+05/31/2017 10:44:01: 15 L01: Starting trade between 15 L01 and 21.2 Robinatuss Stad.
+05/31/2017 10:44:03: 15 L01: Receiver 21.2 Robinatuss Stad has enough resources.
+05/31/2017 10:44:05: Switching to 16 Banana
+05/31/2017 10:44:07: 16 Banana: Locating Farmers.
+05/31/2017 10:44:12: 16 Banana: Started party.
+05/31/2017 10:44:15: 16 Banana: Nothing to build.
+05/31/2017 10:44:17: 16 Banana: Checking land unit queue.
+05/31/2017 10:44:19: 16 Banana: Cannot find trainable units.
+05/31/2017 10:44:20: 16 Banana: Checking navy unit queue.
+05/31/2017 10:44:22: 16 Banana: Cannot find trainable units.
+05/31/2017 10:44:24: 16 Banana: Starting trade between 16 Banana and 21.1 Robinatuss Stad.
+05/31/2017 10:44:27: 16 Banana: Not enough resources to send.
+05/31/2017 10:44:29: Switching to 17 Front N 1.0
+05/31/2017 10:44:30: 17 Front N 1.0: Locating Farmers.
+05/31/2017 10:44:34: 17 Front N 1.0: Started party.
+05/31/2017 10:44:37: 17 Front N 1.0: Demolishing temple .
+05/31/2017 10:44:40: 17 Front N 1.0: Checking land unit queue.
+05/31/2017 10:44:42: 17 Front N 1.0: Cannot find trainable units.
+05/31/2017 10:44:44: 17 Front N 1.0: Checking navy unit queue.
+05/31/2017 10:44:46: 17 Front N 1.0: Unit queue skipped.
+05/31/2017 10:44:47: 17 Front N 1.0: Starting trade between 17 Front N 1.0 and 21.2 Robinatuss Stad.
+05/31/2017 10:44:49: 17 Front N 1.0: Receiver 21.2 Robinatuss Stad has enough resources.
+05/31/2017 10:44:51: Switching to 18 Freiberg 01
+05/31/2017 10:44:52: 18 Freiberg 01: Locating Farmers.
+05/31/2017 10:44:56: 18 Freiberg 01: Started party.
+05/31/2017 10:45:00: 18 Freiberg 01: Nothing to build.
+05/31/2017 10:45:02: 18 Freiberg 01: Checking land unit queue.
+05/31/2017 10:45:04: 18 Freiberg 01: Unit queue skipped.
+05/31/2017 10:45:05: 18 Freiberg 01: Checking navy unit queue.
+05/31/2017 10:45:08: 18 Freiberg 01: Cannot find trainable units.
+05/31/2017 10:45:09: 18 Freiberg 01: Starting trade between 18 Freiberg 01 and 21.2 Robinatuss Stad.
+05/31/2017 10:45:11: 18 Freiberg 01: Receiver 21.2 Robinatuss Stad has enough resources.
+05/31/2017 10:45:12: Switching to 19 Durch Reise
+05/31/2017 10:45:14: 19 Durch Reise: Locating Farmers.
+05/31/2017 10:45:18: 19 Durch Reise: Started party.
+05/31/2017 10:45:22: 19 Durch Reise: Nothing to build.
+05/31/2017 10:45:23: 19 Durch Reise: Checking land unit queue.
+05/31/2017 10:45:25: 19 Durch Reise: Cannot find trainable units.
+05/31/2017 10:45:27: 19 Durch Reise: Checking navy unit queue.
+05/31/2017 10:45:28: 19 Durch Reise: Cannot find trainable units.
+05/31/2017 10:45:29: 19 Durch Reise: Starting trade between 19 Durch Reise and 21.1 Robinatuss Stad.
+05/31/2017 10:45:31: 19 Durch Reise: Receiver 21.1 Robinatuss Stad has enough resources.
+05/31/2017 10:45:33: Switching to 20 Robinatuss Stadt
+05/31/2017 10:45:35: 20 Robinatuss Stadt: Locating Farmers.
+05/31/2017 10:45:38: 20 Robinatuss Stadt: Adding temple to ingame queue.
+05/31/2017 10:45:40: 20 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 10:45:42: 20 Robinatuss Stadt: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:45:44: 20 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 10:45:46: 20 Robinatuss Stadt: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:45:48: Switching to 21.1 Robinatuss Stad
+05/31/2017 10:45:50: 21.1 Robinatuss Stad: Locating Farmers.
+05/31/2017 10:45:53: 21.1 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 10:45:55: 21.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 10:45:57: 21.1 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:45:59: 21.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 10:46:01: 21.1 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:46:03: Switching to 21.2 Robinatuss Stad
+05/31/2017 10:46:04: 21.2 Robinatuss Stad: Locating Farmers.
+05/31/2017 10:46:08: 21.2 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 10:46:10: 21.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 10:46:12: 21.2 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:46:13: 21.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 10:46:16: 21.2 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:46:18: Switching to 22 Blutiger Anfänger
+05/31/2017 10:46:19: 22 Blutiger Anfänger: Locating Farmers.
+05/31/2017 10:46:23: 22 Blutiger Anfänger: Started party.
+05/31/2017 10:46:26: 22 Blutiger Anfänger: Demolishing market .
+05/31/2017 10:46:28: 22 Blutiger Anfänger: Checking land unit queue.
+05/31/2017 10:46:31: 22 Blutiger Anfänger: Adding slinger (140) to the ingame queue.
+05/31/2017 10:46:31: 22 Blutiger Anfänger: Land unit(s) added to ingame queue.
+05/31/2017 10:46:33: 22 Blutiger Anfänger: Checking navy unit queue.
+05/31/2017 10:46:35: 22 Blutiger Anfänger: Adding small_transporter (4) to the ingame queue.
+05/31/2017 10:46:35: 22 Blutiger Anfänger: Navy unit(s) added to ingame queue.
+05/31/2017 10:46:37: 22 Blutiger Anfänger: Starting trade between 22 Blutiger Anfänger and 21.1 Robinatuss Stad.
+05/31/2017 10:46:39: 22 Blutiger Anfänger: Not enough resources to send.
+05/31/2017 10:46:41: Switching to 23 m55-001
+05/31/2017 10:46:43: 23 m55-001: Locating Farmers.
+05/31/2017 10:46:47: 23 m55-001: Started party.
+05/31/2017 10:46:51: 23 m55-001: Nothing to build.
+05/31/2017 10:46:53: 23 m55-001: Checking land unit queue.
+05/31/2017 10:46:54: 23 m55-001: Cannot find trainable units.
+05/31/2017 10:46:56: 23 m55-001: Checking navy unit queue.
+05/31/2017 10:46:58: 23 m55-001: Cannot find trainable units.
+05/31/2017 10:46:59: 23 m55-001: Starting trade between 23 m55-001 and 21.1 Robinatuss Stad.
+05/31/2017 10:47:01: 23 m55-001: Receiver 21.1 Robinatuss Stad has enough resources.
+05/31/2017 10:47:02: Switching to 24.1 Robinatuss Stad
+05/31/2017 10:47:04: 24.1 Robinatuss Stad: Locating Farmers.
+05/31/2017 10:47:08: 24.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 10:47:10: 24.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 10:47:12: 24.1 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:47:14: 24.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 10:47:15: 24.1 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:47:17: Switching to 24.2 Robinatuss Stad
+05/31/2017 10:47:19: 24.2 Robinatuss Stad: Locating Farmers.
+05/31/2017 10:47:22: 24.2 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 10:47:24: 24.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 10:47:26: 24.2 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:47:27: 24.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 10:47:29: 24.2 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:47:30: Switching to 25.1 Robinatuss Stad
+05/31/2017 10:47:32: 25.1 Robinatuss Stad: Locating Farmers.
+05/31/2017 10:47:36: 25.1 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 10:47:37: 25.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 10:47:39: 25.1 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:47:41: 25.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 10:47:43: 25.1 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:47:44: Switching to 25.2 Robinatuss Stad
+05/31/2017 10:47:46: 25.2 Robinatuss Stad: Locating Farmers.
+05/31/2017 10:47:49: 25.2 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 10:47:51: 25.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 10:47:53: 25.2 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:47:55: 25.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 10:47:57: 25.2 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:47:59: Switching to 26.1 Robinatuss Stad
+05/31/2017 10:48:01: 26.1 Robinatuss Stad: Locating Farmers.
+05/31/2017 10:48:06: 26.1 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 10:48:07: 26.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 10:48:09: 26.1 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:48:10: 26.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 10:48:12: 26.1 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:48:13: Switching to 26.2 Robinatuss Stad
+05/31/2017 10:48:15: 26.2 Robinatuss Stad: Locating Farmers.
+05/31/2017 10:48:19: 26.2 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 10:48:21: 26.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 10:48:22: 26.2 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:48:23: 26.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 10:48:25: 26.2 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:48:26: Switching to 26.3 Robinatuss Stad
+05/31/2017 10:48:28: 26.3 Robinatuss Stad: Locating Farmers.
+05/31/2017 10:48:31: 26.3 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 10:48:33: 26.3 Robinatuss Stad: Checking land unit queue.
+05/31/2017 10:48:35: 26.3 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:48:36: 26.3 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 10:48:38: 26.3 Robinatuss Stad: Army queue is disabled for this town (or queue is full).
+05/31/2017 10:48:40: Finished Cycle!
+05/31/2017 11:19:49: Started GrepBOTlis V.1.0.0.0
+05/31/2017 11:31:53: Started GrepBOTlis V.1.0.0.0
+05/31/2017 11:32:17: Login to Grepolis.
+05/31/2017 11:32:21: Updating Town Data.
+05/31/2017 11:32:24: Updating Game Data.
+05/31/2017 11:32:26: Updating Building Data.
+05/31/2017 11:32:28: Updating Unit Data.
+05/31/2017 11:32:28: Login successful.
+05/31/2017 11:32:44: Starting Cycle!
+05/31/2017 11:32:46: Switching to 01.1 Knie nieder
+05/31/2017 11:32:51: 01.1 Knie nieder: Nothing to build.
+05/31/2017 11:32:52: 01.1 Knie nieder: Checking land unit queue.
+05/31/2017 11:32:54: 01.1 Knie nieder: Cannot find trainable units.
+05/31/2017 11:32:55: 01.1 Knie nieder: Checking navy unit queue.
+05/31/2017 11:33:28: 01.1 Knie nieder:  Navy queue skipped (Can't find trainable units).
+05/31/2017 11:33:30: 01.1 Knie nieder: Starting trade between 01.1 Knie nieder and 26.1 Robinatuss Stad.
+05/31/2017 11:33:31: 01.1 Knie nieder: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 11:33:33: Switching to 01.2 Knie nieder I
+05/31/2017 11:33:37: 01.2 Knie nieder I: Nothing to build.
+05/31/2017 11:33:39: 01.2 Knie nieder I: Checking land unit queue.
+05/31/2017 11:33:40: 01.2 Knie nieder I: Cannot find trainable units.
+05/31/2017 11:33:42: 01.2 Knie nieder I: Checking navy unit queue.
+05/31/2017 11:40:58: Started GrepBOTlis V.1.0.0.0
+05/31/2017 11:40:59: Login to Grepolis.
+05/31/2017 11:41:04: Updating Town Data.
+05/31/2017 11:41:07: Updating Game Data.
+05/31/2017 11:41:08: Updating Building Data.
+05/31/2017 11:41:10: Updating Unit Data.
+05/31/2017 11:41:10: Login successful.
+05/31/2017 11:41:22: Starting Cycle!
+05/31/2017 11:41:24: Switching to 01.1 Knie nieder
+05/31/2017 11:41:28: 01.1 Knie nieder: Nothing to build.
+05/31/2017 11:41:30: 01.1 Knie nieder: Checking land unit queue.
+05/31/2017 11:41:32: 01.1 Knie nieder: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:41:33: 01.1 Knie nieder: Checking navy unit queue.
+05/31/2017 11:41:35: 01.1 Knie nieder: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:41:37: 01.1 Knie nieder: Starting trade between 01.1 Knie nieder and 26.1 Robinatuss Stad.
+05/31/2017 11:41:39: 01.1 Knie nieder: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 11:41:41: Switching to 01.2 Knie nieder I
+05/31/2017 11:41:46: 01.2 Knie nieder I: Nothing to build.
+05/31/2017 11:41:47: 01.2 Knie nieder I: Checking land unit queue.
+05/31/2017 11:41:49: 01.2 Knie nieder I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:41:51: 01.2 Knie nieder I: Checking navy unit queue.
+05/31/2017 11:41:53: 01.2 Knie nieder I: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:41:54: 01.2 Knie nieder I: Starting trade between 01.2 Knie nieder I and 26.1 Robinatuss Stad.
+05/31/2017 11:41:56: 01.2 Knie nieder I: Not enough resources to send.
+05/31/2017 11:41:58: Switching to 02.1 Robinatuss Stad
+05/31/2017 11:42:03: 02.1 Robinatuss Stad: Nothing to build.
+05/31/2017 11:42:04: 02.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 11:42:06: 02.1 Robinatuss Stad: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:42:08: 02.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 11:42:10: 02.1 Robinatuss Stad: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:42:12: 02.1 Robinatuss Stad: Starting trade between 02.1 Robinatuss Stad and 26.1 Robinatuss Stad.
+05/31/2017 11:42:14: 02.1 Robinatuss Stad: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 11:42:16: Switching to 02.2 Oz
+05/31/2017 11:42:21: 02.2 Oz: Nothing to build.
+05/31/2017 11:42:22: 02.2 Oz: Checking land unit queue.
+05/31/2017 11:42:23: 02.2 Oz: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:42:25: 02.2 Oz: Checking navy unit queue.
+05/31/2017 11:42:27: 02.2 Oz: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:42:28: 02.2 Oz: Starting trade between 02.2 Oz and 26.1 Robinatuss Stad.
+05/31/2017 11:42:30: 02.2 Oz: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 11:42:31: Switching to 03 mufftners Stadt
+05/31/2017 11:42:36: 03 mufftners Stadt: Nothing to build.
+05/31/2017 11:42:38: 03 mufftners Stadt: Checking land unit queue.
+05/31/2017 11:42:39: 03 mufftners Stadt: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:42:41: 03 mufftners Stadt: Checking navy unit queue.
+05/31/2017 11:42:42: 03 mufftners Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:42:44: 03 mufftners Stadt: Starting trade between 03 mufftners Stadt and 26.1 Robinatuss Stad.
+05/31/2017 11:42:46: 03 mufftners Stadt: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 11:42:47: Switching to 05 Pallantium
+05/31/2017 11:42:53: 05 Pallantium: Nothing to build.
+05/31/2017 11:42:54: 05 Pallantium: Checking land unit queue.
+05/31/2017 11:42:56: 05 Pallantium: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:42:58: 05 Pallantium: Checking navy unit queue.
+05/31/2017 11:43:00: 05 Pallantium: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:43:02: 05 Pallantium: Starting trade between 05 Pallantium and 26.1 Robinatuss Stad.
+05/31/2017 11:43:03: 05 Pallantium: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 11:43:05: Switching to 06 Loki
+05/31/2017 11:43:10: 06 Loki: Nothing to build.
+05/31/2017 11:43:12: 06 Loki: Checking land unit queue.
+05/31/2017 11:43:14: 06 Loki: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:43:16: 06 Loki: Checking navy unit queue.
+05/31/2017 11:43:17: 06 Loki: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:43:19: 06 Loki: Starting trade between 06 Loki and 26.1 Robinatuss Stad.
+05/31/2017 11:43:21: 06 Loki: Not enough resources to send.
+05/31/2017 11:43:22: Switching to 07 Robinatuss Stadt
+05/31/2017 11:43:28: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 11:43:29: 07 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 11:43:31: 07 Robinatuss Stadt: Unit queue skipped (Not enough resources or population).
+05/31/2017 11:43:32: 07 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 11:43:34: 07 Robinatuss Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:43:36: 07 Robinatuss Stadt: Starting trade between 07 Robinatuss Stadt and 26.1 Robinatuss Stad.
+05/31/2017 11:43:38: 07 Robinatuss Stadt: Not enough resources to send.
+05/31/2017 11:43:39: Switching to 08 Löwenstein
+05/31/2017 11:43:45: 08 Löwenstein: Nothing to build.
+05/31/2017 11:43:46: 08 Löwenstein: Checking land unit queue.
+05/31/2017 11:43:48: 08 Löwenstein: Adding harpy (1) to the ingame queue.
+05/31/2017 11:43:48: 08 Löwenstein: Land unit(s) added to ingame queue.
+05/31/2017 11:43:50: 08 Löwenstein: Checking navy unit queue.
+05/31/2017 11:43:52: 08 Löwenstein: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:43:54: 08 Löwenstein: Starting trade between 08 Löwenstein and 26.1 Robinatuss Stad.
+05/31/2017 11:43:56: 08 Löwenstein: Not enough resources to send.
+05/31/2017 11:43:57: Switching to 09.1 Kätzchen
+05/31/2017 11:44:03: 09.1 Kätzchen: Nothing to build.
+05/31/2017 11:44:04: 09.1 Kätzchen: Checking land unit queue.
+05/31/2017 11:44:06: 09.1 Kätzchen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:44:07: 09.1 Kätzchen: Checking navy unit queue.
+05/31/2017 11:44:09: 09.1 Kätzchen: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:44:10: 09.1 Kätzchen: Starting trade between 09.1 Kätzchen and 26.1 Robinatuss Stad.
+05/31/2017 11:44:12: 09.1 Kätzchen: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 11:44:13: Switching to 09.2 Scheiß Red Bull
+05/31/2017 11:44:18: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 11:44:20: 09.2 Scheiß Red Bull: Checking land unit queue.
+05/31/2017 11:44:21: 09.2 Scheiß Red Bull: Unit queue skipped (Not enough resources or population).
+05/31/2017 11:44:22: 09.2 Scheiß Red Bull: Checking navy unit queue.
+05/31/2017 11:44:24: 09.2 Scheiß Red Bull: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:44:25: 09.2 Scheiß Red Bull: Starting trade between 09.2 Scheiß Red Bull and 26.1 Robinatuss Stad.
+05/31/2017 11:44:27: 09.2 Scheiß Red Bull: Not enough resources to send.
+05/31/2017 11:44:29: Switching to 10 Noch einers Stadt
+05/31/2017 11:44:35: 10 Noch einers Stadt: Nothing to build.
+05/31/2017 11:44:37: 10 Noch einers Stadt: Checking land unit queue.
+05/31/2017 11:44:38: 10 Noch einers Stadt: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:44:39: 10 Noch einers Stadt: Checking navy unit queue.
+05/31/2017 11:44:41: 10 Noch einers Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:44:43: 10 Noch einers Stadt: Starting trade between 10 Noch einers Stadt and 26.1 Robinatuss Stad.
+05/31/2017 11:44:44: 10 Noch einers Stadt: Not enough resources to send.
+05/31/2017 11:44:46: Switching to 11.1 Sturmwind
+05/31/2017 11:44:51: 11.1 Sturmwind: Nothing to build.
+05/31/2017 11:44:52: 11.1 Sturmwind: Checking land unit queue.
+05/31/2017 11:44:54: 11.1 Sturmwind: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:44:55: 11.1 Sturmwind: Checking navy unit queue.
+05/31/2017 11:44:57: 11.1 Sturmwind: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:44:59: 11.1 Sturmwind: Starting trade between 11.1 Sturmwind and 21.2 Robinatuss Stad.
+05/31/2017 11:45:01: 11.1 Sturmwind: Not enough resources to send.
+05/31/2017 11:45:02: Switching to 11.2 Jochen
+05/31/2017 11:45:08: 11.2 Jochen: Nothing to build.
+05/31/2017 11:45:09: 11.2 Jochen: Checking land unit queue.
+05/31/2017 11:45:11: 11.2 Jochen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:45:13: 11.2 Jochen: Checking navy unit queue.
+05/31/2017 11:45:15: 11.2 Jochen: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:45:16: 11.2 Jochen: Starting trade between 11.2 Jochen and 21.2 Robinatuss Stad.
+05/31/2017 11:45:18: 11.2 Jochen: Not enough resources to send.
+05/31/2017 11:45:19: Switching to 12 Pfui I
+05/31/2017 11:45:24: 12 Pfui I: Nothing to build.
+05/31/2017 11:45:25: 12 Pfui I: Checking land unit queue.
+05/31/2017 11:45:27: 12 Pfui I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:45:28: 12 Pfui I: Checking navy unit queue.
+05/31/2017 11:45:30: 12 Pfui I: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:45:32: 12 Pfui I: Starting trade between 12 Pfui I and 26.1 Robinatuss Stad.
+05/31/2017 11:45:34: 12 Pfui I: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 11:45:36: Switching to 13 TekNo.a
+05/31/2017 11:45:41: 13 TekNo.a: Nothing to build.
+05/31/2017 11:45:43: 13 TekNo.a: Checking land unit queue.
+05/31/2017 11:45:45: 13 TekNo.a: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:45:46: 13 TekNo.a: Checking navy unit queue.
+05/31/2017 11:45:48: 13 TekNo.a: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:45:49: 13 TekNo.a: Starting trade between 13 TekNo.a and 21.1 Robinatuss Stad.
+05/31/2017 11:45:51: 13 TekNo.a: Not enough resources to send.
+05/31/2017 11:45:53: Switching to 14 011
+05/31/2017 11:45:59: 14 011: Nothing to build.
+05/31/2017 11:46:00: 14 011: Checking land unit queue.
+05/31/2017 11:46:02: 14 011: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:46:04: 14 011: Checking navy unit queue.
+05/31/2017 11:46:06: 14 011: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:46:08: 14 011: Starting trade between 14 011 and 26.1 Robinatuss Stad.
+05/31/2017 11:46:10: 14 011: Not enough resources to send.
+05/31/2017 11:46:12: Switching to 15 L01
+05/31/2017 11:46:18: 15 L01: Nothing to build.
+05/31/2017 11:46:20: 15 L01: Checking land unit queue.
+05/31/2017 11:46:22: 15 L01: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:46:23: 15 L01: Checking navy unit queue.
+05/31/2017 11:46:25: 15 L01: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:46:26: 15 L01: Starting trade between 15 L01 and 21.2 Robinatuss Stad.
+05/31/2017 11:46:28: 15 L01: Receiver 21.2 Robinatuss Stad has enough resources.
+05/31/2017 11:46:30: Switching to 16 Banana
+05/31/2017 11:46:35: 16 Banana: Nothing to build.
+05/31/2017 11:46:37: 16 Banana: Checking land unit queue.
+05/31/2017 11:46:38: 16 Banana: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:46:40: 16 Banana: Checking navy unit queue.
+05/31/2017 11:46:42: 16 Banana: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:46:44: 16 Banana: Starting trade between 16 Banana and 21.1 Robinatuss Stad.
+05/31/2017 11:46:46: 16 Banana: Not enough resources to send.
+05/31/2017 11:46:47: Switching to 17 Front N 1.0
+05/31/2017 11:46:53: 17 Front N 1.0: Demolishing temple .
+05/31/2017 11:46:57: 17 Front N 1.0: Checking land unit queue.
+05/31/2017 11:46:58: 17 Front N 1.0: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:47:00: 17 Front N 1.0: Checking navy unit queue.
+05/31/2017 11:47:01: 17 Front N 1.0: Navy queue skipped (Not enough resources or population).
+05/31/2017 11:47:02: 17 Front N 1.0: Starting trade between 17 Front N 1.0 and 21.2 Robinatuss Stad.
+05/31/2017 11:47:04: 17 Front N 1.0: Receiver 21.2 Robinatuss Stad has enough resources.
+05/31/2017 11:47:05: Switching to 18 Freiberg 01
+05/31/2017 11:47:10: 18 Freiberg 01: Nothing to build.
+05/31/2017 11:47:12: 18 Freiberg 01: Checking land unit queue.
+05/31/2017 11:47:13: 18 Freiberg 01: Adding manticore (1) to the ingame queue.
+05/31/2017 11:47:14: 18 Freiberg 01: Land unit(s) added to ingame queue.
+05/31/2017 11:47:16: 18 Freiberg 01: Checking navy unit queue.
+05/31/2017 11:47:17: 18 Freiberg 01: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:47:18: 18 Freiberg 01: Starting trade between 18 Freiberg 01 and 21.2 Robinatuss Stad.
+05/31/2017 11:47:20: 18 Freiberg 01: Not enough resources to send.
+05/31/2017 11:47:22: Switching to 19 Durch Reise
+05/31/2017 11:47:27: 19 Durch Reise: Nothing to build.
+05/31/2017 11:47:28: 19 Durch Reise: Checking land unit queue.
+05/31/2017 11:47:30: 19 Durch Reise: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:47:31: 19 Durch Reise: Checking navy unit queue.
+05/31/2017 11:47:33: 19 Durch Reise: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:47:34: 19 Durch Reise: Starting trade between 19 Durch Reise and 21.1 Robinatuss Stad.
+05/31/2017 11:47:36: 19 Durch Reise: Receiver 21.1 Robinatuss Stad has enough resources.
+05/31/2017 11:47:38: Switching to 20 Robinatuss Stadt
+05/31/2017 11:47:44: 20 Robinatuss Stadt: Adding temple to ingame queue.
+05/31/2017 11:47:46: 20 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 11:47:48: 20 Robinatuss Stadt: Army queue is disabled for this town or queue is full.
+05/31/2017 11:47:49: 20 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 11:47:51: 20 Robinatuss Stadt: Navy queue is disabled for this town or queue is full.
+05/31/2017 11:47:53: Switching to 21.1 Robinatuss Stad
+05/31/2017 11:47:59: 21.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 11:48:01: 21.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 11:48:03: 21.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 11:48:04: 21.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 11:48:06: 21.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 11:48:08: Switching to 21.2 Robinatuss Stad
+05/31/2017 11:48:14: 21.2 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 11:48:15: 21.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 11:48:17: 21.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 11:48:18: 21.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 11:48:20: 21.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 11:48:22: Switching to 22 Blutiger Anfänger
+05/31/2017 11:48:27: 22 Blutiger Anfänger: Demolishing market .
+05/31/2017 11:48:31: 22 Blutiger Anfänger: Checking land unit queue.
+05/31/2017 11:48:32: 22 Blutiger Anfänger: Adding hoplite (15) to the ingame queue.
+05/31/2017 11:48:33: 22 Blutiger Anfänger: Land unit(s) added to ingame queue.
+05/31/2017 11:48:34: 22 Blutiger Anfänger: Checking navy unit queue.
+05/31/2017 11:48:36: 22 Blutiger Anfänger: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:48:38: 22 Blutiger Anfänger: Starting trade between 22 Blutiger Anfänger and 21.1 Robinatuss Stad.
+05/31/2017 11:48:40: 22 Blutiger Anfänger: Not enough resources to send.
+05/31/2017 11:48:41: Switching to 23 m55-001
+05/31/2017 11:48:47: 23 m55-001: Nothing to build.
+05/31/2017 11:48:48: 23 m55-001: Checking land unit queue.
+05/31/2017 11:48:50: 23 m55-001: Unit queue skipped (Can't find trainable units.)
+05/31/2017 11:48:51: 23 m55-001: Checking navy unit queue.
+05/31/2017 11:48:54: 23 m55-001: Navy queue skipped (Can't find trainable units).
+05/31/2017 11:48:55: 23 m55-001: Starting trade between 23 m55-001 and 21.1 Robinatuss Stad.
+05/31/2017 11:48:57: 23 m55-001: Sending resources to 21.1 Robinatuss Stad. (Wood: 508/28562, Stone: 0/28229, Silver: 600/28229)
+05/31/2017 11:48:59: Switching to 24.1 Robinatuss Stad
+05/31/2017 11:49:04: 24.1 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 11:49:06: 24.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 11:49:08: 24.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 11:49:10: 24.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 11:49:12: 24.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 11:49:13: Switching to 24.2 Robinatuss Stad
+05/31/2017 11:49:18: 24.2 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 11:49:21: 24.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 11:49:22: 24.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 11:49:24: 24.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 11:49:26: 24.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 11:49:28: Switching to 25.1 Robinatuss Stad
+05/31/2017 11:49:34: 25.1 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 11:49:36: 25.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 11:49:38: 25.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 11:49:39: 25.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 11:49:41: 25.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 11:49:42: Switching to 25.2 Robinatuss Stad
+05/31/2017 11:49:47: 25.2 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 11:49:49: 25.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 11:49:51: 25.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 11:49:52: 25.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 11:49:54: 25.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 11:49:55: Switching to 26.1 Robinatuss Stad
+05/31/2017 11:50:00: 26.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 11:50:02: 26.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 11:50:04: 26.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 11:50:05: 26.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 11:50:07: 26.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 11:50:08: Switching to 26.2 Robinatuss Stad
+05/31/2017 11:50:13: 26.2 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 11:50:15: 26.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 11:50:16: 26.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 11:50:17: 26.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 11:50:19: 26.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 11:50:21: Switching to 26.3 Robinatuss Stad
+05/31/2017 11:50:26: 26.3 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 11:50:27: 26.3 Robinatuss Stad: Checking land unit queue.
+05/31/2017 11:50:29: 26.3 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 11:50:31: 26.3 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 11:50:33: 26.3 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 11:50:34: Finished Cycle!
+05/31/2017 11:52:49: Starting Cycle!
+05/31/2017 11:52:50: Finished Cycle!
+05/31/2017 11:53:21: Exception in RefreshTimerUpdatedCrossThread: Auf das verworfene Objekt kann nicht zugegriffen werden.
+Objektname: "MainForm".
+05/31/2017 11:53:21: Exception in BuildTimerUpdatedCrossThread: Auf das verworfene Objekt kann nicht zugegriffen werden.
+Objektname: "MainForm".
+05/31/2017 11:53:21: Exception in FarmerTimerUpdatedCrossThread: Auf das verworfene Objekt kann nicht zugegriffen werden.
+Objektname: "MainForm".
+05/31/2017 11:53:21: Exception in TradingTimerUpdatedCrossThread: Auf das verworfene Objekt kann nicht zugegriffen werden.
+Objektname: "MainForm".
+05/31/2017 11:53:21: Exception in UnitTimerUpdatedCrossThread: Auf das verworfene Objekt kann nicht zugegriffen werden.
+Objektname: "MainForm".
+05/31/2017 11:53:23: Exception in UnitTimerUpdatedCrossThread: Fehler beim Aufrufen der Methode. Der Zielthread ist nicht mehr vorhanden.
+05/31/2017 11:53:23: Exception in TradingTimerUpdatedCrossThread: Fehler beim Aufrufen der Methode. Der Zielthread ist nicht mehr vorhanden.
+05/31/2017 11:53:23: Exception in BuildTimerUpdatedCrossThread: Fehler beim Aufrufen der Methode. Der Zielthread ist nicht mehr vorhanden.
+05/31/2017 11:53:23: Exception in FarmerTimerUpdatedCrossThread: Fehler beim Aufrufen der Methode. Der Zielthread ist nicht mehr vorhanden.
+05/31/2017 11:53:23: Exception in RefreshTimerUpdatedCrossThread: Fehler beim Aufrufen der Methode. Der Zielthread ist nicht mehr vorhanden.
+05/31/2017 11:53:23: Exception in UnitTimerUpdatedCrossThread: Fehler beim Aufrufen der Methode. Der Zielthread ist nicht mehr vorhanden.
+05/31/2017 11:53:23: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 11:53:23: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 11:53:23: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 11:53:23: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 11:53:23: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 11:53:23: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 11:53:23: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 11:53:23: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 11:53:23: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 12:59:10: Started GrepBOTlis V.1.0.0.0
+05/31/2017 12:59:16: Login to Grepolis.
+05/31/2017 12:59:22: Updating Town Data.
+05/31/2017 12:59:25: Updating Game Data.
+05/31/2017 12:59:27: Updating Building Data.
+05/31/2017 12:59:29: Updating Unit Data.
+05/31/2017 12:59:29: Login successful.
+05/31/2017 12:59:51: Starting Cycle!
+05/31/2017 12:59:52: Switching to 01.1 Knie nieder
+05/31/2017 12:59:57: 01.1 Knie nieder: Nothing to build.
+05/31/2017 12:59:59: 01.1 Knie nieder: Checking land unit queue.
+05/31/2017 13:00:01: 01.1 Knie nieder: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:00:03: 01.1 Knie nieder: Checking navy unit queue.
+05/31/2017 13:00:04: 01.1 Knie nieder: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:00:06: 01.1 Knie nieder: Starting trade between 01.1 Knie nieder and 26.1 Robinatuss Stad.
+05/31/2017 13:00:07: 01.1 Knie nieder: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 13:00:09: Switching to 01.2 Knie nieder I
+05/31/2017 13:00:14: 01.2 Knie nieder I: Nothing to build.
+05/31/2017 13:00:15: 01.2 Knie nieder I: Checking land unit queue.
+05/31/2017 13:00:17: 01.2 Knie nieder I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:00:18: 01.2 Knie nieder I: Checking navy unit queue.
+05/31/2017 13:00:21: 01.2 Knie nieder I: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:00:23: 01.2 Knie nieder I: Starting trade between 01.2 Knie nieder I and 26.1 Robinatuss Stad.
+05/31/2017 13:00:24: 01.2 Knie nieder I: Not enough resources to send.
+05/31/2017 13:00:25: Switching to 02.1 Robinatuss Stad
+05/31/2017 13:00:31: 02.1 Robinatuss Stad: Nothing to build.
+05/31/2017 13:00:33: 02.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:00:34: 02.1 Robinatuss Stad: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:00:36: 02.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:00:38: 02.1 Robinatuss Stad: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:00:39: 02.1 Robinatuss Stad: Starting trade between 02.1 Robinatuss Stad and 26.1 Robinatuss Stad.
+05/31/2017 13:00:41: 02.1 Robinatuss Stad: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 13:00:43: Switching to 02.2 Oz
+05/31/2017 13:00:49: 02.2 Oz: Nothing to build.
+05/31/2017 13:00:50: 02.2 Oz: Checking land unit queue.
+05/31/2017 13:00:52: 02.2 Oz: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:00:54: 02.2 Oz: Checking navy unit queue.
+05/31/2017 13:00:56: 02.2 Oz: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:00:57: 02.2 Oz: Starting trade between 02.2 Oz and 26.1 Robinatuss Stad.
+05/31/2017 13:00:59: 02.2 Oz: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 13:01:00: Switching to 03 mufftners Stadt
+05/31/2017 13:01:06: 03 mufftners Stadt: Nothing to build.
+05/31/2017 13:01:08: 03 mufftners Stadt: Checking land unit queue.
+05/31/2017 13:01:10: 03 mufftners Stadt: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:01:11: 03 mufftners Stadt: Checking navy unit queue.
+05/31/2017 13:01:13: 03 mufftners Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:01:14: 03 mufftners Stadt: Starting trade between 03 mufftners Stadt and 26.1 Robinatuss Stad.
+05/31/2017 13:01:16: 03 mufftners Stadt: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 13:01:17: Switching to 05 Pallantium
+05/31/2017 13:01:21: 05 Pallantium: Nothing to build.
+05/31/2017 13:01:22: 05 Pallantium: Checking land unit queue.
+05/31/2017 13:01:23: 05 Pallantium: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:01:24: 05 Pallantium: Checking navy unit queue.
+05/31/2017 13:01:25: 05 Pallantium: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:01:25: 05 Pallantium: Starting trade between 05 Pallantium and 26.1 Robinatuss Stad.
+05/31/2017 13:01:26: 05 Pallantium: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 13:01:27: Switching to 06 Loki
+05/31/2017 13:01:31: 06 Loki: Nothing to build.
+05/31/2017 13:01:32: 06 Loki: Checking land unit queue.
+05/31/2017 13:01:33: 06 Loki: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:01:34: 06 Loki: Checking navy unit queue.
+05/31/2017 13:01:35: 06 Loki: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:01:36: 06 Loki: Starting trade between 06 Loki and 26.1 Robinatuss Stad.
+05/31/2017 13:01:38: 06 Loki: Not enough resources to send.
+05/31/2017 13:01:39: Switching to 07 Robinatuss Stadt
+05/31/2017 13:01:42: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 13:01:43: 07 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 13:01:44: 07 Robinatuss Stadt: Unit queue skipped (Not enough resources or population).
+05/31/2017 13:01:45: 07 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 13:01:46: 07 Robinatuss Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:01:47: 07 Robinatuss Stadt: Starting trade between 07 Robinatuss Stadt and 26.1 Robinatuss Stad.
+05/31/2017 13:01:48: 07 Robinatuss Stadt: Not enough resources to send.
+05/31/2017 13:01:49: Switching to 08 Löwenstein
+05/31/2017 13:01:52: 08 Löwenstein: Nothing to build.
+05/31/2017 13:01:53: 08 Löwenstein: Checking land unit queue.
+05/31/2017 13:01:54: 08 Löwenstein: Unit queue skipped (Not enough resources or population).
+05/31/2017 13:01:55: 08 Löwenstein: Checking navy unit queue.
+05/31/2017 13:01:56: 08 Löwenstein: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:01:57: 08 Löwenstein: Starting trade between 08 Löwenstein and 26.1 Robinatuss Stad.
+05/31/2017 13:01:59: 08 Löwenstein: Not enough resources to send.
+05/31/2017 13:02:00: Switching to 09.1 Kätzchen
+05/31/2017 13:02:04: 09.1 Kätzchen: Nothing to build.
+05/31/2017 13:02:05: 09.1 Kätzchen: Checking land unit queue.
+05/31/2017 13:02:06: 09.1 Kätzchen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:02:07: 09.1 Kätzchen: Checking navy unit queue.
+05/31/2017 13:02:09: 09.1 Kätzchen: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:02:10: 09.1 Kätzchen: Starting trade between 09.1 Kätzchen and 26.1 Robinatuss Stad.
+05/31/2017 13:02:11: 09.1 Kätzchen: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 13:02:12: Switching to 09.2 Scheiß Red Bull
+05/31/2017 13:02:16: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 13:02:17: 09.2 Scheiß Red Bull: Checking land unit queue.
+05/31/2017 13:02:19: 09.2 Scheiß Red Bull: Unit queue skipped (Not enough resources or population).
+05/31/2017 13:02:20: 09.2 Scheiß Red Bull: Checking navy unit queue.
+05/31/2017 13:02:21: 09.2 Scheiß Red Bull: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:02:22: 09.2 Scheiß Red Bull: Starting trade between 09.2 Scheiß Red Bull and 26.1 Robinatuss Stad.
+05/31/2017 13:02:24: 09.2 Scheiß Red Bull: Not enough resources to send.
+05/31/2017 13:02:25: Switching to 10 Noch einers Stadt
+05/31/2017 13:02:29: 10 Noch einers Stadt: Nothing to build.
+05/31/2017 13:02:30: 10 Noch einers Stadt: Checking land unit queue.
+05/31/2017 13:02:31: 10 Noch einers Stadt: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:02:32: 10 Noch einers Stadt: Checking navy unit queue.
+05/31/2017 13:02:33: 10 Noch einers Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:02:34: 10 Noch einers Stadt: Starting trade between 10 Noch einers Stadt and 26.1 Robinatuss Stad.
+05/31/2017 13:02:36: 10 Noch einers Stadt: Not enough resources to send.
+05/31/2017 13:02:37: Switching to 11.1 Sturmwind
+05/31/2017 13:02:41: 11.1 Sturmwind: Nothing to build.
+05/31/2017 13:02:42: 11.1 Sturmwind: Checking land unit queue.
+05/31/2017 13:02:43: 11.1 Sturmwind: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:02:44: 11.1 Sturmwind: Checking navy unit queue.
+05/31/2017 13:02:46: 11.1 Sturmwind: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:02:47: 11.1 Sturmwind: Starting trade between 11.1 Sturmwind and 21.2 Robinatuss Stad.
+05/31/2017 13:02:48: 11.1 Sturmwind: Not enough resources to send.
+05/31/2017 13:02:49: Switching to 11.2 Jochen
+05/31/2017 13:02:53: 11.2 Jochen: Nothing to build.
+05/31/2017 13:02:54: 11.2 Jochen: Checking land unit queue.
+05/31/2017 13:02:55: 11.2 Jochen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:02:56: 11.2 Jochen: Checking navy unit queue.
+05/31/2017 13:02:57: 11.2 Jochen: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:02:59: 11.2 Jochen: Starting trade between 11.2 Jochen and 21.2 Robinatuss Stad.
+05/31/2017 13:03:00: 11.2 Jochen: Not enough resources to send.
+05/31/2017 13:03:01: Switching to 12 Pfui I
+05/31/2017 13:03:05: 12 Pfui I: Nothing to build.
+05/31/2017 13:03:06: 12 Pfui I: Checking land unit queue.
+05/31/2017 13:03:07: 12 Pfui I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:03:08: 12 Pfui I: Checking navy unit queue.
+05/31/2017 13:03:10: 12 Pfui I: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:03:11: 12 Pfui I: Starting trade between 12 Pfui I and 26.1 Robinatuss Stad.
+05/31/2017 13:03:12: 12 Pfui I: Receiver 26.1 Robinatuss Stad has enough resources.
+05/31/2017 13:03:13: Switching to 13 TekNo.a
+05/31/2017 13:03:17: 13 TekNo.a: Nothing to build.
+05/31/2017 13:03:18: 13 TekNo.a: Checking land unit queue.
+05/31/2017 13:03:19: 13 TekNo.a: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:03:20: 13 TekNo.a: Checking navy unit queue.
+05/31/2017 13:03:22: 13 TekNo.a: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:03:23: 13 TekNo.a: Starting trade between 13 TekNo.a and 21.1 Robinatuss Stad.
+05/31/2017 13:03:24: 13 TekNo.a: Not enough resources to send.
+05/31/2017 13:03:25: Switching to 14 011
+05/31/2017 13:03:29: 14 011: Nothing to build.
+05/31/2017 13:03:30: 14 011: Checking land unit queue.
+05/31/2017 13:03:31: 14 011: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:03:32: 14 011: Checking navy unit queue.
+05/31/2017 13:03:33: 14 011: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:03:35: 14 011: Starting trade between 14 011 and 26.1 Robinatuss Stad.
+05/31/2017 13:03:36: 14 011: Not enough resources to send.
+05/31/2017 13:03:37: Switching to 15 L01
+05/31/2017 13:03:41: 15 L01: Nothing to build.
+05/31/2017 13:03:42: 15 L01: Checking land unit queue.
+05/31/2017 13:03:43: 15 L01: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:03:44: 15 L01: Checking navy unit queue.
+05/31/2017 13:03:46: 15 L01: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:03:47: 15 L01: Starting trade between 15 L01 and 21.2 Robinatuss Stad.
+05/31/2017 13:03:48: 15 L01: Receiver 21.2 Robinatuss Stad has enough resources.
+05/31/2017 13:03:49: Switching to 16 Banana
+05/31/2017 13:03:53: 16 Banana: Nothing to build.
+05/31/2017 13:03:54: 16 Banana: Checking land unit queue.
+05/31/2017 13:03:55: 16 Banana: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:03:57: 16 Banana: Checking navy unit queue.
+05/31/2017 13:03:58: 16 Banana: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:03:59: 16 Banana: Starting trade between 16 Banana and 21.1 Robinatuss Stad.
+05/31/2017 13:04:00: 16 Banana: Not enough resources to send.
+05/31/2017 13:04:01: Switching to 17 Front N 1.0
+05/31/2017 13:04:05: 17 Front N 1.0: Demolishing temple .
+05/31/2017 13:04:07: 17 Front N 1.0: Checking land unit queue.
+05/31/2017 13:04:09: 17 Front N 1.0: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:04:10: 17 Front N 1.0: Checking navy unit queue.
+05/31/2017 13:04:11: 17 Front N 1.0: Navy queue skipped (Not enough resources or population).
+05/31/2017 13:04:13: 17 Front N 1.0: Starting trade between 17 Front N 1.0 and 21.2 Robinatuss Stad.
+05/31/2017 13:04:14: 17 Front N 1.0: Receiver 21.2 Robinatuss Stad has enough resources.
+05/31/2017 13:04:15: Switching to 18 Freiberg 01
+05/31/2017 13:04:19: 18 Freiberg 01: Nothing to build.
+05/31/2017 13:04:20: 18 Freiberg 01: Checking land unit queue.
+05/31/2017 13:04:21: 18 Freiberg 01: Unit queue skipped (Not enough resources or population).
+05/31/2017 13:04:22: 18 Freiberg 01: Checking navy unit queue.
+05/31/2017 13:04:23: 18 Freiberg 01: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:04:25: 18 Freiberg 01: Starting trade between 18 Freiberg 01 and 21.2 Robinatuss Stad.
+05/31/2017 13:04:26: 18 Freiberg 01: Not enough resources to send.
+05/31/2017 13:04:27: Switching to 19 Durch Reise
+05/31/2017 13:04:31: 19 Durch Reise: Nothing to build.
+05/31/2017 13:04:32: 19 Durch Reise: Checking land unit queue.
+05/31/2017 13:04:33: 19 Durch Reise: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:04:34: 19 Durch Reise: Checking navy unit queue.
+05/31/2017 13:04:35: 19 Durch Reise: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:04:37: 19 Durch Reise: Starting trade between 19 Durch Reise and 21.1 Robinatuss Stad.
+05/31/2017 13:04:38: 19 Durch Reise: Receiver 21.1 Robinatuss Stad has enough resources.
+05/31/2017 13:04:39: Switching to 20 Robinatuss Stadt
+05/31/2017 13:04:43: 20 Robinatuss Stadt: Adding temple to ingame queue.
+05/31/2017 13:04:44: 20 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 13:04:45: 20 Robinatuss Stadt: Army queue is disabled for this town or queue is full.
+05/31/2017 13:04:46: 20 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 13:04:48: 20 Robinatuss Stadt: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:04:49: Switching to 21.1 Robinatuss Stad
+05/31/2017 13:04:53: 21.1 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 13:04:54: 21.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:04:55: 21.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:04:56: 21.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:04:58: 21.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:04:59: Switching to 21.2 Robinatuss Stad
+05/31/2017 13:05:02: 21.2 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 13:05:04: 21.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:05:05: 21.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:05:06: 21.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:05:08: 21.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:05:09: Switching to 22 Blutiger Anfänger
+05/31/2017 13:05:14: 22 Blutiger Anfänger: Demolishing market .
+05/31/2017 13:05:17: 22 Blutiger Anfänger: Checking land unit queue.
+05/31/2017 13:05:18: 22 Blutiger Anfänger: Adding hoplite (20) to the ingame queue.
+05/31/2017 13:05:18: 22 Blutiger Anfänger: Land unit(s) added to ingame queue.
+05/31/2017 13:05:19: 22 Blutiger Anfänger: Checking navy unit queue.
+05/31/2017 13:05:21: 22 Blutiger Anfänger: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:05:22: 22 Blutiger Anfänger: Starting trade between 22 Blutiger Anfänger and 21.1 Robinatuss Stad.
+05/31/2017 13:05:23: 22 Blutiger Anfänger: Not enough resources to send.
+05/31/2017 13:05:24: Switching to 23 m55-001
+05/31/2017 13:05:28: 23 m55-001: Nothing to build.
+05/31/2017 13:05:29: 23 m55-001: Checking land unit queue.
+05/31/2017 13:05:30: 23 m55-001: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:05:31: 23 m55-001: Checking navy unit queue.
+05/31/2017 13:05:33: 23 m55-001: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:05:34: 23 m55-001: Starting trade between 23 m55-001 and 21.1 Robinatuss Stad.
+05/31/2017 13:05:35: 23 m55-001: Sending resources to 21.1 Robinatuss Stad. (Wood: 156/28914, Stone: 0/28686, Silver: 384/28686)
+05/31/2017 13:05:37: Switching to 24.1 Robinatuss Stad
+05/31/2017 13:05:40: 24.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 13:05:42: 24.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:05:43: 24.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:05:44: 24.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:05:46: 24.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:05:47: Switching to 24.2 Robinatuss Stad
+05/31/2017 13:05:51: 24.2 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 13:05:52: 24.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:05:53: 24.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:05:54: 24.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:05:56: 24.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:05:57: Switching to 25.1 Robinatuss Stad
+05/31/2017 13:06:00: 25.1 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 13:06:02: 25.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:06:03: 25.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:06:04: 25.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:06:05: 25.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:06:06: Switching to 25.2 Robinatuss Stad
+05/31/2017 13:06:10: 25.2 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 13:06:12: 25.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:06:13: 25.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:06:14: 25.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:06:15: 25.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:06:16: Switching to 26.1 Robinatuss Stad
+05/31/2017 13:06:20: 26.1 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 13:06:22: 26.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:06:23: 26.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:06:24: 26.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:06:25: 26.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:06:26: Switching to 26.2 Robinatuss Stad
+05/31/2017 13:06:30: 26.2 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 13:06:31: 26.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:06:32: 26.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:06:34: 26.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:06:35: 26.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:06:36: Switching to 26.3 Robinatuss Stad
+05/31/2017 13:06:40: 26.3 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 13:06:41: 26.3 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:06:42: 26.3 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:06:43: 26.3 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:06:44: 26.3 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:06:46: Finished Cycle!
+05/31/2017 13:09:54: Starting Cycle!
+05/31/2017 13:09:55: Finished Cycle!
+05/31/2017 13:10:58: Starting Cycle!
+05/31/2017 13:10:59: Finished Cycle!
+05/31/2017 13:14:04: Starting Cycle!
+05/31/2017 13:14:05: Finished Cycle!
+05/31/2017 13:16:24: Starting Cycle!
+05/31/2017 13:16:25: Finished Cycle!
+05/31/2017 13:18:28: Starting Cycle!
+05/31/2017 13:18:29: Finished Cycle!
+05/31/2017 13:21:41: Starting Cycle!
+05/31/2017 13:21:42: Finished Cycle!
+05/31/2017 13:22:52: Starting Cycle!
+05/31/2017 13:22:53: Finished Cycle!
+05/31/2017 13:26:16: Starting Cycle!
+05/31/2017 13:26:17: Finished Cycle!
+05/31/2017 13:27:18: Starting Cycle!
+05/31/2017 13:27:19: Finished Cycle!
+05/31/2017 13:29:41: Starting Cycle!
+05/31/2017 13:29:42: Finished Cycle!
+05/31/2017 13:30:49: Starting Cycle!
+05/31/2017 13:30:50: Finished Cycle!
+05/31/2017 13:32:00: Starting Cycle!
+05/31/2017 13:32:01: Finished Cycle!
+05/31/2017 13:34:05: Starting Cycle!
+05/31/2017 13:34:06: Finished Cycle!
+05/31/2017 13:35:15: Starting Cycle!
+05/31/2017 13:35:17: Finished Cycle!
+05/31/2017 13:36:24: Starting Cycle!
+05/31/2017 13:36:25: Finished Cycle!
+05/31/2017 13:37:26: Starting Cycle!
+05/31/2017 13:37:28: Finished Cycle!
+05/31/2017 13:40:52: Starting Cycle!
+05/31/2017 13:40:53: Finished Cycle!
+05/31/2017 13:42:54: Starting Cycle!
+05/31/2017 13:42:56: Finished Cycle!
+05/31/2017 13:44:29: Started GrepBOTlis V.1.0.0.0
+05/31/2017 13:44:47: Login to Grepolis.
+05/31/2017 13:44:51: Updating Town Data.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:51: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:52: Exception in LoadTownSettingsFromXml: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+05/31/2017 13:44:53: Updating Game Data.
+05/31/2017 13:47:33: Started GrepBOTlis V.1.0.0.0
+05/31/2017 13:47:34: Login to Grepolis.
+05/31/2017 13:47:38: Updating Town Data.
+05/31/2017 13:47:40: Updating Game Data.
+05/31/2017 13:47:42: Updating Building Data.
+05/31/2017 13:47:44: Updating Unit Data.
+05/31/2017 13:47:44: Login successful.
+05/31/2017 13:49:44: Starting Cycle!
+05/31/2017 13:51:22: Started GrepBOTlis V.1.0.0.0
+05/31/2017 13:51:23: Login to Grepolis.
+05/31/2017 13:51:27: Updating Town Data.
+05/31/2017 13:51:29: Updating Game Data.
+05/31/2017 13:51:31: Updating Building Data.
+05/31/2017 13:51:33: Updating Unit Data.
+05/31/2017 13:51:33: Login successful.
+05/31/2017 13:51:51: Starting Cycle!
+05/31/2017 13:51:52: Switching to 01.1 Knie nieder
+05/31/2017 13:51:55: 01.1 Knie nieder: Nothing to build.
+05/31/2017 13:51:56: 01.1 Knie nieder: Checking land unit queue.
+05/31/2017 13:51:58: 01.1 Knie nieder: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:51:59: 01.1 Knie nieder: Checking navy unit queue.
+05/31/2017 13:52:00: 01.1 Knie nieder: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:52:01: 01.1 Knie nieder: Starting trade between 01.1 Knie nieder and 26.1 Robinatuss Stad.
+05/31/2017 13:52:02: 01.1 Knie nieder: Sending resources to 26.1 Robinatuss Stad. (Wood: 743/8888, Stone: 0/9905, Silver: 0/9905)
+05/31/2017 13:52:04: Switching to 01.2 Knie nieder I
+05/31/2017 13:52:08: 01.2 Knie nieder I: Nothing to build.
+05/31/2017 13:52:09: 01.2 Knie nieder I: Checking land unit queue.
+05/31/2017 13:52:10: 01.2 Knie nieder I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:52:11: 01.2 Knie nieder I: Checking navy unit queue.
+05/31/2017 13:52:13: 01.2 Knie nieder I: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:52:14: 01.2 Knie nieder I: Starting trade between 01.2 Knie nieder I and 26.1 Robinatuss Stad.
+05/31/2017 13:52:15: 01.2 Knie nieder I: Not enough resources to send.
+05/31/2017 13:52:16: Switching to 02.1 Robinatuss Stad
+05/31/2017 13:52:20: 02.1 Robinatuss Stad: Nothing to build.
+05/31/2017 13:52:21: 02.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:52:22: 02.1 Robinatuss Stad: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:52:23: 02.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:52:25: 02.1 Robinatuss Stad: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:52:26: 02.1 Robinatuss Stad: Starting trade between 02.1 Robinatuss Stad and 26.1 Robinatuss Stad.
+05/31/2017 13:52:27: 02.1 Robinatuss Stad: Sending resources to 26.1 Robinatuss Stad. (Wood: 600/9634, Stone: 0/9910, Silver: 0/9910)
+05/31/2017 13:52:28: Switching to 02.2 Oz
+05/31/2017 13:52:32: 02.2 Oz: Nothing to build.
+05/31/2017 13:52:33: 02.2 Oz: Checking land unit queue.
+05/31/2017 13:52:35: 02.2 Oz: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:52:36: 02.2 Oz: Checking navy unit queue.
+05/31/2017 13:52:37: 02.2 Oz: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:52:38: 02.2 Oz: Starting trade between 02.2 Oz and 26.1 Robinatuss Stad.
+05/31/2017 13:52:40: 02.2 Oz: Sending resources to 26.1 Robinatuss Stad. (Wood: 600/10235, Stone: 0/9913, Silver: 0/9913)
+05/31/2017 13:52:41: Switching to 03 mufftners Stadt
+05/31/2017 13:52:45: 03 mufftners Stadt: Nothing to build.
+05/31/2017 13:52:46: 03 mufftners Stadt: Checking land unit queue.
+05/31/2017 13:52:47: 03 mufftners Stadt: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:52:48: 03 mufftners Stadt: Checking navy unit queue.
+05/31/2017 13:52:49: 03 mufftners Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:52:50: 03 mufftners Stadt: Starting trade between 03 mufftners Stadt and 26.1 Robinatuss Stad.
+05/31/2017 13:52:51: 03 mufftners Stadt: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 10000, Wood: 5199, Stone: 2071, Silver: 15600)
+05/31/2017 13:52:52: Switching to 05 Pallantium
+05/31/2017 13:52:56: 05 Pallantium: Nothing to build.
+05/31/2017 13:52:58: 05 Pallantium: Checking land unit queue.
+05/31/2017 13:52:59: 05 Pallantium: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:53:00: 05 Pallantium: Checking navy unit queue.
+05/31/2017 13:53:01: 05 Pallantium: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:53:02: 05 Pallantium: Starting trade between 05 Pallantium and 26.1 Robinatuss Stad.
+05/31/2017 13:53:03: 05 Pallantium: Sending resources to 26.1 Robinatuss Stad. (Wood: 600/10838, Stone: 0/9918, Silver: 0/9918)
+05/31/2017 13:53:05: Switching to 06 Loki
+05/31/2017 13:53:08: 06 Loki: Nothing to build.
+05/31/2017 13:53:10: 06 Loki: Checking land unit queue.
+05/31/2017 13:53:11: 06 Loki: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:53:12: 06 Loki: Checking navy unit queue.
+05/31/2017 13:53:13: 06 Loki: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:53:14: 06 Loki: Starting trade between 06 Loki and 26.1 Robinatuss Stad.
+05/31/2017 13:53:15: 06 Loki: Not enough resources to send.
+05/31/2017 13:53:16: Switching to 07 Robinatuss Stadt
+05/31/2017 13:53:20: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 13:53:21: 07 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 13:53:22: 07 Robinatuss Stadt: Unit queue skipped (Not enough resources or population).
+05/31/2017 13:53:24: 07 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 13:53:25: 07 Robinatuss Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:53:26: 07 Robinatuss Stadt: Starting trade between 07 Robinatuss Stadt and 26.1 Robinatuss Stad.
+05/31/2017 13:53:27: 07 Robinatuss Stadt: Not enough resources to send.
+05/31/2017 13:53:28: Switching to 08 Löwenstein
+05/31/2017 13:53:32: 08 Löwenstein: Nothing to build.
+05/31/2017 13:53:33: 08 Löwenstein: Checking land unit queue.
+05/31/2017 13:53:34: 08 Löwenstein: Adding harpy (1) to the ingame queue.
+05/31/2017 13:53:35: 08 Löwenstein: Land unit(s) added to ingame queue.
+05/31/2017 13:53:36: 08 Löwenstein: Checking navy unit queue.
+05/31/2017 13:53:37: 08 Löwenstein: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:53:38: 08 Löwenstein: Starting trade between 08 Löwenstein and 26.1 Robinatuss Stad.
+05/31/2017 13:53:40: 08 Löwenstein: Not enough resources to send.
+05/31/2017 13:53:41: Switching to 09.1 Kätzchen
+05/31/2017 13:53:44: 09.1 Kätzchen: Nothing to build.
+05/31/2017 13:53:45: 09.1 Kätzchen: Checking land unit queue.
+05/31/2017 13:53:47: 09.1 Kätzchen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:53:48: 09.1 Kätzchen: Checking navy unit queue.
+05/31/2017 13:53:49: 09.1 Kätzchen: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:53:50: 09.1 Kätzchen: Starting trade between 09.1 Kätzchen and 26.1 Robinatuss Stad.
+05/31/2017 13:53:52: 09.1 Kätzchen: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 10000, Wood: 5223, Stone: 2101, Silver: 15600)
+05/31/2017 13:53:53: Switching to 09.2 Scheiß Red Bull
+05/31/2017 13:53:56: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 13:53:58: 09.2 Scheiß Red Bull: Checking land unit queue.
+05/31/2017 13:53:59: 09.2 Scheiß Red Bull: Unit queue skipped (Not enough resources or population).
+05/31/2017 13:54:00: 09.2 Scheiß Red Bull: Checking navy unit queue.
+05/31/2017 13:54:01: 09.2 Scheiß Red Bull: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:54:03: 09.2 Scheiß Red Bull: Starting trade between 09.2 Scheiß Red Bull and 26.1 Robinatuss Stad.
+05/31/2017 13:54:04: 09.2 Scheiß Red Bull: Not enough resources to send.
+05/31/2017 13:54:05: Switching to 10 Noch einers Stadt
+05/31/2017 13:54:09: 10 Noch einers Stadt: Nothing to build.
+05/31/2017 13:54:10: 10 Noch einers Stadt: Checking land unit queue.
+05/31/2017 13:54:11: 10 Noch einers Stadt: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:54:12: 10 Noch einers Stadt: Checking navy unit queue.
+05/31/2017 13:54:14: 10 Noch einers Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:54:15: 10 Noch einers Stadt: Starting trade between 10 Noch einers Stadt and 26.1 Robinatuss Stad.
+05/31/2017 13:54:16: 10 Noch einers Stadt: Not enough resources to send.
+05/31/2017 13:54:17: Switching to 11.1 Sturmwind
+05/31/2017 13:54:21: 11.1 Sturmwind: Nothing to build.
+05/31/2017 13:54:22: 11.1 Sturmwind: Checking land unit queue.
+05/31/2017 13:54:24: 11.1 Sturmwind: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:54:25: 11.1 Sturmwind: Checking navy unit queue.
+05/31/2017 13:54:26: 11.1 Sturmwind: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:54:27: 11.1 Sturmwind: Starting trade between 11.1 Sturmwind and 21.2 Robinatuss Stad.
+05/31/2017 13:54:29: 11.1 Sturmwind: Not enough resources to send.
+05/31/2017 13:54:30: Switching to 11.2 Jochen
+05/31/2017 13:54:33: 11.2 Jochen: Started triumph.
+05/31/2017 13:54:35: 11.2 Jochen: Nothing to build.
+05/31/2017 13:54:36: 11.2 Jochen: Checking land unit queue.
+05/31/2017 13:54:37: 11.2 Jochen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:54:38: 11.2 Jochen: Checking navy unit queue.
+05/31/2017 13:54:40: 11.2 Jochen: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:54:41: 11.2 Jochen: Starting trade between 11.2 Jochen and 21.2 Robinatuss Stad.
+05/31/2017 13:54:42: 11.2 Jochen: Not enough resources to send.
+05/31/2017 13:54:43: Switching to 12 Pfui I
+05/31/2017 13:54:47: 12 Pfui I: Nothing to build.
+05/31/2017 13:54:48: 12 Pfui I: Checking land unit queue.
+05/31/2017 13:54:49: 12 Pfui I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:54:50: 12 Pfui I: Checking navy unit queue.
+05/31/2017 13:54:52: 12 Pfui I: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:54:53: 12 Pfui I: Starting trade between 12 Pfui I and 26.1 Robinatuss Stad.
+05/31/2017 13:54:54: 12 Pfui I: Sending resources to 26.1 Robinatuss Stad. (Wood: 600/11453, Stone: 0/9941, Silver: 0/9941)
+05/31/2017 13:54:55: Switching to 13 TekNo.a
+05/31/2017 13:54:59: 13 TekNo.a: Nothing to build.
+05/31/2017 13:55:00: 13 TekNo.a: Checking land unit queue.
+05/31/2017 13:55:02: 13 TekNo.a: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:55:03: 13 TekNo.a: Checking navy unit queue.
+05/31/2017 13:55:04: 13 TekNo.a: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:55:05: 13 TekNo.a: Starting trade between 13 TekNo.a and 21.1 Robinatuss Stad.
+05/31/2017 13:55:06: 13 TekNo.a: Not enough resources to send.
+05/31/2017 13:55:07: Switching to 14 011
+05/31/2017 13:55:11: 14 011: Nothing to build.
+05/31/2017 13:55:12: 14 011: Checking land unit queue.
+05/31/2017 13:55:13: 14 011: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:55:14: 14 011: Checking navy unit queue.
+05/31/2017 13:55:16: 14 011: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:55:17: 14 011: Starting trade between 14 011 and 26.1 Robinatuss Stad.
+05/31/2017 13:55:18: 14 011: Not enough resources to send.
+05/31/2017 13:55:20: Switching to 15 L01
+05/31/2017 13:55:23: 15 L01: Nothing to build.
+05/31/2017 13:55:24: 15 L01: Checking land unit queue.
+05/31/2017 13:55:26: 15 L01: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:55:27: 15 L01: Checking navy unit queue.
+05/31/2017 13:55:28: 15 L01: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:55:29: 15 L01: Starting trade between 15 L01 and 21.2 Robinatuss Stad.
+05/31/2017 13:55:31: 15 L01: Receiver 21.2 Robinatuss Stad has enough resources.
+05/31/2017 13:55:32: Switching to 16 Banana
+05/31/2017 13:55:36: 16 Banana: Nothing to build.
+05/31/2017 13:55:37: 16 Banana: Checking land unit queue.
+05/31/2017 13:55:38: 16 Banana: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:55:39: 16 Banana: Checking navy unit queue.
+05/31/2017 13:55:41: 16 Banana: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:55:42: 16 Banana: Starting trade between 16 Banana and 21.1 Robinatuss Stad.
+05/31/2017 13:55:43: 16 Banana: Not enough resources to send.
+05/31/2017 13:55:44: Switching to 17 Front N 1.0
+05/31/2017 13:55:48: 17 Front N 1.0: Nothing to build.
+05/31/2017 13:55:49: 17 Front N 1.0: Checking land unit queue.
+05/31/2017 13:55:50: 17 Front N 1.0: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:55:51: 17 Front N 1.0: Checking navy unit queue.
+05/31/2017 13:55:52: 17 Front N 1.0: Navy queue skipped (Not enough resources or population).
+05/31/2017 13:55:53: 17 Front N 1.0: Starting trade between 17 Front N 1.0 and 21.2 Robinatuss Stad.
+05/31/2017 13:55:55: 17 Front N 1.0: Receiver 21.2 Robinatuss Stad has enough resources.
+05/31/2017 13:55:56: Switching to 18 Freiberg 01
+05/31/2017 13:56:00: 18 Freiberg 01: Nothing to build.
+05/31/2017 13:56:01: 18 Freiberg 01: Checking land unit queue.
+05/31/2017 13:56:02: 18 Freiberg 01: Unit queue skipped (Not enough resources or population).
+05/31/2017 13:56:03: 18 Freiberg 01: Checking navy unit queue.
+05/31/2017 13:56:05: 18 Freiberg 01: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:56:06: 18 Freiberg 01: Starting trade between 18 Freiberg 01 and 21.2 Robinatuss Stad.
+05/31/2017 13:56:07: 18 Freiberg 01: Not enough resources to send.
+05/31/2017 13:56:08: Switching to 19 Durch Reise
+05/31/2017 13:56:12: 19 Durch Reise: Nothing to build.
+05/31/2017 13:56:13: 19 Durch Reise: Checking land unit queue.
+05/31/2017 13:56:14: 19 Durch Reise: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:56:15: 19 Durch Reise: Checking navy unit queue.
+05/31/2017 13:56:17: 19 Durch Reise: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:56:18: 19 Durch Reise: Starting trade between 19 Durch Reise and 21.1 Robinatuss Stad.
+05/31/2017 13:56:19: 19 Durch Reise: Receiver 21.1 Robinatuss Stad has enough resources.
+05/31/2017 13:56:20: Switching to 20 Robinatuss Stadt
+05/31/2017 13:56:24: 20 Robinatuss Stadt: Adding temple to ingame queue.
+05/31/2017 13:56:25: 20 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 13:56:27: 20 Robinatuss Stadt: Army queue is disabled for this town or queue is full.
+05/31/2017 13:56:28: 20 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 13:56:29: 20 Robinatuss Stadt: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:56:30: Switching to 21.1 Robinatuss Stad
+05/31/2017 13:56:34: 21.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 13:56:35: 21.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:56:37: 21.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:56:38: 21.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:56:39: 21.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:56:41: Switching to 21.2 Robinatuss Stad
+05/31/2017 13:56:44: 21.2 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 13:56:46: 21.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:56:47: 21.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:56:48: 21.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:56:49: 21.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:56:50: Switching to 22 Blutiger Anfänger
+05/31/2017 13:56:54: 22 Blutiger Anfänger: Demolishing market .
+05/31/2017 13:56:57: 22 Blutiger Anfänger: Checking land unit queue.
+05/31/2017 13:56:58: 22 Blutiger Anfänger: Adding hoplite (14) to the ingame queue.
+05/31/2017 13:56:58: 22 Blutiger Anfänger: Land unit(s) added to ingame queue.
+05/31/2017 13:56:59: 22 Blutiger Anfänger: Checking navy unit queue.
+05/31/2017 13:57:01: 22 Blutiger Anfänger: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:57:02: 22 Blutiger Anfänger: Starting trade between 22 Blutiger Anfänger and 21.1 Robinatuss Stad.
+05/31/2017 13:57:03: 22 Blutiger Anfänger: Not enough resources to send.
+05/31/2017 13:57:04: Switching to 23 m55-001
+05/31/2017 13:57:08: 23 m55-001: Nothing to build.
+05/31/2017 13:57:09: 23 m55-001: Checking land unit queue.
+05/31/2017 13:57:11: 23 m55-001: Unit queue skipped (Can't find trainable units.)
+05/31/2017 13:57:12: 23 m55-001: Checking navy unit queue.
+05/31/2017 13:57:13: 23 m55-001: Navy queue skipped (Can't find trainable units).
+05/31/2017 13:57:14: 23 m55-001: Starting trade between 23 m55-001 and 21.1 Robinatuss Stad.
+05/31/2017 13:57:15: 23 m55-001: Sending resources to 21.1 Robinatuss Stad. (Wood: 1661/27409, Stone: 0/27470, Silver: 1600/27470)
+05/31/2017 13:57:16: Switching to 24.1 Robinatuss Stad
+05/31/2017 13:57:20: 24.1 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 13:57:22: 24.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:57:23: 24.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:57:24: 24.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:57:25: 24.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:57:27: Switching to 24.2 Robinatuss Stad
+05/31/2017 13:57:31: 24.2 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 13:57:32: 24.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:57:33: 24.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:57:34: 24.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:57:35: 24.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:57:36: Switching to 25.1 Robinatuss Stad
+05/31/2017 13:57:40: 25.1 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 13:57:42: 25.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:57:43: 25.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:57:44: 25.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:57:45: 25.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:57:46: Switching to 25.2 Robinatuss Stad
+05/31/2017 13:57:50: 25.2 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 13:57:52: 25.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:57:53: 25.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:57:54: 25.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:57:55: 25.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:57:56: Switching to 26.1 Robinatuss Stad
+05/31/2017 13:58:00: 26.1 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 13:58:02: 26.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:58:03: 26.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:58:04: 26.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:58:05: 26.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:58:06: Switching to 26.2 Robinatuss Stad
+05/31/2017 13:58:10: 26.2 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 13:58:11: 26.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:58:13: 26.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:58:14: 26.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:58:15: 26.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:58:16: Switching to 26.3 Robinatuss Stad
+05/31/2017 13:58:20: 26.3 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 13:58:21: 26.3 Robinatuss Stad: Checking land unit queue.
+05/31/2017 13:58:23: 26.3 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 13:58:24: 26.3 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 13:58:25: 26.3 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 13:58:26: Finished Cycle!
+05/31/2017 14:00:58: Starting Cycle!
+05/31/2017 14:11:34: Started GrepBOTlis V.1.0.0.0
+05/31/2017 14:11:37: Login to Grepolis.
+05/31/2017 14:11:42: Updating Town Data.
+05/31/2017 14:11:48: Updating Game Data.
+05/31/2017 14:11:48: Updating Building Data.
+05/31/2017 14:11:48: Updating Unit Data.
+05/31/2017 14:11:48: Login successful.
+05/31/2017 14:12:08: Starting Cycle!
+05/31/2017 14:12:09: Switching to 01.1 Knie nieder
+05/31/2017 14:12:13: 01.1 Knie nieder: Nothing to build.
+05/31/2017 14:12:14: 01.1 Knie nieder: Checking land unit queue.
+05/31/2017 14:12:16: 01.1 Knie nieder: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:12:17: 01.1 Knie nieder: Checking navy unit queue.
+05/31/2017 14:12:18: 01.1 Knie nieder: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:12:19: 01.1 Knie nieder: Starting trade between 01.1 Knie nieder and 26.1 Robinatuss Stad.
+05/31/2017 14:12:21: 01.1 Knie nieder: Sending resources to 26.1 Robinatuss Stad. (Wood: 3988/11807, Stone: 0/9493, Silver: 0/9493)
+05/31/2017 14:12:22: Switching to 01.2 Knie nieder I
+05/31/2017 14:12:26: 01.2 Knie nieder I: Nothing to build.
+05/31/2017 14:12:27: 01.2 Knie nieder I: Checking land unit queue.
+05/31/2017 14:12:28: 01.2 Knie nieder I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:12:29: 01.2 Knie nieder I: Checking navy unit queue.
+05/31/2017 14:12:31: 01.2 Knie nieder I: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:12:32: 01.2 Knie nieder I: Starting trade between 01.2 Knie nieder I and 26.1 Robinatuss Stad.
+05/31/2017 14:12:33: 01.2 Knie nieder I: Not enough resources to send.
+05/31/2017 14:12:34: Switching to 02.1 Robinatuss Stad
+05/31/2017 14:12:38: 02.1 Robinatuss Stad: Nothing to build.
+05/31/2017 14:12:39: 02.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:12:40: 02.1 Robinatuss Stad: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:12:41: 02.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:12:42: 02.1 Robinatuss Stad: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:12:44: 02.1 Robinatuss Stad: Starting trade between 02.1 Robinatuss Stad and 26.1 Robinatuss Stad.
+05/31/2017 14:12:45: 02.1 Robinatuss Stad: Sending resources to 26.1 Robinatuss Stad. (Wood: 4933/15798, Stone: 0/9499, Silver: 0/9499)
+05/31/2017 14:12:46: Switching to 02.2 Oz
+05/31/2017 14:12:50: 02.2 Oz: Nothing to build.
+05/31/2017 14:12:51: 02.2 Oz: Checking land unit queue.
+05/31/2017 14:12:53: 02.2 Oz: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:12:54: 02.2 Oz: Checking navy unit queue.
+05/31/2017 14:12:55: 02.2 Oz: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:12:56: 02.2 Oz: Starting trade between 02.2 Oz and 26.1 Robinatuss Stad.
+05/31/2017 14:12:57: 02.2 Oz: Sending resources to 26.1 Robinatuss Stad. (Wood: 4123/20733, Stone: 0/9501, Silver: 0/9501)
+05/31/2017 14:12:59: Switching to 03 mufftners Stadt
+05/31/2017 14:13:03: 03 mufftners Stadt: Nothing to build.
+05/31/2017 14:13:04: 03 mufftners Stadt: Checking land unit queue.
+05/31/2017 14:13:05: 03 mufftners Stadt: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:13:06: 03 mufftners Stadt: Checking navy unit queue.
+05/31/2017 14:13:07: 03 mufftners Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:13:08: 03 mufftners Stadt: Starting trade between 03 mufftners Stadt and 26.1 Robinatuss Stad.
+05/31/2017 14:13:10: 03 mufftners Stadt: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 10000, Wood: 5199, Stone: 2071, Silver: 15600)
+05/31/2017 14:13:11: Switching to 05 Pallantium
+05/31/2017 14:13:14: 05 Pallantium: Nothing to build.
+05/31/2017 14:13:16: 05 Pallantium: Checking land unit queue.
+05/31/2017 14:13:17: 05 Pallantium: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:13:18: 05 Pallantium: Checking navy unit queue.
+05/31/2017 14:13:19: 05 Pallantium: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:13:20: 05 Pallantium: Starting trade between 05 Pallantium and 26.1 Robinatuss Stad.
+05/31/2017 14:13:21: 05 Pallantium: Sending resources to 26.1 Robinatuss Stad. (Wood: 4116/24859, Stone: 0/9506, Silver: 0/9506)
+05/31/2017 14:13:23: Switching to 06 Loki
+05/31/2017 14:13:26: 06 Loki: Nothing to build.
+05/31/2017 14:13:27: 06 Loki: Checking land unit queue.
+05/31/2017 14:13:29: 06 Loki: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:13:30: 06 Loki: Checking navy unit queue.
+05/31/2017 14:13:31: 06 Loki: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:13:32: 06 Loki: Starting trade between 06 Loki and 26.1 Robinatuss Stad.
+05/31/2017 14:13:33: 06 Loki: Not enough resources to send.
+05/31/2017 14:13:34: Switching to 07 Robinatuss Stadt
+05/31/2017 14:13:38: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 14:13:39: 07 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 14:13:40: 07 Robinatuss Stadt: Unit queue skipped (Not enough resources or population).
+05/31/2017 14:13:42: 07 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 14:13:43: 07 Robinatuss Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:13:44: 07 Robinatuss Stadt: Starting trade between 07 Robinatuss Stadt and 26.1 Robinatuss Stad.
+05/31/2017 14:13:45: 07 Robinatuss Stadt: Not enough resources to send.
+05/31/2017 14:13:46: Switching to 08 Löwenstein
+05/31/2017 14:13:50: 08 Löwenstein: Nothing to build.
+05/31/2017 14:13:51: 08 Löwenstein: Checking land unit queue.
+05/31/2017 14:13:53: 08 Löwenstein: Unit queue skipped (Not enough resources or population).
+05/31/2017 14:13:54: 08 Löwenstein: Checking navy unit queue.
+05/31/2017 14:13:55: 08 Löwenstein: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:13:56: 08 Löwenstein: Starting trade between 08 Löwenstein and 26.1 Robinatuss Stad.
+05/31/2017 14:13:57: 08 Löwenstein: Not enough resources to send.
+05/31/2017 14:13:58: Switching to 09.1 Kätzchen
+05/31/2017 14:14:02: 09.1 Kätzchen: Nothing to build.
+05/31/2017 14:14:03: 09.1 Kätzchen: Checking land unit queue.
+05/31/2017 14:14:05: 09.1 Kätzchen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:14:06: 09.1 Kätzchen: Checking navy unit queue.
+05/31/2017 14:14:07: 09.1 Kätzchen: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:14:08: 09.1 Kätzchen: Starting trade between 09.1 Kätzchen and 26.1 Robinatuss Stad.
+05/31/2017 14:14:10: 09.1 Kätzchen: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 10000, Wood: 5223, Stone: 2101, Silver: 15600)
+05/31/2017 14:14:11: Switching to 09.2 Scheiß Red Bull
+05/31/2017 14:14:14: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 14:14:15: 09.2 Scheiß Red Bull: Checking land unit queue.
+05/31/2017 14:14:17: 09.2 Scheiß Red Bull: Unit queue skipped (Not enough resources or population).
+05/31/2017 14:14:18: 09.2 Scheiß Red Bull: Checking navy unit queue.
+05/31/2017 14:14:19: 09.2 Scheiß Red Bull: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:14:20: 09.2 Scheiß Red Bull: Starting trade between 09.2 Scheiß Red Bull and 26.1 Robinatuss Stad.
+05/31/2017 14:14:22: 09.2 Scheiß Red Bull: Not enough resources to send.
+05/31/2017 14:14:23: Switching to 10 Noch einers Stadt
+05/31/2017 14:14:27: 10 Noch einers Stadt: Nothing to build.
+05/31/2017 14:14:28: 10 Noch einers Stadt: Checking land unit queue.
+05/31/2017 14:14:29: 10 Noch einers Stadt: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:14:30: 10 Noch einers Stadt: Checking navy unit queue.
+05/31/2017 14:14:31: 10 Noch einers Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:14:32: 10 Noch einers Stadt: Starting trade between 10 Noch einers Stadt and 26.1 Robinatuss Stad.
+05/31/2017 14:14:34: 10 Noch einers Stadt: Not enough resources to send.
+05/31/2017 14:14:35: Switching to 11.1 Sturmwind
+05/31/2017 14:14:38: 11.1 Sturmwind: Nothing to build.
+05/31/2017 14:14:40: 11.1 Sturmwind: Checking land unit queue.
+05/31/2017 14:14:41: 11.1 Sturmwind: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:14:42: 11.1 Sturmwind: Checking navy unit queue.
+05/31/2017 14:14:43: 11.1 Sturmwind: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:14:44: 11.1 Sturmwind: Starting trade between 11.1 Sturmwind and 21.2 Robinatuss Stad.
+05/31/2017 14:14:46: 11.1 Sturmwind: Not enough resources to send.
+05/31/2017 14:14:47: Switching to 11.2 Jochen
+05/31/2017 14:14:51: 11.2 Jochen: Nothing to build.
+05/31/2017 14:14:52: 11.2 Jochen: Checking land unit queue.
+05/31/2017 14:14:53: 11.2 Jochen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:14:54: 11.2 Jochen: Checking navy unit queue.
+05/31/2017 14:14:55: 11.2 Jochen: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:14:56: 11.2 Jochen: Starting trade between 11.2 Jochen and 21.2 Robinatuss Stad.
+05/31/2017 14:14:58: 11.2 Jochen: Not enough resources to send.
+05/31/2017 14:14:59: Switching to 12 Pfui I
+05/31/2017 14:15:03: 12 Pfui I: Nothing to build.
+05/31/2017 14:15:04: 12 Pfui I: Checking land unit queue.
+05/31/2017 14:15:05: 12 Pfui I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:15:06: 12 Pfui I: Checking navy unit queue.
+05/31/2017 14:15:07: 12 Pfui I: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:15:09: 12 Pfui I: Starting trade between 12 Pfui I and 26.1 Robinatuss Stad.
+05/31/2017 14:15:10: 12 Pfui I: Sending resources to 26.1 Robinatuss Stad. (Wood: 4089/28989, Stone: 0/9529, Silver: 0/9529)
+05/31/2017 14:15:11: Switching to 13 TekNo.a
+05/31/2017 14:15:15: 13 TekNo.a: Nothing to build.
+05/31/2017 14:15:16: 13 TekNo.a: Checking land unit queue.
+05/31/2017 14:15:17: 13 TekNo.a: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:15:18: 13 TekNo.a: Checking navy unit queue.
+05/31/2017 14:15:20: 13 TekNo.a: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:15:21: 13 TekNo.a: Starting trade between 13 TekNo.a and 21.1 Robinatuss Stad.
+05/31/2017 14:15:22: 13 TekNo.a: Not enough resources to send.
+05/31/2017 14:15:23: Switching to 14 011
+05/31/2017 14:15:27: 14 011: Nothing to build.
+05/31/2017 14:15:28: 14 011: Checking land unit queue.
+05/31/2017 14:15:29: 14 011: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:15:30: 14 011: Checking navy unit queue.
+05/31/2017 14:15:32: 14 011: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:15:33: 14 011: Starting trade between 14 011 and 26.1 Robinatuss Stad.
+05/31/2017 14:15:34: 14 011: Not enough resources to send.
+05/31/2017 14:15:35: Switching to 15 L01
+05/31/2017 14:15:39: 15 L01: Nothing to build.
+05/31/2017 14:15:40: 15 L01: Checking land unit queue.
+05/31/2017 14:15:42: 15 L01: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:15:43: 15 L01: Checking navy unit queue.
+05/31/2017 14:15:44: 15 L01: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:15:45: 15 L01: Starting trade between 15 L01 and 21.2 Robinatuss Stad.
+05/31/2017 14:15:46: 15 L01: Sending resources to 21.2 Robinatuss Stad. (Wood: 0/28193, Stone: 0/27401, Silver: 600/27401)
+05/31/2017 14:15:48: Switching to 16 Banana
+05/31/2017 14:15:51: 16 Banana: Nothing to build.
+05/31/2017 14:15:53: 16 Banana: Checking land unit queue.
+05/31/2017 14:15:54: 16 Banana: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:15:55: 16 Banana: Checking navy unit queue.
+05/31/2017 14:15:56: 16 Banana: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:15:57: 16 Banana: Starting trade between 16 Banana and 21.1 Robinatuss Stad.
+05/31/2017 14:15:59: 16 Banana: Not enough resources to send.
+05/31/2017 14:16:00: Switching to 17 Front N 1.0
+05/31/2017 14:16:04: 17 Front N 1.0: Nothing to build.
+05/31/2017 14:16:05: 17 Front N 1.0: Checking land unit queue.
+05/31/2017 14:16:07: 17 Front N 1.0: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:16:08: 17 Front N 1.0: Checking navy unit queue.
+05/31/2017 14:16:09: 17 Front N 1.0: Navy queue skipped (Not enough resources or population).
+05/31/2017 14:16:10: 17 Front N 1.0: Starting trade between 17 Front N 1.0 and 21.2 Robinatuss Stad.
+05/31/2017 14:16:11: 17 Front N 1.0: Sending resources to 21.2 Robinatuss Stad. (Wood: 600/28201, Stone: 0/27410, Silver: 600/28010)
+05/31/2017 14:16:13: Switching to 18 Freiberg 01
+05/31/2017 14:16:16: 18 Freiberg 01: Nothing to build.
+05/31/2017 14:16:18: 18 Freiberg 01: Checking land unit queue.
+05/31/2017 14:16:19: 18 Freiberg 01: Unit queue skipped (Not enough resources or population).
+05/31/2017 14:16:20: 18 Freiberg 01: Checking navy unit queue.
+05/31/2017 14:16:21: 18 Freiberg 01: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:16:22: 18 Freiberg 01: Starting trade between 18 Freiberg 01 and 21.2 Robinatuss Stad.
+05/31/2017 14:16:24: 18 Freiberg 01: Not enough resources to send.
+05/31/2017 14:16:25: Switching to 19 Durch Reise
+05/31/2017 14:16:29: 19 Durch Reise: Nothing to build.
+05/31/2017 14:16:30: 19 Durch Reise: Checking land unit queue.
+05/31/2017 14:16:31: 19 Durch Reise: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:16:32: 19 Durch Reise: Checking navy unit queue.
+05/31/2017 14:16:33: 19 Durch Reise: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:16:35: 19 Durch Reise: Starting trade between 19 Durch Reise and 21.1 Robinatuss Stad.
+05/31/2017 14:16:36: 19 Durch Reise: Sending resources to 21.1 Robinatuss Stad. (Wood: 600/29388, Stone: 0/28064, Silver: 0/29664)
+05/31/2017 14:16:37: Switching to 20 Robinatuss Stadt
+05/31/2017 14:16:41: 20 Robinatuss Stadt: Adding temple to ingame queue.
+05/31/2017 14:16:42: 20 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 14:16:43: 20 Robinatuss Stadt: Army queue is disabled for this town or queue is full.
+05/31/2017 14:16:44: 20 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 14:16:46: 20 Robinatuss Stadt: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:16:47: Switching to 21.1 Robinatuss Stad
+05/31/2017 14:16:51: 21.1 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 14:16:52: 21.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:16:53: 21.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:16:54: 21.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:16:55: 21.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:16:56: Switching to 21.2 Robinatuss Stad
+05/31/2017 14:17:00: 21.2 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 14:17:02: 21.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:17:03: 21.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:17:04: 21.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:17:06: 21.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:17:07: Switching to 22 Blutiger Anfänger
+05/31/2017 14:17:11: 22 Blutiger Anfänger: Nothing to build.
+05/31/2017 14:17:12: 22 Blutiger Anfänger: Checking land unit queue.
+05/31/2017 14:17:13: 22 Blutiger Anfänger: Unit queue skipped (Not enough resources or population).
+05/31/2017 14:17:14: 22 Blutiger Anfänger: Checking navy unit queue.
+05/31/2017 14:17:16: 22 Blutiger Anfänger: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:17:17: 22 Blutiger Anfänger: Starting trade between 22 Blutiger Anfänger and 21.1 Robinatuss Stad.
+05/31/2017 14:17:18: 22 Blutiger Anfänger: Not enough resources to send.
+05/31/2017 14:17:19: Switching to 23 m55-001
+05/31/2017 14:17:23: 23 m55-001: Nothing to build.
+05/31/2017 14:17:24: 23 m55-001: Checking land unit queue.
+05/31/2017 14:17:25: 23 m55-001: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:17:27: 23 m55-001: Checking navy unit queue.
+05/31/2017 14:17:28: 23 m55-001: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:17:29: 23 m55-001: Starting trade between 23 m55-001 and 21.1 Robinatuss Stad.
+05/31/2017 14:17:30: 23 m55-001: Sending resources to 21.1 Robinatuss Stad. (Wood: 2329/27850, Stone: 0/25280, Silver: 1346/26880)
+05/31/2017 14:17:31: Switching to 24.1 Robinatuss Stad
+05/31/2017 14:17:35: 24.1 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 14:17:37: 24.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:17:38: 24.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:17:39: 24.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:17:40: 24.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:17:41: Switching to 24.2 Robinatuss Stad
+05/31/2017 14:17:45: 24.2 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 14:17:47: 24.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:17:48: 24.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:17:49: 24.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:17:51: 24.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:17:52: Switching to 25.1 Robinatuss Stad
+05/31/2017 14:17:56: 25.1 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 14:17:57: 25.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:17:59: 25.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:18:00: 25.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:18:01: 25.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:18:02: Switching to 25.2 Robinatuss Stad
+05/31/2017 14:18:06: 25.2 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 14:18:08: 25.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:18:09: 25.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:18:10: 25.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:18:11: 25.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:18:12: Switching to 26.1 Robinatuss Stad
+05/31/2017 14:18:16: 26.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:18:17: 26.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:18:19: 26.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:18:20: 26.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:18:21: 26.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:18:22: Switching to 26.2 Robinatuss Stad
+05/31/2017 14:18:26: 26.2 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 14:18:27: 26.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:18:28: 26.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:18:29: 26.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:18:31: 26.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:18:32: Switching to 26.3 Robinatuss Stad
+05/31/2017 14:18:36: 26.3 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:18:37: 26.3 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:18:38: 26.3 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:18:40: 26.3 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:18:41: 26.3 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:18:42: Finished Cycle!
+05/31/2017 14:22:15: Starting Cycle!
+05/31/2017 14:22:16: Switching to 01.1 Knie nieder
+05/31/2017 14:22:17: Switching to 01.2 Knie nieder I
+05/31/2017 14:22:19: Switching to 02.1 Robinatuss Stad
+05/31/2017 14:22:20: Switching to 02.2 Oz
+05/31/2017 14:22:21: Switching to 03 mufftners Stadt
+05/31/2017 14:22:23: Switching to 05 Pallantium
+05/31/2017 14:22:24: Switching to 06 Loki
+05/31/2017 14:22:25: Switching to 07 Robinatuss Stadt
+05/31/2017 14:22:29: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 14:22:30: Switching to 08 Löwenstein
+05/31/2017 14:22:34: 08 Löwenstein: Nothing to build.
+05/31/2017 14:22:35: Switching to 09.1 Kätzchen
+05/31/2017 14:22:36: Switching to 09.2 Scheiß Red Bull
+05/31/2017 14:22:40: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 14:22:42: Switching to 10 Noch einers Stadt
+05/31/2017 14:22:43: Switching to 11.1 Sturmwind
+05/31/2017 14:22:44: Switching to 11.2 Jochen
+05/31/2017 14:22:45: Switching to 12 Pfui I
+05/31/2017 14:22:47: Switching to 13 TekNo.a
+05/31/2017 14:22:48: Switching to 14 011
+05/31/2017 14:22:49: Switching to 15 L01
+05/31/2017 14:22:51: Switching to 16 Banana
+05/31/2017 14:22:52: Switching to 17 Front N 1.0
+05/31/2017 14:22:53: Switching to 18 Freiberg 01
+05/31/2017 14:22:54: Switching to 19 Durch Reise
+05/31/2017 14:22:56: Switching to 20 Robinatuss Stadt
+05/31/2017 14:23:00: 20 Robinatuss Stadt: Nothing to build.
+05/31/2017 14:23:01: Switching to 21.1 Robinatuss Stad
+05/31/2017 14:23:04: 21.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:23:06: Switching to 21.2 Robinatuss Stad
+05/31/2017 14:23:10: 21.2 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 14:23:11: Switching to 22 Blutiger Anfänger
+05/31/2017 14:23:15: 22 Blutiger Anfänger: Nothing to build.
+05/31/2017 14:23:16: Switching to 23 m55-001
+05/31/2017 14:23:17: Switching to 24.1 Robinatuss Stad
+05/31/2017 14:23:21: 24.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:23:22: Switching to 24.2 Robinatuss Stad
+05/31/2017 14:23:26: 24.2 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:23:27: Switching to 25.1 Robinatuss Stad
+05/31/2017 14:23:31: 25.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:23:33: Switching to 25.2 Robinatuss Stad
+05/31/2017 14:23:37: 25.2 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:23:38: Switching to 26.1 Robinatuss Stad
+05/31/2017 14:23:42: 26.1 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 14:23:43: Switching to 26.2 Robinatuss Stad
+05/31/2017 14:23:47: 26.2 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 14:23:48: Switching to 26.3 Robinatuss Stad
+05/31/2017 14:23:52: 26.3 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 14:23:54: Finished Cycle!
+05/31/2017 14:25:04: Starting Cycle!
+05/31/2017 14:25:05: Switching to 01.1 Knie nieder
+05/31/2017 14:25:06: Switching to 01.2 Knie nieder I
+05/31/2017 14:25:08: Switching to 02.1 Robinatuss Stad
+05/31/2017 14:25:09: Switching to 02.2 Oz
+05/31/2017 14:25:10: Switching to 03 mufftners Stadt
+05/31/2017 14:25:12: Switching to 05 Pallantium
+05/31/2017 14:25:13: Switching to 06 Loki
+05/31/2017 14:25:14: Switching to 07 Robinatuss Stadt
+05/31/2017 14:25:18: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 14:25:19: Switching to 08 Löwenstein
+05/31/2017 14:25:23: 08 Löwenstein: Nothing to build.
+05/31/2017 14:25:24: Switching to 09.1 Kätzchen
+05/31/2017 14:25:25: Switching to 09.2 Scheiß Red Bull
+05/31/2017 14:25:29: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 14:25:30: Switching to 10 Noch einers Stadt
+05/31/2017 14:25:32: Switching to 11.1 Sturmwind
+05/31/2017 14:25:33: Switching to 11.2 Jochen
+05/31/2017 14:25:37: 11.2 Jochen: Nothing to build.
+05/31/2017 14:25:38: Switching to 12 Pfui I
+05/31/2017 14:25:39: Switching to 13 TekNo.a
+05/31/2017 14:25:40: Switching to 14 011
+05/31/2017 14:25:42: Switching to 15 L01
+05/31/2017 14:25:43: Switching to 16 Banana
+05/31/2017 14:25:44: Switching to 17 Front N 1.0
+05/31/2017 14:25:45: Switching to 18 Freiberg 01
+05/31/2017 14:25:47: Switching to 19 Durch Reise
+05/31/2017 14:25:48: Switching to 20 Robinatuss Stadt
+05/31/2017 14:25:52: 20 Robinatuss Stadt: Nothing to build.
+05/31/2017 14:25:53: Switching to 21.1 Robinatuss Stad
+05/31/2017 14:25:55: 21.1 Robinatuss Stad: Building queue is full.
+05/31/2017 14:25:56: Switching to 21.2 Robinatuss Stad
+05/31/2017 14:26:01: 21.2 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:26:02: Switching to 22 Blutiger Anfänger
+05/31/2017 14:26:06: 22 Blutiger Anfänger: Nothing to build.
+05/31/2017 14:26:07: Switching to 23 m55-001
+05/31/2017 14:26:08: Switching to 24.1 Robinatuss Stad
+05/31/2017 14:26:12: 24.1 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 14:26:14: Switching to 24.2 Robinatuss Stad
+05/31/2017 14:26:18: 24.2 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 14:26:19: Switching to 25.1 Robinatuss Stad
+05/31/2017 14:26:23: 25.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:26:24: Switching to 25.2 Robinatuss Stad
+05/31/2017 14:26:28: 25.2 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 14:26:29: Switching to 26.1 Robinatuss Stad
+05/31/2017 14:26:33: 26.1 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 14:26:35: Switching to 26.2 Robinatuss Stad
+05/31/2017 14:26:39: 26.2 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 14:26:40: Switching to 26.3 Robinatuss Stad
+05/31/2017 14:26:44: 26.3 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 14:26:45: Finished Cycle!
+05/31/2017 14:28:52: Starting Cycle!
+05/31/2017 14:28:53: Switching to 01.1 Knie nieder
+05/31/2017 14:28:57: 01.1 Knie nieder: Nothing to build.
+05/31/2017 14:28:59: Switching to 01.2 Knie nieder I
+05/31/2017 14:29:03: 01.2 Knie nieder I: Nothing to build.
+05/31/2017 14:29:04: Switching to 02.1 Robinatuss Stad
+05/31/2017 14:29:07: 02.1 Robinatuss Stad: Nothing to build.
+05/31/2017 14:29:09: Switching to 02.2 Oz
+05/31/2017 14:29:13: 02.2 Oz: Nothing to build.
+05/31/2017 14:29:14: Switching to 03 mufftners Stadt
+05/31/2017 14:29:17: 03 mufftners Stadt: Nothing to build.
+05/31/2017 14:29:18: Switching to 05 Pallantium
+05/31/2017 14:29:22: 05 Pallantium: Nothing to build.
+05/31/2017 14:29:23: Switching to 06 Loki
+05/31/2017 14:29:27: 06 Loki: Nothing to build.
+05/31/2017 14:29:28: Switching to 07 Robinatuss Stadt
+05/31/2017 14:29:32: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 14:29:33: Switching to 08 Löwenstein
+05/31/2017 14:29:37: 08 Löwenstein: Nothing to build.
+05/31/2017 14:29:38: Switching to 09.1 Kätzchen
+05/31/2017 14:29:42: 09.1 Kätzchen: Nothing to build.
+05/31/2017 14:29:43: Switching to 09.2 Scheiß Red Bull
+05/31/2017 14:29:47: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 14:29:48: Switching to 10 Noch einers Stadt
+05/31/2017 14:29:52: 10 Noch einers Stadt: Nothing to build.
+05/31/2017 14:29:53: Switching to 11.1 Sturmwind
+05/31/2017 14:29:57: 11.1 Sturmwind: Nothing to build.
+05/31/2017 14:29:58: Switching to 11.2 Jochen
+05/31/2017 14:30:00: Switching to 12 Pfui I
+05/31/2017 14:30:04: 12 Pfui I: Nothing to build.
+05/31/2017 14:30:05: Switching to 13 TekNo.a
+05/31/2017 14:30:09: 13 TekNo.a: Nothing to build.
+05/31/2017 14:30:10: Switching to 14 011
+05/31/2017 14:30:14: 14 011: Nothing to build.
+05/31/2017 14:30:15: Switching to 15 L01
+05/31/2017 14:30:19: 15 L01: Nothing to build.
+05/31/2017 14:30:19: Exception in FarmerTimerUpdatedCrossThread: Auf das verworfene Objekt kann nicht zugegriffen werden.
+Objektname: "MainForm".
+05/31/2017 14:30:19: Exception in FarmerTimerUpdatedCrossThread: Auf das verworfene Objekt kann nicht zugegriffen werden.
+Objektname: "MainForm".
+05/31/2017 14:30:19: Exception in TradingTimerUpdatedCrossThread: Auf das verworfene Objekt kann nicht zugegriffen werden.
+Objektname: "MainForm".
+05/31/2017 14:30:19: Exception in UnitTimerUpdatedCrossThread: Auf das verworfene Objekt kann nicht zugegriffen werden.
+Objektname: "MainForm".
+05/31/2017 14:30:19: Exception in UnitTimerUpdatedCrossThread: Auf das verworfene Objekt kann nicht zugegriffen werden.
+Objektname: "MainForm".
+05/31/2017 14:30:20: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 14:30:20: Switching to 16 Banana
+05/31/2017 14:30:24: 16 Banana: Nothing to build.
+05/31/2017 14:30:25: Switching to 17 Front N 1.0
+05/31/2017 14:30:29: 17 Front N 1.0: Nothing to build.
+05/31/2017 14:30:30: Switching to 18 Freiberg 01
+05/31/2017 14:30:34: 18 Freiberg 01: Nothing to build.
+05/31/2017 14:30:35: Switching to 19 Durch Reise
+05/31/2017 14:30:39: Exception in TradingTimerUpdatedCrossThread: Fehler beim Aufrufen der Methode. Der Zielthread ist nicht mehr vorhanden.
+05/31/2017 14:30:39: Exception in FarmerTimerUpdatedCrossThread: Fehler beim Aufrufen der Methode. Der Zielthread ist nicht mehr vorhanden.
+05/31/2017 14:30:39: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 14:35:03: Started GrepBOTlis V.1.0.0.0
+05/31/2017 14:35:20: Login to Grepolis.
+05/31/2017 14:35:37: Updating Town Data.
+05/31/2017 14:35:44: Updating Game Data.
+05/31/2017 14:35:44: Updating Building Data.
+05/31/2017 14:35:44: Updating Unit Data.
+05/31/2017 14:35:44: Login successful.
+05/31/2017 14:35:58: Starting Cycle!
+05/31/2017 14:35:59: Switching to 01.1 Knie nieder
+05/31/2017 14:36:03: 01.1 Knie nieder: Nothing to build.
+05/31/2017 14:36:04: 01.1 Knie nieder: Checking land unit queue.
+05/31/2017 14:36:05: 01.1 Knie nieder: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:36:06: 01.1 Knie nieder: Checking navy unit queue.
+05/31/2017 14:36:07: 01.1 Knie nieder: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:36:08: 01.1 Knie nieder: Starting trade between 01.1 Knie nieder and 26.1 Robinatuss Stad.
+05/31/2017 14:36:10: 01.1 Knie nieder: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 11012, Wood: 15432, Stone: 5795, Silver: 7489)
+05/31/2017 14:36:11: Switching to 01.2 Knie nieder I
+05/31/2017 14:36:15: 01.2 Knie nieder I: Nothing to build.
+05/31/2017 14:36:16: 01.2 Knie nieder I: Checking land unit queue.
+05/31/2017 14:36:17: 01.2 Knie nieder I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:36:18: 01.2 Knie nieder I: Checking navy unit queue.
+05/31/2017 14:36:20: 01.2 Knie nieder I: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:36:21: 01.2 Knie nieder I: Starting trade between 01.2 Knie nieder I and 26.1 Robinatuss Stad.
+05/31/2017 14:36:22: 01.2 Knie nieder I: Not enough resources to send.
+05/31/2017 14:36:23: Switching to 02.1 Robinatuss Stad
+05/31/2017 14:36:27: 02.1 Robinatuss Stad: Nothing to build.
+05/31/2017 14:36:28: 02.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:36:30: 02.1 Robinatuss Stad: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:36:31: 02.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:36:32: 02.1 Robinatuss Stad: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:36:33: 02.1 Robinatuss Stad: Starting trade between 02.1 Robinatuss Stad and 26.1 Robinatuss Stad.
+05/31/2017 14:36:35: 02.1 Robinatuss Stad: Sending resources to 26.1 Robinatuss Stad. (Wood: 517/30101, Stone: 0/6505, Silver: 0/6505)
+05/31/2017 14:36:36: Switching to 02.2 Oz
+05/31/2017 14:36:40: 02.2 Oz: Nothing to build.
+05/31/2017 14:36:41: 02.2 Oz: Checking land unit queue.
+05/31/2017 14:36:42: 02.2 Oz: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:36:43: 02.2 Oz: Checking navy unit queue.
+05/31/2017 14:36:44: 02.2 Oz: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:36:46: 02.2 Oz: Starting trade between 02.2 Oz and 26.1 Robinatuss Stad.
+05/31/2017 14:36:47: 02.2 Oz: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 5877, Wood: 15432, Stone: 5807, Silver: 8134)
+05/31/2017 14:36:48: Switching to 03 mufftners Stadt
+05/31/2017 14:36:52: 03 mufftners Stadt: Nothing to build.
+05/31/2017 14:36:53: 03 mufftners Stadt: Checking land unit queue.
+05/31/2017 14:36:54: 03 mufftners Stadt: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:36:55: 03 mufftners Stadt: Checking navy unit queue.
+05/31/2017 14:36:56: 03 mufftners Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:36:58: 03 mufftners Stadt: Starting trade between 03 mufftners Stadt and 26.1 Robinatuss Stad.
+05/31/2017 14:36:59: 03 mufftners Stadt: Sending resources to 26.1 Robinatuss Stad. (Wood: 0/30622, Stone: 0/6511, Silver: 600/6511)
+05/31/2017 14:37:00: Switching to 05 Pallantium
+05/31/2017 14:37:04: 05 Pallantium: Nothing to build.
+05/31/2017 14:37:05: 05 Pallantium: Checking land unit queue.
+05/31/2017 14:37:07: 05 Pallantium: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:37:08: 05 Pallantium: Checking navy unit queue.
+05/31/2017 14:37:09: 05 Pallantium: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:37:10: 05 Pallantium: Starting trade between 05 Pallantium and 26.1 Robinatuss Stad.
+05/31/2017 14:37:11: 05 Pallantium: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 5884, Wood: 15432, Stone: 5813, Silver: 8139)
+05/31/2017 14:37:13: Switching to 06 Loki
+05/31/2017 14:37:16: 06 Loki: Nothing to build.
+05/31/2017 14:37:17: 06 Loki: Checking land unit queue.
+05/31/2017 14:37:19: 06 Loki: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:37:20: 06 Loki: Checking navy unit queue.
+05/31/2017 14:37:21: 06 Loki: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:37:23: 06 Loki: Starting trade between 06 Loki and 26.1 Robinatuss Stad.
+05/31/2017 14:37:24: 06 Loki: Not enough resources to send.
+05/31/2017 14:37:25: Switching to 07 Robinatuss Stadt
+05/31/2017 14:37:29: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 14:37:30: 07 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 14:37:31: 07 Robinatuss Stadt: Unit queue skipped (Not enough resources or population).
+05/31/2017 14:37:33: 07 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 14:37:34: 07 Robinatuss Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:37:35: 07 Robinatuss Stadt: Starting trade between 07 Robinatuss Stadt and 26.1 Robinatuss Stad.
+05/31/2017 14:37:36: 07 Robinatuss Stadt: Not enough resources to send.
+05/31/2017 14:37:38: Switching to 08 Löwenstein
+05/31/2017 14:37:41: 08 Löwenstein: Nothing to build.
+05/31/2017 14:37:42: 08 Löwenstein: Checking land unit queue.
+05/31/2017 14:37:44: 08 Löwenstein: Unit queue skipped (Not enough resources or population).
+05/31/2017 14:37:45: 08 Löwenstein: Checking navy unit queue.
+05/31/2017 14:37:46: 08 Löwenstein: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:37:47: 08 Löwenstein: Starting trade between 08 Löwenstein and 26.1 Robinatuss Stad.
+05/31/2017 14:37:48: 08 Löwenstein: Not enough resources to send.
+05/31/2017 14:37:49: Switching to 09.1 Kätzchen
+05/31/2017 14:37:53: 09.1 Kätzchen: Nothing to build.
+05/31/2017 14:37:54: 09.1 Kätzchen: Checking land unit queue.
+05/31/2017 14:37:56: 09.1 Kätzchen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:37:57: 09.1 Kätzchen: Checking navy unit queue.
+05/31/2017 14:37:58: 09.1 Kätzchen: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:37:59: 09.1 Kätzchen: Starting trade between 09.1 Kätzchen and 26.1 Robinatuss Stad.
+05/31/2017 14:38:00: 09.1 Kätzchen: Sending resources to 26.1 Robinatuss Stad. (Wood: 0/30629, Stone: 0/6524, Silver: 600/7124)
+05/31/2017 14:38:01: Switching to 09.2 Scheiß Red Bull
+05/31/2017 14:38:05: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 14:38:06: 09.2 Scheiß Red Bull: Checking land unit queue.
+05/31/2017 14:38:07: 09.2 Scheiß Red Bull: Unit queue skipped (Not enough resources or population).
+05/31/2017 14:38:08: 09.2 Scheiß Red Bull: Checking navy unit queue.
+05/31/2017 14:38:09: 09.2 Scheiß Red Bull: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:38:10: 09.2 Scheiß Red Bull: Starting trade between 09.2 Scheiß Red Bull and 26.1 Robinatuss Stad.
+05/31/2017 14:38:12: 09.2 Scheiß Red Bull: Not enough resources to send.
+05/31/2017 14:38:13: Switching to 10 Noch einers Stadt
+05/31/2017 14:38:16: 10 Noch einers Stadt: Nothing to build.
+05/31/2017 14:38:18: 10 Noch einers Stadt: Checking land unit queue.
+05/31/2017 14:38:19: 10 Noch einers Stadt: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:38:20: 10 Noch einers Stadt: Checking navy unit queue.
+05/31/2017 14:38:21: 10 Noch einers Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:38:22: 10 Noch einers Stadt: Starting trade between 10 Noch einers Stadt and 26.1 Robinatuss Stad.
+05/31/2017 14:38:24: 10 Noch einers Stadt: Not enough resources to send.
+05/31/2017 14:38:25: Switching to 11.1 Sturmwind
+05/31/2017 14:38:29: 11.1 Sturmwind: Nothing to build.
+05/31/2017 14:38:30: 11.1 Sturmwind: Checking land unit queue.
+05/31/2017 14:38:31: 11.1 Sturmwind: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:38:32: 11.1 Sturmwind: Checking navy unit queue.
+05/31/2017 14:38:34: 11.1 Sturmwind: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:38:35: 11.1 Sturmwind: Starting trade between 11.1 Sturmwind and 21.2 Robinatuss Stad.
+05/31/2017 14:38:36: 11.1 Sturmwind: Not enough resources to send.
+05/31/2017 14:38:37: Switching to 11.2 Jochen
+05/31/2017 14:38:41: 11.2 Jochen: Nothing to build.
+05/31/2017 14:38:42: 11.2 Jochen: Checking land unit queue.
+05/31/2017 14:38:43: 11.2 Jochen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:38:44: 11.2 Jochen: Checking navy unit queue.
+05/31/2017 14:38:45: 11.2 Jochen: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:38:47: 11.2 Jochen: Starting trade between 11.2 Jochen and 21.2 Robinatuss Stad.
+05/31/2017 14:38:48: 11.2 Jochen: Not enough resources to send.
+05/31/2017 14:38:49: Switching to 12 Pfui I
+05/31/2017 14:38:53: 12 Pfui I: Nothing to build.
+05/31/2017 14:38:54: 12 Pfui I: Checking land unit queue.
+05/31/2017 14:38:55: 12 Pfui I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:38:56: 12 Pfui I: Checking navy unit queue.
+05/31/2017 14:38:58: 12 Pfui I: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:38:59: 12 Pfui I: Starting trade between 12 Pfui I and 26.1 Robinatuss Stad.
+05/31/2017 14:39:00: 12 Pfui I: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 10911, Wood: 15431, Stone: 5844, Silver: 8164)
+05/31/2017 14:39:01: Switching to 13 TekNo.a
+05/31/2017 14:39:05: 13 TekNo.a: Nothing to build.
+05/31/2017 14:39:06: 13 TekNo.a: Checking land unit queue.
+05/31/2017 14:39:07: 13 TekNo.a: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:39:08: 13 TekNo.a: Checking navy unit queue.
+05/31/2017 14:39:10: 13 TekNo.a: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:39:11: 13 TekNo.a: Starting trade between 13 TekNo.a and 21.1 Robinatuss Stad.
+05/31/2017 14:39:12: 13 TekNo.a: Not enough resources to send.
+05/31/2017 14:39:13: Switching to 14 011
+05/31/2017 14:39:17: 14 011: Nothing to build.
+05/31/2017 14:39:18: 14 011: Checking land unit queue.
+05/31/2017 14:39:20: 14 011: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:39:21: 14 011: Checking navy unit queue.
+05/31/2017 14:39:22: 14 011: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:39:23: 14 011: Starting trade between 14 011 and 26.1 Robinatuss Stad.
+05/31/2017 14:39:24: 14 011: Not enough resources to send.
+05/31/2017 14:39:26: Switching to 15 L01
+05/31/2017 14:39:29: 15 L01: Nothing to build.
+05/31/2017 14:39:31: 15 L01: Checking land unit queue.
+05/31/2017 14:39:32: 15 L01: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:39:33: 15 L01: Checking navy unit queue.
+05/31/2017 14:39:34: 15 L01: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:39:35: 15 L01: Starting trade between 15 L01 and 21.2 Robinatuss Stad.
+05/31/2017 14:39:37: 15 L01: Sending resources to 21.2 Robinatuss Stad. (Wood: 0/21625, Stone: 0/19870, Silver: 4511/21070)
+05/31/2017 14:39:38: Switching to 16 Banana
+05/31/2017 14:39:42: 16 Banana: Nothing to build.
+05/31/2017 14:39:43: 16 Banana: Checking land unit queue.
+05/31/2017 14:39:44: 16 Banana: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:39:45: 16 Banana: Checking navy unit queue.
+05/31/2017 14:39:47: 16 Banana: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:39:48: 16 Banana: Starting trade between 16 Banana and 21.1 Robinatuss Stad.
+05/31/2017 14:39:49: 16 Banana: Not enough resources to send.
+05/31/2017 14:39:50: Switching to 17 Front N 1.0
+05/31/2017 14:39:54: 17 Front N 1.0: Nothing to build.
+05/31/2017 14:39:56: 17 Front N 1.0: Checking land unit queue.
+05/31/2017 14:39:57: 17 Front N 1.0: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:39:58: 17 Front N 1.0: Checking navy unit queue.
+05/31/2017 14:39:59: 17 Front N 1.0: Navy queue skipped (Not enough resources or population).
+05/31/2017 14:40:00: 17 Front N 1.0: Starting trade between 17 Front N 1.0 and 21.2 Robinatuss Stad.
+05/31/2017 14:40:02: 17 Front N 1.0: Sending resources to 21.2 Robinatuss Stad. (Wood: 4504/21633, Stone: 0/19879, Silver: 3480/25590)
+05/31/2017 14:40:03: Switching to 18 Freiberg 01
+05/31/2017 14:40:07: 18 Freiberg 01: Nothing to build.
+05/31/2017 14:40:08: 18 Freiberg 01: Checking land unit queue.
+05/31/2017 14:40:09: 18 Freiberg 01: Unit queue skipped (Not enough resources or population).
+05/31/2017 14:40:11: 18 Freiberg 01: Checking navy unit queue.
+05/31/2017 14:40:12: 18 Freiberg 01: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:40:13: 18 Freiberg 01: Starting trade between 18 Freiberg 01 and 21.2 Robinatuss Stad.
+05/31/2017 14:40:14: 18 Freiberg 01: Not enough resources to send.
+05/31/2017 14:40:15: Switching to 19 Durch Reise
+05/31/2017 14:40:19: 19 Durch Reise: Nothing to build.
+05/31/2017 14:40:21: 19 Durch Reise: Checking land unit queue.
+05/31/2017 14:40:22: 19 Durch Reise: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:40:23: 19 Durch Reise: Checking navy unit queue.
+05/31/2017 14:40:24: 19 Durch Reise: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:40:25: 19 Durch Reise: Starting trade between 19 Durch Reise and 21.1 Robinatuss Stad.
+05/31/2017 14:40:26: 19 Durch Reise: Sending resources to 21.1 Robinatuss Stad. (Wood: 4497/27570, Stone: 0/22784, Silver: 0/24130)
+05/31/2017 14:40:27: Switching to 20 Robinatuss Stadt
+05/31/2017 14:40:31: 20 Robinatuss Stadt: Nothing to build.
+05/31/2017 14:40:32: 20 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 14:40:34: 20 Robinatuss Stadt: Army queue is disabled for this town or queue is full.
+05/31/2017 14:40:35: 20 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 14:40:36: 20 Robinatuss Stadt: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:40:37: Switching to 21.1 Robinatuss Stad
+05/31/2017 14:40:40: 21.1 Robinatuss Stad: Building queue is full.
+05/31/2017 14:40:41: 21.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:40:42: 21.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:40:43: 21.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:40:45: 21.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:40:46: Switching to 21.2 Robinatuss Stad
+05/31/2017 14:40:49: 21.2 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 14:40:51: 21.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:40:52: 21.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:40:53: 21.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:40:55: 21.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:40:56: Switching to 22 Blutiger Anfänger
+05/31/2017 14:40:59: 22 Blutiger Anfänger: Nothing to build.
+05/31/2017 14:41:01: 22 Blutiger Anfänger: Checking land unit queue.
+05/31/2017 14:41:02: 22 Blutiger Anfänger: Adding hoplite (11) to the ingame queue.
+05/31/2017 14:41:02: 22 Blutiger Anfänger: Land unit(s) added to ingame queue.
+05/31/2017 14:41:03: 22 Blutiger Anfänger: Checking navy unit queue.
+05/31/2017 14:41:05: 22 Blutiger Anfänger: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:41:06: 22 Blutiger Anfänger: Starting trade between 22 Blutiger Anfänger and 21.1 Robinatuss Stad.
+05/31/2017 14:41:07: 22 Blutiger Anfänger: Not enough resources to send.
+05/31/2017 14:41:08: Switching to 23 m55-001
+05/31/2017 14:41:12: 23 m55-001: Nothing to build.
+05/31/2017 14:41:13: 23 m55-001: Checking land unit queue.
+05/31/2017 14:41:14: 23 m55-001: Unit queue skipped (Can't find trainable units.)
+05/31/2017 14:41:15: 23 m55-001: Checking navy unit queue.
+05/31/2017 14:41:17: 23 m55-001: Navy queue skipped (Can't find trainable units).
+05/31/2017 14:41:18: 23 m55-001: Starting trade between 23 m55-001 and 21.1 Robinatuss Stad.
+05/31/2017 14:41:19: 23 m55-001: Sending resources to 21.1 Robinatuss Stad. (Wood: 431/32082, Stone: 0/22811, Silver: 354/24157)
+05/31/2017 14:41:20: Switching to 24.1 Robinatuss Stad
+05/31/2017 14:41:24: 24.1 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 14:41:26: 24.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:41:27: 24.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:41:28: 24.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:41:29: 24.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:41:31: Switching to 24.2 Robinatuss Stad
+05/31/2017 14:41:35: 24.2 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 14:41:36: 24.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:41:42: 24.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:41:42: 24.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:41:42: 24.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:41:42: Switching to 25.1 Robinatuss Stad
+05/31/2017 14:41:45: 25.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:41:46: 25.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:41:48: 25.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:41:49: 25.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:41:50: 25.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:41:51: Switching to 25.2 Robinatuss Stad
+05/31/2017 14:41:55: 25.2 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 14:41:56: 25.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:41:58: 25.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:41:59: 25.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:42:00: 25.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:42:01: Switching to 26.1 Robinatuss Stad
+05/31/2017 14:42:05: 26.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:42:06: 26.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:42:07: 26.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:42:09: 26.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:42:10: 26.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:42:11: Switching to 26.2 Robinatuss Stad
+05/31/2017 14:42:15: 26.2 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:42:16: 26.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:42:18: 26.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:42:19: 26.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:42:20: 26.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:42:21: Switching to 26.3 Robinatuss Stad
+05/31/2017 14:42:25: 26.3 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 14:42:26: 26.3 Robinatuss Stad: Checking land unit queue.
+05/31/2017 14:42:28: 26.3 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 14:42:29: 26.3 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 14:42:30: 26.3 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 14:42:31: Finished Cycle!
+05/31/2017 14:43:32: Starting Cycle!
+05/31/2017 14:43:33: Switching to 01.1 Knie nieder
+05/31/2017 14:43:34: Switching to 01.2 Knie nieder I
+05/31/2017 14:43:36: Switching to 02.1 Robinatuss Stad
+05/31/2017 14:43:37: Switching to 02.2 Oz
+05/31/2017 14:43:38: Switching to 03 mufftners Stadt
+05/31/2017 14:43:40: Switching to 05 Pallantium
+05/31/2017 14:43:41: Switching to 06 Loki
+05/31/2017 14:43:42: Switching to 07 Robinatuss Stadt
+05/31/2017 14:43:46: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 14:43:47: Switching to 08 Löwenstein
+05/31/2017 14:43:51: 08 Löwenstein: Nothing to build.
+05/31/2017 14:43:52: Switching to 09.1 Kätzchen
+05/31/2017 14:43:54: Switching to 09.2 Scheiß Red Bull
+05/31/2017 14:43:57: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 14:43:58: Switching to 10 Noch einers Stadt
+05/31/2017 14:44:00: Switching to 11.1 Sturmwind
+05/31/2017 14:44:01: Switching to 11.2 Jochen
+05/31/2017 14:44:02: Switching to 12 Pfui I
+05/31/2017 14:44:04: Switching to 13 TekNo.a
+05/31/2017 14:44:05: Switching to 14 011
+05/31/2017 14:44:06: Switching to 15 L01
+05/31/2017 14:44:07: Switching to 16 Banana
+05/31/2017 14:44:09: Switching to 17 Front N 1.0
+05/31/2017 14:44:10: Switching to 18 Freiberg 01
+05/31/2017 14:44:11: Switching to 19 Durch Reise
+05/31/2017 14:44:12: Switching to 20 Robinatuss Stadt
+05/31/2017 14:44:16: 20 Robinatuss Stadt: Nothing to build.
+05/31/2017 14:44:18: Switching to 21.1 Robinatuss Stad
+05/31/2017 14:44:20: 21.1 Robinatuss Stad: Building queue is full.
+05/31/2017 14:44:22: Switching to 21.2 Robinatuss Stad
+05/31/2017 14:44:25: 21.2 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 14:44:27: Switching to 22 Blutiger Anfänger
+05/31/2017 14:44:30: 22 Blutiger Anfänger: Nothing to build.
+05/31/2017 14:44:32: Switching to 23 m55-001
+05/31/2017 14:44:33: Switching to 24.1 Robinatuss Stad
+05/31/2017 14:44:37: 24.1 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 14:44:38: Switching to 24.2 Robinatuss Stad
+05/31/2017 14:44:42: 24.2 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:44:44: Switching to 25.1 Robinatuss Stad
+05/31/2017 14:44:47: 25.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 14:44:49: Switching to 25.2 Robinatuss Stad
+05/31/2017 14:44:53: 25.2 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 14:44:54: Switching to 26.1 Robinatuss Stad
+05/31/2017 14:44:58: 26.1 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 14:44:59: Switching to 26.2 Robinatuss Stad
+05/31/2017 14:45:03: 26.2 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 14:45:04: Switching to 26.3 Robinatuss Stad
+05/31/2017 14:45:08: 26.3 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 14:45:09: Finished Cycle!
+05/31/2017 15:05:58: Started GrepBOTlis V.1.0.0.0
+05/31/2017 15:06:09: Login to Grepolis.
+05/31/2017 15:06:17: Updating Town Data.
+05/31/2017 15:06:21: Updating Game Data.
+05/31/2017 15:06:21: Updating Building Data.
+05/31/2017 15:06:22: Updating Unit Data.
+05/31/2017 15:06:22: Login successful.
+05/31/2017 15:06:34: Starting Cycle!
+05/31/2017 15:06:35: Switching to 01.1 Knie nieder
+05/31/2017 15:06:39: 01.1 Knie nieder: Nothing to build.
+05/31/2017 15:06:40: 01.1 Knie nieder: Checking land unit queue.
+05/31/2017 15:06:42: 01.1 Knie nieder: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:06:43: 01.1 Knie nieder: Checking navy unit queue.
+05/31/2017 15:06:44: 01.1 Knie nieder: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:06:45: 01.1 Knie nieder: Starting trade between 01.1 Knie nieder and 26.1 Robinatuss Stad.
+05/31/2017 15:06:46: 01.1 Knie nieder: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 15000, Wood: 15432, Stone: 5795, Silver: 7489)
+05/31/2017 15:06:47: Switching to 01.2 Knie nieder I
+05/31/2017 15:06:51: 01.2 Knie nieder I: Nothing to build.
+05/31/2017 15:06:52: 01.2 Knie nieder I: Checking land unit queue.
+05/31/2017 15:06:53: 01.2 Knie nieder I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:06:54: 01.2 Knie nieder I: Checking navy unit queue.
+05/31/2017 15:06:56: 01.2 Knie nieder I: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:06:57: 01.2 Knie nieder I: Starting trade between 01.2 Knie nieder I and 26.1 Robinatuss Stad.
+05/31/2017 15:06:58: 01.2 Knie nieder I: Not enough resources to send.
+05/31/2017 15:06:59: Switching to 02.1 Robinatuss Stad
+05/31/2017 15:07:03: 02.1 Robinatuss Stad: Nothing to build.
+05/31/2017 15:07:04: 02.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:07:05: 02.1 Robinatuss Stad: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:07:06: 02.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:07:07: 02.1 Robinatuss Stad: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:07:09: 02.1 Robinatuss Stad: Starting trade between 02.1 Robinatuss Stad and 26.1 Robinatuss Stad.
+05/31/2017 15:07:10: 02.1 Robinatuss Stad: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 10000, Wood: 15607, Stone: 11979, Silver: 13412)
+05/31/2017 15:07:11: Switching to 02.2 Oz
+05/31/2017 15:07:15: 02.2 Oz: Nothing to build.
+05/31/2017 15:07:16: 02.2 Oz: Checking land unit queue.
+05/31/2017 15:07:17: 02.2 Oz: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:07:18: 02.2 Oz: Checking navy unit queue.
+05/31/2017 15:07:20: 02.2 Oz: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:07:21: 02.2 Oz: Starting trade between 02.2 Oz and 26.1 Robinatuss Stad.
+05/31/2017 15:07:22: 02.2 Oz: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 10000, Wood: 15432, Stone: 5807, Silver: 8134)
+05/31/2017 15:07:23: Switching to 03 mufftners Stadt
+05/31/2017 15:07:27: 03 mufftners Stadt: Nothing to build.
+05/31/2017 15:07:28: 03 mufftners Stadt: Checking land unit queue.
+05/31/2017 15:07:29: 03 mufftners Stadt: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:07:30: 03 mufftners Stadt: Checking navy unit queue.
+05/31/2017 15:07:31: 03 mufftners Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:07:33: 03 mufftners Stadt: Starting trade between 03 mufftners Stadt and 26.1 Robinatuss Stad.
+05/31/2017 15:07:34: 03 mufftners Stadt: Sending resources to 26.1 Robinatuss Stad. (Wood: 0/10138, Stone: 0/3933, Silver: 5058/4533)
+05/31/2017 15:07:35: Switching to 05 Pallantium
+05/31/2017 15:07:39: 05 Pallantium: Nothing to build.
+05/31/2017 15:07:40: 05 Pallantium: Checking land unit queue.
+05/31/2017 15:07:41: 05 Pallantium: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:07:42: 05 Pallantium: Checking navy unit queue.
+05/31/2017 15:07:44: 05 Pallantium: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:07:45: 05 Pallantium: Starting trade between 05 Pallantium and 26.1 Robinatuss Stad.
+05/31/2017 15:07:46: 05 Pallantium: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 10000, Wood: 15432, Stone: 5813, Silver: 8139)
+05/31/2017 15:07:47: Switching to 06 Loki
+05/31/2017 15:07:51: 06 Loki: Nothing to build.
+05/31/2017 15:07:52: 06 Loki: Checking land unit queue.
+05/31/2017 15:07:53: 06 Loki: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:07:55: 06 Loki: Checking navy unit queue.
+05/31/2017 15:07:56: 06 Loki: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:07:57: 06 Loki: Starting trade between 06 Loki and 26.1 Robinatuss Stad.
+05/31/2017 15:07:58: 06 Loki: Not enough resources to send.
+05/31/2017 15:07:59: Switching to 07 Robinatuss Stadt
+05/31/2017 15:08:03: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 15:08:04: 07 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 15:08:05: 07 Robinatuss Stadt: Unit queue skipped (Not enough resources or population).
+05/31/2017 15:08:06: 07 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 15:08:08: 07 Robinatuss Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:08:09: 07 Robinatuss Stadt: Starting trade between 07 Robinatuss Stadt and 26.1 Robinatuss Stad.
+05/31/2017 15:08:10: 07 Robinatuss Stadt: Not enough resources to send.
+05/31/2017 15:08:11: Switching to 08 Löwenstein
+05/31/2017 15:08:15: 08 Löwenstein: Nothing to build.
+05/31/2017 15:08:16: 08 Löwenstein: Checking land unit queue.
+05/31/2017 15:08:17: 08 Löwenstein: Unit queue skipped (Not enough resources or population).
+05/31/2017 15:08:18: 08 Löwenstein: Checking navy unit queue.
+05/31/2017 15:08:20: 08 Löwenstein: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:08:21: 08 Löwenstein: Starting trade between 08 Löwenstein and 26.1 Robinatuss Stad.
+05/31/2017 15:08:22: 08 Löwenstein: Not enough resources to send.
+05/31/2017 15:08:23: Switching to 09.1 Kätzchen
+05/31/2017 15:08:27: 09.1 Kätzchen: Nothing to build.
+05/31/2017 15:08:28: 09.1 Kätzchen: Checking land unit queue.
+05/31/2017 15:08:29: 09.1 Kätzchen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:08:30: 09.1 Kätzchen: Checking navy unit queue.
+05/31/2017 15:08:32: 09.1 Kätzchen: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:08:33: 09.1 Kätzchen: Starting trade between 09.1 Kätzchen and 26.1 Robinatuss Stad.
+05/31/2017 15:08:34: 09.1 Kätzchen: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 9400, Wood: 8477, Stone: 6244, Silver: 20043)
+05/31/2017 15:08:35: Switching to 09.2 Scheiß Red Bull
+05/31/2017 15:08:38: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 15:08:39: 09.2 Scheiß Red Bull: Checking land unit queue.
+05/31/2017 15:08:41: 09.2 Scheiß Red Bull: Unit queue skipped (Not enough resources or population).
+05/31/2017 15:08:42: 09.2 Scheiß Red Bull: Checking navy unit queue.
+05/31/2017 15:08:43: 09.2 Scheiß Red Bull: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:08:44: 09.2 Scheiß Red Bull: Starting trade between 09.2 Scheiß Red Bull and 26.1 Robinatuss Stad.
+05/31/2017 15:08:46: 09.2 Scheiß Red Bull: Not enough resources to send.
+05/31/2017 15:08:47: Switching to 10 Noch einers Stadt
+05/31/2017 15:08:50: 10 Noch einers Stadt: Nothing to build.
+05/31/2017 15:08:52: 10 Noch einers Stadt: Checking land unit queue.
+05/31/2017 15:08:53: 10 Noch einers Stadt: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:08:54: 10 Noch einers Stadt: Checking navy unit queue.
+05/31/2017 15:08:55: 10 Noch einers Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:08:56: 10 Noch einers Stadt: Starting trade between 10 Noch einers Stadt and 26.1 Robinatuss Stad.
+05/31/2017 15:08:57: 10 Noch einers Stadt: Not enough resources to send.
+05/31/2017 15:08:59: Switching to 11.1 Sturmwind
+05/31/2017 15:09:02: 11.1 Sturmwind: Nothing to build.
+05/31/2017 15:09:04: 11.1 Sturmwind: Checking land unit queue.
+05/31/2017 15:09:05: 11.1 Sturmwind: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:09:06: 11.1 Sturmwind: Checking navy unit queue.
+05/31/2017 15:09:07: 11.1 Sturmwind: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:09:08: 11.1 Sturmwind: Starting trade between 11.1 Sturmwind and 21.2 Robinatuss Stad.
+05/31/2017 15:09:09: 11.1 Sturmwind: Not enough resources to send.
+05/31/2017 15:09:11: Switching to 11.2 Jochen
+05/31/2017 15:09:14: 11.2 Jochen: Nothing to build.
+05/31/2017 15:09:16: 11.2 Jochen: Checking land unit queue.
+05/31/2017 15:09:17: 11.2 Jochen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:09:18: 11.2 Jochen: Checking navy unit queue.
+05/31/2017 15:09:19: 11.2 Jochen: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:09:20: 11.2 Jochen: Starting trade between 11.2 Jochen and 21.2 Robinatuss Stad.
+05/31/2017 15:09:22: 11.2 Jochen: Not enough resources to send.
+05/31/2017 15:09:23: Switching to 12 Pfui I
+05/31/2017 15:09:27: 12 Pfui I: Nothing to build.
+05/31/2017 15:09:28: 12 Pfui I: Checking land unit queue.
+05/31/2017 15:09:29: 12 Pfui I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:09:30: 12 Pfui I: Checking navy unit queue.
+05/31/2017 15:09:31: 12 Pfui I: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:09:32: 12 Pfui I: Starting trade between 12 Pfui I and 26.1 Robinatuss Stad.
+05/31/2017 15:09:34: 12 Pfui I: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 15000, Wood: 15431, Stone: 5844, Silver: 8164)
+05/31/2017 15:09:35: Switching to 13 TekNo.a
+05/31/2017 15:09:38: 13 TekNo.a: Nothing to build.
+05/31/2017 15:09:40: 13 TekNo.a: Checking land unit queue.
+05/31/2017 15:09:41: 13 TekNo.a: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:09:42: 13 TekNo.a: Checking navy unit queue.
+05/31/2017 15:09:43: 13 TekNo.a: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:09:44: 13 TekNo.a: Starting trade between 13 TekNo.a and 21.1 Robinatuss Stad.
+05/31/2017 15:09:46: 13 TekNo.a: Not enough resources to send.
+05/31/2017 15:09:47: Switching to 14 011
+05/31/2017 15:09:51: 14 011: Nothing to build.
+05/31/2017 15:09:52: 14 011: Checking land unit queue.
+05/31/2017 15:09:53: 14 011: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:09:54: 14 011: Checking navy unit queue.
+05/31/2017 15:09:56: 14 011: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:09:57: 14 011: Starting trade between 14 011 and 26.1 Robinatuss Stad.
+05/31/2017 15:09:58: 14 011: Not enough resources to send.
+05/31/2017 15:09:59: Switching to 15 L01
+05/31/2017 15:10:03: 15 L01: Nothing to build.
+05/31/2017 15:10:04: 15 L01: Checking land unit queue.
+05/31/2017 15:10:05: 15 L01: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:10:06: 15 L01: Checking navy unit queue.
+05/31/2017 15:10:07: 15 L01: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:10:09: 15 L01: Starting trade between 15 L01 and 21.2 Robinatuss Stad.
+05/31/2017 15:10:10: 15 L01: Sending resources to 21.2 Robinatuss Stad. (Wood: 0/22027, Stone: 0/15627, Silver: 508/23618)
+05/31/2017 15:10:11: Switching to 16 Banana
+05/31/2017 15:10:15: 16 Banana: Nothing to build.
+05/31/2017 15:10:16: 16 Banana: Checking land unit queue.
+05/31/2017 15:10:17: 16 Banana: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:10:18: 16 Banana: Checking navy unit queue.
+05/31/2017 15:10:19: 16 Banana: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:10:20: 16 Banana: Starting trade between 16 Banana and 21.1 Robinatuss Stad.
+05/31/2017 15:10:21: 16 Banana: Not enough resources to send.
+05/31/2017 15:10:23: Switching to 17 Front N 1.0
+05/31/2017 15:10:26: 17 Front N 1.0: Nothing to build.
+05/31/2017 15:10:27: 17 Front N 1.0: Checking land unit queue.
+05/31/2017 15:10:29: 17 Front N 1.0: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:10:30: 17 Front N 1.0: Checking navy unit queue.
+05/31/2017 15:10:31: 17 Front N 1.0: Navy queue skipped (Not enough resources or population).
+05/31/2017 15:10:32: 17 Front N 1.0: Starting trade between 17 Front N 1.0 and 21.2 Robinatuss Stad.
+05/31/2017 15:10:34: 17 Front N 1.0: Sending resources to 21.2 Robinatuss Stad. (Wood: 508/22034, Stone: 0/15635, Silver: 637/24134)
+05/31/2017 15:10:35: Switching to 18 Freiberg 01
+05/31/2017 15:10:39: 18 Freiberg 01: Nothing to build.
+05/31/2017 15:10:40: 18 Freiberg 01: Checking land unit queue.
+05/31/2017 15:10:41: 18 Freiberg 01: Unit queue skipped (Not enough resources or population).
+05/31/2017 15:10:42: 18 Freiberg 01: Checking navy unit queue.
+05/31/2017 15:10:43: 18 Freiberg 01: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:10:45: 18 Freiberg 01: Starting trade between 18 Freiberg 01 and 21.2 Robinatuss Stad.
+05/31/2017 15:10:46: 18 Freiberg 01: Not enough resources to send.
+05/31/2017 15:10:47: Switching to 19 Durch Reise
+05/31/2017 15:10:51: 19 Durch Reise: Nothing to build.
+05/31/2017 15:10:52: 19 Durch Reise: Checking land unit queue.
+05/31/2017 15:10:53: 19 Durch Reise: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:10:54: 19 Durch Reise: Checking navy unit queue.
+05/31/2017 15:10:55: 19 Durch Reise: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:10:56: 19 Durch Reise: Starting trade between 19 Durch Reise and 21.1 Robinatuss Stad.
+05/31/2017 15:10:57: 19 Durch Reise: Sending resources to 21.1 Robinatuss Stad. (Wood: 507/32999, Stone: 0/23721, Silver: 0/23721)
+05/31/2017 15:10:59: Switching to 20 Robinatuss Stadt
+05/31/2017 15:11:02: 20 Robinatuss Stadt: Nothing to build.
+05/31/2017 15:11:03: 20 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 15:11:05: 20 Robinatuss Stadt: Army queue is disabled for this town or queue is full.
+05/31/2017 15:11:06: 20 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 15:11:07: 20 Robinatuss Stadt: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:11:08: Switching to 21.1 Robinatuss Stad
+05/31/2017 15:11:11: 21.1 Robinatuss Stad: Building queue is full.
+05/31/2017 15:11:12: 21.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:11:13: 21.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:11:14: 21.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:11:15: 21.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:11:17: Switching to 21.2 Robinatuss Stad
+05/31/2017 15:11:21: 21.2 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 15:11:22: 21.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:11:23: 21.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:11:24: 21.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:11:26: 21.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:11:27: Switching to 22 Blutiger Anfänger
+05/31/2017 15:11:31: 22 Blutiger Anfänger: Nothing to build.
+05/31/2017 15:11:32: 22 Blutiger Anfänger: Checking land unit queue.
+05/31/2017 15:11:33: 22 Blutiger Anfänger: Unit queue skipped (Not enough resources or population).
+05/31/2017 15:11:35: 22 Blutiger Anfänger: Checking navy unit queue.
+05/31/2017 15:11:36: 22 Blutiger Anfänger: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:11:37: 22 Blutiger Anfänger: Starting trade between 22 Blutiger Anfänger and 21.1 Robinatuss Stad.
+05/31/2017 15:11:38: 22 Blutiger Anfänger: Not enough resources to send.
+05/31/2017 15:11:39: Switching to 23 m55-001
+05/31/2017 15:11:43: 23 m55-001: Nothing to build.
+05/31/2017 15:11:44: 23 m55-001: Checking land unit queue.
+05/31/2017 15:11:46: 23 m55-001: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:11:47: 23 m55-001: Checking navy unit queue.
+05/31/2017 15:11:48: 23 m55-001: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:11:49: 23 m55-001: Starting trade between 23 m55-001 and 21.1 Robinatuss Stad.
+05/31/2017 15:11:50: 23 m55-001: Sending resources to 21.1 Robinatuss Stad. (Wood: 507/33520, Stone: 0/23748, Silver: 416/23748)
+05/31/2017 15:11:52: Switching to 24.1 Robinatuss Stad
+05/31/2017 15:11:55: 24.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 15:11:57: 24.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:11:58: 24.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:11:59: 24.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:12:00: 24.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:12:01: Switching to 24.2 Robinatuss Stad
+05/31/2017 15:12:05: 24.2 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 15:12:06: 24.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:12:08: 24.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:12:09: 24.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:12:10: 24.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:12:11: Switching to 25.1 Robinatuss Stad
+05/31/2017 15:12:15: 25.1 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 15:12:16: 25.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:12:18: 25.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:12:19: 25.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:12:20: 25.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:12:21: Switching to 25.2 Robinatuss Stad
+05/31/2017 15:12:25: 25.2 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:12:26: 25.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:12:27: 25.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:12:28: 25.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:12:30: 25.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:12:31: Switching to 26.1 Robinatuss Stad
+05/31/2017 15:12:34: 26.1 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 15:12:36: 26.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:12:37: 26.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:12:38: 26.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:12:39: 26.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:12:41: Switching to 26.2 Robinatuss Stad
+05/31/2017 15:12:45: 26.2 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 15:12:46: 26.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:12:47: 26.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:12:48: 26.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:12:50: 26.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:12:51: Switching to 26.3 Robinatuss Stad
+05/31/2017 15:12:55: 26.3 Robinatuss Stad: Adding docks to ingame queue.
+05/31/2017 15:12:56: 26.3 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:12:57: 26.3 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:12:58: 26.3 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:13:00: 26.3 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:13:01: Finished Cycle!
+05/31/2017 15:14:04: Starting Cycle!
+05/31/2017 15:14:05: Switching to 01.1 Knie nieder
+05/31/2017 15:14:06: Switching to 01.2 Knie nieder I
+05/31/2017 15:14:07: Switching to 02.1 Robinatuss Stad
+05/31/2017 15:14:09: Switching to 02.2 Oz
+05/31/2017 15:14:10: Switching to 03 mufftners Stadt
+05/31/2017 15:14:11: Switching to 05 Pallantium
+05/31/2017 15:14:13: Switching to 06 Loki
+05/31/2017 15:14:14: Switching to 07 Robinatuss Stadt
+05/31/2017 15:14:18: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 15:14:19: Switching to 08 Löwenstein
+05/31/2017 15:14:23: 08 Löwenstein: Nothing to build.
+05/31/2017 15:14:24: Switching to 09.1 Kätzchen
+05/31/2017 15:14:25: Switching to 09.2 Scheiß Red Bull
+05/31/2017 15:14:29: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 15:14:30: Switching to 10 Noch einers Stadt
+05/31/2017 15:14:31: Switching to 11.1 Sturmwind
+05/31/2017 15:14:33: Switching to 11.2 Jochen
+05/31/2017 15:14:34: Switching to 12 Pfui I
+05/31/2017 15:14:35: Switching to 13 TekNo.a
+05/31/2017 15:14:36: Switching to 14 011
+05/31/2017 15:14:38: Switching to 15 L01
+05/31/2017 15:14:39: Switching to 16 Banana
+05/31/2017 15:14:40: Switching to 17 Front N 1.0
+05/31/2017 15:14:41: Switching to 18 Freiberg 01
+05/31/2017 15:14:43: Switching to 19 Durch Reise
+05/31/2017 15:14:44: Switching to 20 Robinatuss Stadt
+05/31/2017 15:14:48: 20 Robinatuss Stadt: Nothing to build.
+05/31/2017 15:14:49: Switching to 21.1 Robinatuss Stad
+05/31/2017 15:14:52: 21.1 Robinatuss Stad: Building queue is full.
+05/31/2017 15:14:53: Switching to 21.2 Robinatuss Stad
+05/31/2017 15:14:57: 21.2 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:14:58: Switching to 22 Blutiger Anfänger
+05/31/2017 15:15:02: 22 Blutiger Anfänger: Nothing to build.
+05/31/2017 15:15:03: Switching to 23 m55-001
+05/31/2017 15:15:04: Switching to 24.1 Robinatuss Stad
+05/31/2017 15:15:08: 24.1 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:15:09: Switching to 24.2 Robinatuss Stad
+05/31/2017 15:15:13: 24.2 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 15:15:15: Switching to 25.1 Robinatuss Stad
+05/31/2017 15:15:19: 25.1 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 15:15:20: Switching to 25.2 Robinatuss Stad
+05/31/2017 15:15:24: 25.2 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:15:25: Switching to 26.1 Robinatuss Stad
+05/31/2017 15:15:29: 26.1 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 15:15:31: Switching to 26.2 Robinatuss Stad
+05/31/2017 15:15:34: 26.2 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 15:15:35: Switching to 26.3 Robinatuss Stad
+05/31/2017 15:15:39: 26.3 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 15:15:41: Finished Cycle!
+05/31/2017 15:18:00: Starting Cycle!
+05/31/2017 15:18:01: Switching to 01.1 Knie nieder
+05/31/2017 15:18:03: Switching to 01.2 Knie nieder I
+05/31/2017 15:18:04: Switching to 02.1 Robinatuss Stad
+05/31/2017 15:18:05: Switching to 02.2 Oz
+05/31/2017 15:18:06: Switching to 03 mufftners Stadt
+05/31/2017 15:18:08: Switching to 05 Pallantium
+05/31/2017 15:18:09: Switching to 06 Loki
+05/31/2017 15:18:10: Switching to 07 Robinatuss Stadt
+05/31/2017 15:18:14: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 15:18:15: Switching to 08 Löwenstein
+05/31/2017 15:18:19: 08 Löwenstein: Nothing to build.
+05/31/2017 15:18:20: Switching to 09.1 Kätzchen
+05/31/2017 15:18:21: Switching to 09.2 Scheiß Red Bull
+05/31/2017 15:18:25: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 15:18:26: Switching to 10 Noch einers Stadt
+05/31/2017 15:18:27: Switching to 11.1 Sturmwind
+05/31/2017 15:18:29: Switching to 11.2 Jochen
+05/31/2017 15:18:32: 11.2 Jochen: Nothing to build.
+05/31/2017 15:18:33: Switching to 12 Pfui I
+05/31/2017 15:18:35: Switching to 13 TekNo.a
+05/31/2017 15:18:36: Switching to 14 011
+05/31/2017 15:18:37: Switching to 15 L01
+05/31/2017 15:18:38: Switching to 16 Banana
+05/31/2017 15:18:40: Switching to 17 Front N 1.0
+05/31/2017 15:18:41: Switching to 18 Freiberg 01
+05/31/2017 15:18:42: Switching to 19 Durch Reise
+05/31/2017 15:18:44: Switching to 20 Robinatuss Stadt
+05/31/2017 15:18:47: 20 Robinatuss Stadt: Nothing to build.
+05/31/2017 15:18:48: Switching to 21.1 Robinatuss Stad
+05/31/2017 15:18:51: 21.1 Robinatuss Stad: Building queue is full.
+05/31/2017 15:18:52: Switching to 21.2 Robinatuss Stad
+05/31/2017 15:18:56: 21.2 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 15:18:57: Switching to 22 Blutiger Anfänger
+05/31/2017 15:19:01: 22 Blutiger Anfänger: Nothing to build.
+05/31/2017 15:19:02: Switching to 23 m55-001
+05/31/2017 15:19:03: Switching to 24.1 Robinatuss Stad
+05/31/2017 15:19:07: 24.1 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 15:19:08: Switching to 24.2 Robinatuss Stad
+05/31/2017 15:19:12: 24.2 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:19:13: Switching to 25.1 Robinatuss Stad
+05/31/2017 15:19:17: 25.1 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 15:19:19: Switching to 25.2 Robinatuss Stad
+05/31/2017 15:19:23: 25.2 Robinatuss Stad: Nothing to build.
+05/31/2017 15:19:24: Switching to 26.1 Robinatuss Stad
+05/31/2017 15:19:27: 26.1 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:19:29: Switching to 26.2 Robinatuss Stad
+05/31/2017 15:19:33: 26.2 Robinatuss Stad: Nothing to build.
+05/31/2017 15:19:34: Switching to 26.3 Robinatuss Stad
+05/31/2017 15:19:38: 26.3 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:19:39: Finished Cycle!
+05/31/2017 15:23:53: Exception in BuildTimerUpdatedCrossThread: Auf das verworfene Objekt kann nicht zugegriffen werden.
+Objektname: "MainForm".
+05/31/2017 15:23:53: Exception in RefreshTimerUpdatedCrossThread: Auf das verworfene Objekt kann nicht zugegriffen werden.
+Objektname: "MainForm".
+05/31/2017 15:23:55: Exception in BuildTimerUpdatedCrossThread: Fehler beim Aufrufen der Methode. Der Zielthread ist nicht mehr vorhanden.
+05/31/2017 15:23:55: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 15:23:55: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 15:23:55: Exception in WriteExceptionToLog: Der Prozess kann nicht auf die Datei "E:\Bot\Bot\bin\Debug\Log20170531.txt" zugreifen, da sie von einem anderen Prozess verwendet wird.
+05/31/2017 15:32:31: Started GrepBOTlis V.1.0.0.0
+05/31/2017 15:32:38: Login to Grepolis.
+05/31/2017 15:32:42: Updating Town Data.
+05/31/2017 15:32:44: Updating Game Data.
+05/31/2017 15:32:46: Updating Building Data.
+05/31/2017 15:32:47: Updating Unit Data.
+05/31/2017 15:32:48: Login successful.
+05/31/2017 15:33:32: Starting Cycle No. 1!
+05/31/2017 15:33:33: Switching to 01.1 Knie nieder
+05/31/2017 15:33:37: 01.1 Knie nieder: Nothing to build.
+05/31/2017 15:33:38: 01.1 Knie nieder: Starting trade between 01.1 Knie nieder and 26.1 Robinatuss Stad.
+05/31/2017 15:33:40: 01.1 Knie nieder: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 15000, Wood: 15432, Stone: 5795, Silver: 7489)
+05/31/2017 15:33:41: Switching to 01.2 Knie nieder I
+05/31/2017 15:33:45: 01.2 Knie nieder I: Nothing to build.
+05/31/2017 15:33:46: 01.2 Knie nieder I: Checking land unit queue.
+05/31/2017 15:33:47: 01.2 Knie nieder I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:33:48: 01.2 Knie nieder I: Checking navy unit queue.
+05/31/2017 15:33:50: 01.2 Knie nieder I: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:33:51: 01.2 Knie nieder I: Starting trade between 01.2 Knie nieder I and 26.1 Robinatuss Stad.
+05/31/2017 15:33:52: 01.2 Knie nieder I: Not enough resources to send.
+05/31/2017 15:33:53: Switching to 02.1 Robinatuss Stad
+05/31/2017 15:33:57: 02.1 Robinatuss Stad: Nothing to build.
+05/31/2017 15:33:58: 02.1 Robinatuss Stad: Starting trade between 02.1 Robinatuss Stad and 26.1 Robinatuss Stad.
+05/31/2017 15:33:59: 02.1 Robinatuss Stad: Sending resources to 26.1 Robinatuss Stad. (Wood: 607/8087, Stone: 0/1620, Silver: 0/1620)
+05/31/2017 15:34:01: Switching to 02.2 Oz
+05/31/2017 15:34:05: 02.2 Oz: Nothing to build.
+05/31/2017 15:34:06: 02.2 Oz: Starting trade between 02.2 Oz and 26.1 Robinatuss Stad.
+05/31/2017 15:34:07: 02.2 Oz: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 10000, Wood: 15432, Stone: 5807, Silver: 8134)
+05/31/2017 15:34:08: Switching to 03 mufftners Stadt
+05/31/2017 15:34:12: 03 mufftners Stadt: Nothing to build.
+05/31/2017 15:34:13: 03 mufftners Stadt: Starting trade between 03 mufftners Stadt and 26.1 Robinatuss Stad.
+05/31/2017 15:34:14: 03 mufftners Stadt: Sending resources to 26.1 Robinatuss Stad. (Wood: 0/8695, Stone: 0/1623, Silver: 651/1623)
+05/31/2017 15:34:16: Switching to 05 Pallantium
+05/31/2017 15:34:20: 05 Pallantium: Nothing to build.
+05/31/2017 15:34:21: 05 Pallantium: Starting trade between 05 Pallantium and 26.1 Robinatuss Stad.
+05/31/2017 15:34:22: 05 Pallantium: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 10000, Wood: 15432, Stone: 5813, Silver: 8139)
+05/31/2017 15:34:23: Switching to 06 Loki
+05/31/2017 15:34:27: 06 Loki: Nothing to build.
+05/31/2017 15:34:28: 06 Loki: Starting trade between 06 Loki and 26.1 Robinatuss Stad.
+05/31/2017 15:34:50: Starting Cycle No. 1!
+05/31/2017 15:34:51: 06 Loki: Not enough resources to send.
+05/31/2017 15:34:52: Switching to 07 Robinatuss Stadt
+05/31/2017 15:34:56: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 15:34:57: 07 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 15:34:58: 07 Robinatuss Stadt: Unit queue skipped (Not enough resources or population).
+05/31/2017 15:34:59: 07 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 15:35:00: 07 Robinatuss Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:35:01: 07 Robinatuss Stadt: Starting trade between 07 Robinatuss Stadt and 26.1 Robinatuss Stad.
+05/31/2017 15:35:03: 07 Robinatuss Stadt: Not enough resources to send.
+05/31/2017 15:35:04: Switching to 08 Löwenstein
+05/31/2017 15:35:08: 08 Löwenstein: Nothing to build.
+05/31/2017 15:35:09: 08 Löwenstein: Checking land unit queue.
+05/31/2017 15:35:10: 08 Löwenstein: Unit queue skipped (Not enough resources or population).
+05/31/2017 15:35:11: 08 Löwenstein: Checking navy unit queue.
+05/31/2017 15:35:13: 08 Löwenstein: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:35:14: 08 Löwenstein: Starting trade between 08 Löwenstein and 26.1 Robinatuss Stad.
+05/31/2017 15:35:15: 08 Löwenstein: Not enough resources to send.
+05/31/2017 15:35:16: Switching to 09.1 Kätzchen
+05/31/2017 15:35:20: 09.1 Kätzchen: Nothing to build.
+05/31/2017 15:35:21: 09.1 Kätzchen: Starting trade between 09.1 Kätzchen and 26.1 Robinatuss Stad.
+05/31/2017 15:35:22: 09.1 Kätzchen: Sending resources to 26.1 Robinatuss Stad. (Wood: 0/8704, Stone: 0/1638, Silver: 5043/2289)
+05/31/2017 15:35:24: Switching to 09.2 Scheiß Red Bull
+05/31/2017 15:35:27: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 15:35:28: 09.2 Scheiß Red Bull: Checking land unit queue.
+05/31/2017 15:35:30: 09.2 Scheiß Red Bull: Unit queue skipped (Not enough resources or population).
+05/31/2017 15:35:31: 09.2 Scheiß Red Bull: Checking navy unit queue.
+05/31/2017 15:35:32: 09.2 Scheiß Red Bull: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:35:33: 09.2 Scheiß Red Bull: Starting trade between 09.2 Scheiß Red Bull and 26.1 Robinatuss Stad.
+05/31/2017 15:35:35: 09.2 Scheiß Red Bull: Not enough resources to send.
+05/31/2017 15:35:36: Switching to 10 Noch einers Stadt
+05/31/2017 15:35:39: 10 Noch einers Stadt: Nothing to build.
+05/31/2017 15:35:41: 10 Noch einers Stadt: Starting trade between 10 Noch einers Stadt and 26.1 Robinatuss Stad.
+05/31/2017 15:35:42: 10 Noch einers Stadt: Not enough resources to send.
+05/31/2017 15:35:43: Switching to 11.1 Sturmwind
+05/31/2017 15:35:47: 11.1 Sturmwind: Nothing to build.
+05/31/2017 15:35:48: 11.1 Sturmwind: Starting trade between 11.1 Sturmwind and 21.2 Robinatuss Stad.
+05/31/2017 15:35:49: 11.1 Sturmwind: Not enough resources to send.
+05/31/2017 15:35:51: Switching to 11.2 Jochen
+05/31/2017 15:35:54: 11.2 Jochen: Nothing to build.
+05/31/2017 15:35:56: 11.2 Jochen: Checking land unit queue.
+05/31/2017 15:35:57: 11.2 Jochen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:35:58: 11.2 Jochen: Checking navy unit queue.
+05/31/2017 15:35:59: 11.2 Jochen: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:36:01: 11.2 Jochen: Starting trade between 11.2 Jochen and 21.2 Robinatuss Stad.
+05/31/2017 15:36:02: 11.2 Jochen: Not enough resources to send.
+05/31/2017 15:36:03: Switching to 12 Pfui I
+05/31/2017 15:36:06: 12 Pfui I: Nothing to build.
+05/31/2017 15:36:08: 12 Pfui I: Starting trade between 12 Pfui I and 26.1 Robinatuss Stad.
+05/31/2017 15:36:09: 12 Pfui I: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 15000, Wood: 15431, Stone: 5844, Silver: 8164)
+05/31/2017 15:36:10: Switching to 13 TekNo.a
+05/31/2017 15:36:14: 13 TekNo.a: Nothing to build.
+05/31/2017 15:36:15: 13 TekNo.a: Starting trade between 13 TekNo.a and 21.1 Robinatuss Stad.
+05/31/2017 15:36:16: 13 TekNo.a: Not enough resources to send.
+05/31/2017 15:36:17: Switching to 14 011
+05/31/2017 15:36:21: 14 011: Nothing to build.
+05/31/2017 15:36:22: 14 011: Starting trade between 14 011 and 26.1 Robinatuss Stad.
+05/31/2017 15:36:24: 14 011: Not enough resources to send.
+05/31/2017 15:36:25: Switching to 15 L01
+05/31/2017 15:36:29: 15 L01: Nothing to build.
+05/31/2017 15:36:30: 15 L01: Starting trade between 15 L01 and 21.2 Robinatuss Stad.
+05/31/2017 15:36:31: 15 L01: Sending resources to 21.2 Robinatuss Stad. (Wood: 0/13831, Stone: 0/6843, Silver: 650/7988)
+05/31/2017 15:36:33: Switching to 16 Banana
+05/31/2017 15:36:36: 16 Banana: Nothing to build.
+05/31/2017 15:36:38: 16 Banana: Starting trade between 16 Banana and 21.1 Robinatuss Stad.
+05/31/2017 15:36:39: 16 Banana: Not enough resources to send.
+05/31/2017 15:36:40: Switching to 17 Front N 1.0
+05/31/2017 15:36:44: 17 Front N 1.0: Nothing to build.
+05/31/2017 15:36:45: 17 Front N 1.0: Starting trade between 17 Front N 1.0 and 21.2 Robinatuss Stad.
+05/31/2017 15:36:46: 17 Front N 1.0: Sending resources to 21.2 Robinatuss Stad. (Wood: 650/13835, Stone: 0/6848, Silver: 534/8643)
+05/31/2017 15:36:48: Switching to 18 Freiberg 01
+05/31/2017 15:36:51: 18 Freiberg 01: Nothing to build.
+05/31/2017 15:36:52: 18 Freiberg 01: Checking land unit queue.
+05/31/2017 15:36:54: 18 Freiberg 01: Unit queue skipped (Not enough resources or population).
+05/31/2017 15:36:55: 18 Freiberg 01: Checking navy unit queue.
+05/31/2017 15:36:56: 18 Freiberg 01: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:36:57: 18 Freiberg 01: Starting trade between 18 Freiberg 01 and 21.2 Robinatuss Stad.
+05/31/2017 15:36:58: 18 Freiberg 01: Not enough resources to send.
+05/31/2017 15:36:59: Switching to 19 Durch Reise
+05/31/2017 15:37:03: 19 Durch Reise: Nothing to build.
+05/31/2017 15:37:04: 19 Durch Reise: Starting trade between 19 Durch Reise and 21.1 Robinatuss Stad.
+05/31/2017 15:37:05: 19 Durch Reise: Not enough resources for 21.1 Robinatuss Stad / trade capacity. (Trade capacity: 9493, Wood: 15650, Stone: 6820, Silver: 8930)
+05/31/2017 15:37:06: Switching to 20 Robinatuss Stadt
+05/31/2017 15:37:10: 20 Robinatuss Stadt: Adding market to ingame queue.
+05/31/2017 15:37:12: 20 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 15:37:13: 20 Robinatuss Stadt: Army queue is disabled for this town or queue is full.
+05/31/2017 15:37:14: 20 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 15:37:15: 20 Robinatuss Stadt: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:37:16: Switching to 21.1 Robinatuss Stad
+05/31/2017 15:37:19: 21.1 Robinatuss Stad: Building queue is full.
+05/31/2017 15:37:20: 21.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:37:21: 21.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:37:22: 21.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:37:24: 21.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:37:25: Switching to 21.2 Robinatuss Stad
+05/31/2017 15:37:29: 21.2 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:37:30: 21.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:37:31: 21.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:37:33: 21.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:37:34: 21.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:37:35: Switching to 22 Blutiger Anfänger
+05/31/2017 15:37:39: 22 Blutiger Anfänger: Nothing to build.
+05/31/2017 15:37:40: 22 Blutiger Anfänger: Checking land unit queue.
+05/31/2017 15:37:41: 22 Blutiger Anfänger: Adding hoplite (15) to the ingame queue.
+05/31/2017 15:37:41: 22 Blutiger Anfänger: Land unit(s) added to ingame queue.
+05/31/2017 15:37:43: 22 Blutiger Anfänger: Checking navy unit queue.
+05/31/2017 15:37:44: 22 Blutiger Anfänger: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:37:45: 22 Blutiger Anfänger: Starting trade between 22 Blutiger Anfänger and 21.1 Robinatuss Stad.
+05/31/2017 15:37:46: 22 Blutiger Anfänger: Not enough resources to send.
+05/31/2017 15:37:47: Switching to 23 m55-001
+05/31/2017 15:37:51: 23 m55-001: Nothing to build.
+05/31/2017 15:37:52: 23 m55-001: Starting trade between 23 m55-001 and 21.1 Robinatuss Stad.
+05/31/2017 15:37:54: 23 m55-001: Sending resources to 21.1 Robinatuss Stad. (Wood: 0/31614, Stone: 0/24546, Silver: 534/24962)
+05/31/2017 15:37:55: Switching to 24.1 Robinatuss Stad
+05/31/2017 15:37:59: 24.1 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:38:00: 24.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:38:01: 24.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:38:02: 24.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:38:04: 24.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:38:05: Switching to 24.2 Robinatuss Stad
+05/31/2017 15:38:09: 24.2 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:38:10: 24.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:38:11: 24.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:38:12: 24.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:38:14: 24.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:38:15: Switching to 25.1 Robinatuss Stad
+05/31/2017 15:38:19: 25.1 Robinatuss Stad: Adding hide to ingame queue.
+05/31/2017 15:38:20: 25.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:38:21: 25.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:38:22: 25.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:38:23: 25.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:38:24: Switching to 25.2 Robinatuss Stad
+05/31/2017 15:38:28: 25.2 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:38:30: 25.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:38:31: 25.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:38:32: 25.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:38:34: 25.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:38:35: Switching to 26.1 Robinatuss Stad
+05/31/2017 15:38:39: 26.1 Robinatuss Stad: Adding academy to ingame queue.
+05/31/2017 15:38:40: 26.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:38:41: 26.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:38:42: 26.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:38:44: 26.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:38:45: Switching to 26.2 Robinatuss Stad
+05/31/2017 15:38:48: 26.2 Robinatuss Stad: Nothing to build.
+05/31/2017 15:38:49: 26.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:38:50: 26.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:38:52: 26.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:38:53: 26.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:38:54: Switching to 26.3 Robinatuss Stad
+05/31/2017 15:38:58: 26.3 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:38:59: 26.3 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:39:00: 26.3 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:39:01: 26.3 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:39:03: 26.3 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:39:04: Finished Cycle!
+05/31/2017 15:44:57: Starting Cycle No. 2!
+05/31/2017 15:44:58: Switching to 01.1 Knie nieder
+05/31/2017 15:45:02: 01.1 Knie nieder: Nothing to build.
+05/31/2017 15:45:04: 01.1 Knie nieder: Starting trade between 01.1 Knie nieder and 26.1 Robinatuss Stad.
+05/31/2017 15:45:05: 01.1 Knie nieder: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 15000, Wood: 15432, Stone: 5795, Silver: 7489)
+05/31/2017 15:45:06: Switching to 01.2 Knie nieder I
+05/31/2017 15:45:10: 01.2 Knie nieder I: Nothing to build.
+05/31/2017 15:45:11: 01.2 Knie nieder I: Checking land unit queue.
+05/31/2017 15:45:12: 01.2 Knie nieder I: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:45:13: 01.2 Knie nieder I: Checking navy unit queue.
+05/31/2017 15:45:14: 01.2 Knie nieder I: Adding bireme (1) to the ingame queue.
+05/31/2017 15:45:15: 01.2 Knie nieder I: Navy unit(s) added to ingame queue.
+05/31/2017 15:45:16: 01.2 Knie nieder I: Starting trade between 01.2 Knie nieder I and 26.1 Robinatuss Stad.
+05/31/2017 15:45:17: 01.2 Knie nieder I: Sending resources to 26.1 Robinatuss Stad. (Wood: 2939/7906, Stone: 0/329, Silver: 0/6023)
+05/31/2017 15:45:18: Switching to 02.1 Robinatuss Stad
+05/31/2017 15:45:22: 02.1 Robinatuss Stad: Nothing to build.
+05/31/2017 15:45:23: 02.1 Robinatuss Stad: Starting trade between 02.1 Robinatuss Stad and 26.1 Robinatuss Stad.
+05/31/2017 15:45:25: 02.1 Robinatuss Stad: Sending resources to 26.1 Robinatuss Stad. (Wood: 1461/10845, Stone: 0/331, Silver: 0/6025)
+05/31/2017 15:45:26: Switching to 02.2 Oz
+05/31/2017 15:45:29: 02.2 Oz: Nothing to build.
+05/31/2017 15:45:31: 02.2 Oz: Starting trade between 02.2 Oz and 26.1 Robinatuss Stad.
+05/31/2017 15:45:32: 02.2 Oz: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 10000, Wood: 15432, Stone: 5807, Silver: 8134)
+05/31/2017 15:45:33: Switching to 03 mufftners Stadt
+05/31/2017 15:45:37: 03 mufftners Stadt: Nothing to build.
+05/31/2017 15:45:38: 03 mufftners Stadt: Starting trade between 03 mufftners Stadt and 26.1 Robinatuss Stad.
+05/31/2017 15:45:39: 03 mufftners Stadt: Sending resources to 26.1 Robinatuss Stad. (Wood: 0/12308, Stone: 0/334, Silver: 568/6028)
+05/31/2017 15:45:40: Switching to 05 Pallantium
+05/31/2017 15:45:44: 05 Pallantium: Nothing to build.
+05/31/2017 15:45:45: 05 Pallantium: Starting trade between 05 Pallantium and 26.1 Robinatuss Stad.
+05/31/2017 15:45:46: 05 Pallantium: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 10000, Wood: 15432, Stone: 5813, Silver: 8139)
+05/31/2017 15:45:47: Switching to 06 Loki
+05/31/2017 15:45:51: 06 Loki: Nothing to build.
+05/31/2017 15:45:52: 06 Loki: Starting trade between 06 Loki and 26.1 Robinatuss Stad.
+05/31/2017 15:45:54: 06 Loki: Not enough resources to send.
+05/31/2017 15:45:55: Switching to 07 Robinatuss Stadt
+05/31/2017 15:45:59: 07 Robinatuss Stadt: Nothing to build.
+05/31/2017 15:46:00: 07 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 15:46:01: 07 Robinatuss Stadt: Adding manticore (1) to the ingame queue.
+05/31/2017 15:46:01: 07 Robinatuss Stadt: Land unit(s) added to ingame queue.
+05/31/2017 15:46:02: 07 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 15:46:03: 07 Robinatuss Stadt: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:46:05: 07 Robinatuss Stadt: Starting trade between 07 Robinatuss Stadt and 26.1 Robinatuss Stad.
+05/31/2017 15:46:06: 07 Robinatuss Stadt: Not enough resources to send.
+05/31/2017 15:46:07: Switching to 08 Löwenstein
+05/31/2017 15:46:11: 08 Löwenstein: Nothing to build.
+05/31/2017 15:46:12: 08 Löwenstein: Checking land unit queue.
+05/31/2017 15:46:14: 08 Löwenstein: Adding harpy (1) to the ingame queue.
+05/31/2017 15:46:14: 08 Löwenstein: Land unit(s) added to ingame queue.
+05/31/2017 15:46:15: 08 Löwenstein: Checking navy unit queue.
+05/31/2017 15:46:16: 08 Löwenstein: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:46:17: 08 Löwenstein: Starting trade between 08 Löwenstein and 26.1 Robinatuss Stad.
+05/31/2017 15:46:19: 08 Löwenstein: Not enough resources to send.
+05/31/2017 15:46:20: Switching to 09.1 Kätzchen
+05/31/2017 15:46:24: 09.1 Kätzchen: Nothing to build.
+05/31/2017 15:46:25: 09.1 Kätzchen: Starting trade between 09.1 Kätzchen and 26.1 Robinatuss Stad.
+05/31/2017 15:46:26: 09.1 Kätzchen: Sending resources to 26.1 Robinatuss Stad. (Wood: 0/12314, Stone: 0/344, Silver: 1221/6606)
+05/31/2017 15:46:28: Switching to 09.2 Scheiß Red Bull
+05/31/2017 15:46:31: 09.2 Scheiß Red Bull: Nothing to build.
+05/31/2017 15:46:33: 09.2 Scheiß Red Bull: Checking land unit queue.
+05/31/2017 15:46:34: 09.2 Scheiß Red Bull: Unit queue skipped (Not enough resources or population).
+05/31/2017 15:46:35: 09.2 Scheiß Red Bull: Checking navy unit queue.
+05/31/2017 15:46:36: 09.2 Scheiß Red Bull: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:46:37: 09.2 Scheiß Red Bull: Starting trade between 09.2 Scheiß Red Bull and 26.1 Robinatuss Stad.
+05/31/2017 15:46:39: 09.2 Scheiß Red Bull: Not enough resources to send.
+05/31/2017 15:46:40: Switching to 10 Noch einers Stadt
+05/31/2017 15:46:44: 10 Noch einers Stadt: Nothing to build.
+05/31/2017 15:46:45: 10 Noch einers Stadt: Starting trade between 10 Noch einers Stadt and 26.1 Robinatuss Stad.
+05/31/2017 15:46:46: 10 Noch einers Stadt: Not enough resources to send.
+05/31/2017 15:46:47: Switching to 11.1 Sturmwind
+05/31/2017 15:46:51: 11.1 Sturmwind: Nothing to build.
+05/31/2017 15:46:52: 11.1 Sturmwind: Starting trade between 11.1 Sturmwind and 21.2 Robinatuss Stad.
+05/31/2017 15:46:53: 11.1 Sturmwind: Not enough resources to send.
+05/31/2017 15:46:54: Switching to 11.2 Jochen
+05/31/2017 15:46:58: 11.2 Jochen: Nothing to build.
+05/31/2017 15:46:59: 11.2 Jochen: Checking land unit queue.
+05/31/2017 15:47:00: 11.2 Jochen: Unit queue skipped (Can't find trainable units.)
+05/31/2017 15:47:02: 11.2 Jochen: Checking navy unit queue.
+05/31/2017 15:47:03: 11.2 Jochen: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:47:04: 11.2 Jochen: Starting trade between 11.2 Jochen and 21.2 Robinatuss Stad.
+05/31/2017 15:47:05: 11.2 Jochen: Not enough resources to send.
+05/31/2017 15:47:06: Switching to 12 Pfui I
+05/31/2017 15:47:10: 12 Pfui I: Nothing to build.
+05/31/2017 15:47:11: 12 Pfui I: Starting trade between 12 Pfui I and 26.1 Robinatuss Stad.
+05/31/2017 15:47:13: 12 Pfui I: Not enough resources for 26.1 Robinatuss Stad / trade capacity. (Trade capacity: 15000, Wood: 15431, Stone: 5844, Silver: 8164)
+05/31/2017 15:47:14: Switching to 13 TekNo.a
+05/31/2017 15:47:18: 13 TekNo.a: Nothing to build.
+05/31/2017 15:47:19: 13 TekNo.a: Starting trade between 13 TekNo.a and 21.1 Robinatuss Stad.
+05/31/2017 15:47:20: 13 TekNo.a: Not enough resources to send.
+05/31/2017 15:47:21: Switching to 14 011
+05/31/2017 15:47:25: 14 011: Nothing to build.
+05/31/2017 15:47:26: 14 011: Starting trade between 14 011 and 26.1 Robinatuss Stad.
+05/31/2017 15:47:27: 14 011: Not enough resources to send.
+05/31/2017 15:47:28: Switching to 15 L01
+05/31/2017 15:47:32: 15 L01: Nothing to build.
+05/31/2017 15:47:33: 15 L01: Starting trade between 15 L01 and 21.2 Robinatuss Stad.
+05/31/2017 15:47:34: 15 L01: Sending resources to 21.2 Robinatuss Stad. (Wood: 0/12935, Stone: 0/6105, Silver: 561/8434)
+05/31/2017 15:47:36: Switching to 16 Banana
+05/31/2017 15:47:40: 16 Banana: Nothing to build.
+05/31/2017 15:47:41: 16 Banana: Starting trade between 16 Banana and 21.1 Robinatuss Stad.
+05/31/2017 15:47:42: 16 Banana: Not enough resources to send.
+05/31/2017 15:47:43: Switching to 17 Front N 1.0
+05/31/2017 15:47:47: 17 Front N 1.0: Nothing to build.
+05/31/2017 15:47:48: 17 Front N 1.0: Starting trade between 17 Front N 1.0 and 21.2 Robinatuss Stad.
+05/31/2017 15:47:49: 17 Front N 1.0: Sending resources to 21.2 Robinatuss Stad. (Wood: 558/12939, Stone: 0/6111, Silver: 458/9001)
+05/31/2017 15:47:51: Switching to 18 Freiberg 01
+05/31/2017 15:47:54: 18 Freiberg 01: Nothing to build.
+05/31/2017 15:47:56: 18 Freiberg 01: Checking land unit queue.
+05/31/2017 15:47:57: 18 Freiberg 01: Unit queue skipped (Not enough resources or population).
+05/31/2017 15:47:58: 18 Freiberg 01: Checking navy unit queue.
+05/31/2017 15:47:59: 18 Freiberg 01: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:48:00: 18 Freiberg 01: Starting trade between 18 Freiberg 01 and 21.2 Robinatuss Stad.
+05/31/2017 15:48:02: 18 Freiberg 01: Not enough resources to send.
+05/31/2017 15:48:03: Switching to 19 Durch Reise
+05/31/2017 15:48:07: 19 Durch Reise: Nothing to build.
+05/31/2017 15:48:08: 19 Durch Reise: Starting trade between 19 Durch Reise and 21.1 Robinatuss Stad.
+05/31/2017 15:48:09: 19 Durch Reise: Not enough resources for 21.1 Robinatuss Stad / trade capacity. (Trade capacity: 10000, Wood: 15650, Stone: 6820, Silver: 8930)
+05/31/2017 15:48:10: Switching to 20 Robinatuss Stadt
+05/31/2017 15:48:14: 20 Robinatuss Stadt: Nothing to build.
+05/31/2017 15:48:15: 20 Robinatuss Stadt: Checking land unit queue.
+05/31/2017 15:48:16: 20 Robinatuss Stadt: Army queue is disabled for this town or queue is full.
+05/31/2017 15:48:17: 20 Robinatuss Stadt: Checking navy unit queue.
+05/31/2017 15:48:19: 20 Robinatuss Stadt: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:48:20: Switching to 21.1 Robinatuss Stad
+05/31/2017 15:48:22: 21.1 Robinatuss Stad: Building queue is full.
+05/31/2017 15:48:23: 21.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:48:25: 21.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:48:26: 21.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:48:27: 21.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:48:28: Switching to 21.2 Robinatuss Stad
+05/31/2017 15:48:32: 21.2 Robinatuss Stad: Adding temple to ingame queue.
+05/31/2017 15:48:34: 21.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:48:35: 21.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:48:36: 21.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:48:37: 21.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:48:38: Switching to 22 Blutiger Anfänger
+05/31/2017 15:48:42: 22 Blutiger Anfänger: Nothing to build.
+05/31/2017 15:48:43: 22 Blutiger Anfänger: Checking land unit queue.
+05/31/2017 15:48:44: 22 Blutiger Anfänger: Unit queue skipped (Not enough resources or population).
+05/31/2017 15:48:45: 22 Blutiger Anfänger: Checking navy unit queue.
+05/31/2017 15:48:47: 22 Blutiger Anfänger: Navy queue skipped (Can't find trainable units).
+05/31/2017 15:48:48: 22 Blutiger Anfänger: Starting trade between 22 Blutiger Anfänger and 21.1 Robinatuss Stad.
+05/31/2017 15:48:49: 22 Blutiger Anfänger: Not enough resources to send.
+05/31/2017 15:48:50: Switching to 23 m55-001
+05/31/2017 15:48:54: 23 m55-001: Nothing to build.
+05/31/2017 15:48:56: 23 m55-001: Starting trade between 23 m55-001 and 21.1 Robinatuss Stad.
+05/31/2017 15:48:57: 23 m55-001: Not enough resources for 21.1 Robinatuss Stad / trade capacity. (Trade capacity: 9466, Wood: 16204, Stone: 12011, Silver: 15456)
+05/31/2017 15:48:58: Switching to 24.1 Robinatuss Stad
+05/31/2017 15:49:02: 24.1 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:49:03: 24.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:49:04: 24.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:49:05: 24.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:49:07: 24.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:49:08: Switching to 24.2 Robinatuss Stad
+05/31/2017 15:49:12: 24.2 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:49:13: 24.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:49:14: 24.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:49:16: 24.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:49:17: 24.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:49:18: Switching to 25.1 Robinatuss Stad
+05/31/2017 15:49:22: 25.1 Robinatuss Stad: Adding market to ingame queue.
+05/31/2017 15:49:23: 25.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:49:25: 25.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:49:26: 25.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:49:27: 25.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:49:28: Switching to 25.2 Robinatuss Stad
+05/31/2017 15:49:32: 25.2 Robinatuss Stad: Nothing to build.
+05/31/2017 15:49:33: 25.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:49:35: 25.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:49:36: 25.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:49:37: 25.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:49:38: Switching to 26.1 Robinatuss Stad
+05/31/2017 15:49:42: 26.1 Robinatuss Stad: Nothing to build.
+05/31/2017 15:49:43: 26.1 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:49:45: 26.1 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:49:46: 26.1 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:49:47: 26.1 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:49:48: Switching to 26.2 Robinatuss Stad
+05/31/2017 15:49:52: 26.2 Robinatuss Stad: Nothing to build.
+05/31/2017 15:49:53: 26.2 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:49:54: 26.2 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:49:55: 26.2 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:49:56: 26.2 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:49:57: Switching to 26.3 Robinatuss Stad
+05/31/2017 15:50:01: 26.3 Robinatuss Stad: Nothing to build.
+05/31/2017 15:50:02: 26.3 Robinatuss Stad: Checking land unit queue.
+05/31/2017 15:50:03: 26.3 Robinatuss Stad: Army queue is disabled for this town or queue is full.
+05/31/2017 15:50:04: 26.3 Robinatuss Stad: Checking navy unit queue.
+05/31/2017 15:50:06: 26.3 Robinatuss Stad: Navy queue is disabled for this town or queue is full.
+05/31/2017 15:50:07: Finished Cycle!
+05/31/2017 15:56:38: Starting Cycle No. 3!
+05/31/2017 15:56:38: Switching to 01.1 Knie nieder
+05/31/2017 15:57:07: Starting Cycle No. 3!
+05/31/2017 15:57:08: Switching to 01.1 Knie nieder

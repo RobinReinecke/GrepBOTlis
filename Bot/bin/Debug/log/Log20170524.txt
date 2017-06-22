@@ -1,0 +1,82 @@
+05/24/2017 13:58:38: Started GrepBOTlis V.1.0.0.0
+05/24/2017 13:58:39: Login to Grepolis.
+05/24/2017 13:58:43: Updating Town Data.
+05/24/2017 13:58:45: Updating Game Data.
+05/24/2017 13:58:47: Updating Building Data.
+05/24/2017 13:58:49: Updating Unit Data.
+05/24/2017 13:58:49: Login successful.
+05/24/2017 14:00:23: Starting Cycle!
+05/24/2017 14:00:25: Switching to 01.1 Knie nieder
+05/24/2017 14:00:27: 01.1 Knie nieder: Locating Farmers.
+05/24/2017 14:00:32: 01.1 Knie nieder: Nothing to build.
+05/24/2017 14:00:34: 01.1 Knie nieder: Checking land unit queue.
+05/24/2017 14:00:36: 01.1 Knie nieder: Army queue is disabled for this town (or queue is full).
+05/24/2017 14:00:37: 01.1 Knie nieder: Checking navy unit queue.
+05/24/2017 14:00:39: Switching to 01.2 Knie nieder I
+05/24/2017 14:00:41: 01.2 Knie nieder I: Locating Farmers.
+05/24/2017 14:02:27: Started GrepBOTlis V.1.0.0.0
+05/24/2017 14:02:29: Login to Grepolis.
+05/24/2017 14:02:33: Updating Town Data.
+05/24/2017 14:02:35: Updating Game Data.
+05/24/2017 14:02:37: Updating Building Data.
+05/24/2017 14:02:40: Updating Unit Data.
+05/24/2017 14:02:40: Login successful.
+05/24/2017 14:09:48: Started GrepBOTlis V.1.0.0.0
+05/24/2017 14:09:53: Login to Grepolis.
+05/24/2017 14:09:57: Updating Town Data.
+05/24/2017 14:10:00: Updating Game Data.
+05/24/2017 14:10:02: Updating Building Data.
+05/24/2017 14:10:04: Updating Unit Data.
+05/24/2017 14:10:05: Login successful.
+05/24/2017 14:10:57: Started GrepBOTlis V.1.0.0.0
+05/24/2017 14:10:58: Login to Grepolis.
+05/24/2017 14:11:02: Updating Town Data.
+05/24/2017 14:11:04: Updating Game Data.
+05/24/2017 14:11:06: Updating Building Data.
+05/24/2017 14:11:08: Updating Unit Data.
+05/24/2017 14:11:09: Login successful.
+05/24/2017 14:13:14: Started GrepBOTlis V.1.0.0.0
+05/24/2017 14:13:15: Login to Grepolis.
+05/24/2017 14:13:19: Updating Town Data.
+05/24/2017 14:13:22: Updating Game Data.
+05/24/2017 14:13:24: Updating Building Data.
+05/24/2017 14:13:26: Updating Unit Data.
+05/24/2017 14:13:27: Login successful.
+05/24/2017 14:13:48: Starting Cycle!
+05/24/2017 14:13:50: Switching to 01.1 Knie nieder
+05/24/2017 14:13:51: 01.1 Knie nieder: Locating Farmers.
+05/24/2017 14:13:57: 01.1 Knie nieder: Nothing to build.
+05/24/2017 14:13:59: 01.1 Knie nieder: Checking land unit queue.
+05/24/2017 14:14:01: 01.1 Knie nieder: Adding rider (15) to the ingame queue.
+05/24/2017 14:14:01: 01.1 Knie nieder: Land unit(s) added to ingame queue.
+05/24/2017 14:14:02: 01.1 Knie nieder: Checking navy unit queue.
+05/24/2017 14:14:04: Switching to 01.2 Knie nieder I
+05/24/2017 14:14:05: 01.2 Knie nieder I: Locating Farmers.
+05/24/2017 14:14:11: 01.2 Knie nieder I: Demolishing barracks .
+05/24/2017 14:15:53: Started GrepBOTlis V.1.0.0.0
+05/24/2017 14:15:55: Login to Grepolis.
+05/24/2017 14:15:59: Updating Town Data.
+05/24/2017 14:16:01: Updating Game Data.
+05/24/2017 14:16:03: Updating Building Data.
+05/24/2017 14:16:05: Updating Unit Data.
+05/24/2017 14:16:06: Login successful.
+05/24/2017 14:17:36: Starting Cycle!
+05/24/2017 14:17:37: Switching to 01.1 Knie nieder
+05/24/2017 14:17:39: 01.1 Knie nieder: Locating Farmers.
+05/24/2017 14:17:44: 01.1 Knie nieder: Nothing to build.
+05/24/2017 14:17:46: 01.1 Knie nieder: Checking land unit queue.
+05/24/2017 14:17:47: 01.1 Knie nieder: Adding rider (17) to the ingame queue.
+05/24/2017 14:17:47: 01.1 Knie nieder: Land unit(s) added to ingame queue.
+05/24/2017 14:17:49: 01.1 Knie nieder: Checking navy unit queue.
+05/24/2017 14:17:50: 01.1 Knie nieder: Unit queue skipped.
+05/24/2017 14:17:52: Switching to 01.2 Knie nieder I
+05/24/2017 14:17:53: 01.2 Knie nieder I: Locating Farmers.
+05/24/2017 14:17:59: 01.2 Knie nieder I: Demolishing barracks .
+05/24/2017 14:18:02: 01.2 Knie nieder I: Checking land unit queue.
+05/24/2017 14:18:04: 01.2 Knie nieder I: Army queue is disabled for this town (or queue is full).
+05/24/2017 14:18:06: 01.2 Knie nieder I: Checking navy unit queue.
+05/24/2017 14:18:07: 01.2 Knie nieder I: Army queue is disabled for this town (or queue is full).
+05/24/2017 14:18:08: 01.2 Knie nieder I: Starting trade between 01.2 Knie nieder I and 01.1 Knie nieder.
+05/24/2017 14:18:10: 01.2 Knie nieder I: Sending resources to 01.1 Knie nieder. (Wood: 0/15396, Stone: 0/18139, Silver: 9930/18139)
+05/24/2017 14:18:12: Switching to 02.1 Robinatuss Stad
+05/24/2017 14:18:14: 02.1 Robinatuss Stad: Locating Farmers.
