@@ -3,13 +3,13 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("GrepBOTlis")]
-[assembly: AssemblyDescription("A full automated client for Grepolis.")]
+[assembly: AssemblyDescription("A full automated Bot for Grepolis.")]
 #if DEBUG
     [assembly: AssemblyConfiguration("Debug")]
 #else
     [assembly: AssemblyConfiguration("Release")]
 #endif
-[assembly: AssemblyCompany("Reinecke Systems")]
+[assembly: AssemblyCompany("Robin Reinecke")]
 [assembly: AssemblyProduct("GrepBOTlis")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 
@@ -26,5 +26,5 @@ using System.Runtime.InteropServices;
 // Sie können alle Werte angeben oder die standardmäßigen Build- und Revisionsnummern 
 // übernehmen, indem Sie "*" eingeben:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.0.1")]
+[assembly: AssemblyFileVersion("1.0.0.1")]

@@ -3,7 +3,7 @@
 
 #define MyAppName "GrepBOTlis"
 #define MyAppVersion "1.0.0.0"
-#define MyAppPublisher "Reinecke Systems"
+#define MyAppPublisher "Robin Reinecke"
 #define MyAppExeName "Bot.exe"
 
 [Setup]
@@ -18,8 +18,8 @@ AppPublisher={#MyAppPublisher}
 DefaultDirName={pf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
 AllowNoIcons=yes
-OutputDir=E:\Bot
-OutputBaseFilename=GrepBOTlis_Setup_1000
+OutputDir=Z:\c#\grepbotlis
+OutputBaseFilename=GrepBOTlis_Setup_1001
 Compression=lzma
 SolidCompression=yes
 
@@ -30,7 +30,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "E:\Bot\Bot\bin\Debug\Bot.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "Z:\c#\grepbotlis\Bot\bin\Debug\Bot.exe"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
@@ -39,3 +39,6 @@ Name: "{commondesktop}\{#MyAppName}"; Filename: "{app}\{#MyAppExeName}"; Tasks: 
 
 [Run]
 Filename: "{app}\{#MyAppExeName}"; Description: "{cm:LaunchProgram,{#StringChange(MyAppName, '&', '&&')}}"; Flags: nowait postinstall skipifsilent
+
+[Registry]
+Root: HKCU; Subkey: "Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BROWSER_EMULATION"; ValueType: dword; ValueName: "{#MyAppExeName}"; ValueData: "$0000270f"

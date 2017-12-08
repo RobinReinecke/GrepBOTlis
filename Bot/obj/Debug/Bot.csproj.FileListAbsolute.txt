@@ -34,3 +34,12 @@ G:\Bot\Bot\obj\Debug\Bot.Properties.Resources.resources
 G:\Bot\Bot\obj\Debug\Bot.csproj.GenerateResource.Cache
 G:\Bot\Bot\obj\Debug\Bot.exe
 G:\Bot\Bot\obj\Debug\Bot.pdb
+Z:\c#\grepbotlis\Bot\bin\Debug\Bot.exe.config
+Z:\c#\grepbotlis\Bot\obj\Debug\Bot.exe
+Z:\c#\grepbotlis\Bot\obj\Debug\Bot.pdb
+Z:\c#\grepbotlis\Bot\bin\Debug\Bot.exe
+Z:\c#\grepbotlis\Bot\bin\Debug\Bot.pdb
+Z:\c#\grepbotlis\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+Z:\c#\grepbotlis\Bot\obj\Debug\Bot.Forms.MainForm.resources
+Z:\c#\grepbotlis\Bot\obj\Debug\Bot.Properties.Resources.resources
+Z:\c#\grepbotlis\Bot\obj\Debug\Bot.csproj.GenerateResource.Cache

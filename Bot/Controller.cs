@@ -3657,7 +3657,8 @@ namespace Bot
                 //m_Player.Towns[m_CurrentTownIntern].CulturalEvents[2].Ready = l_SubString.Contains("onclick=\"BuildingPlace.startCelebration('triumph'"); //2.37
                 //l_Town.CulturalEvents[2].Ready = l_SubString.Contains("onclick=\\\"BuildingPlace.startCelebration('triumph'");
                 m_Town.CulturalEvents[2].Ready = l_SubString.Contains("data-enabled=\\\"1\\\"");
-                m_Town.CulturalEvents[2].EnoughResources = !l_SubString.Contains("place_not_enough_resources");
+                m_Town.CulturalEvents[2].EnoughResources = Player.KillPoints - Player.UsedKillPoints >= 300;
+                //m_Town.CulturalEvents[2].EnoughResources = !l_SubString.Contains("place_not_enough_resources");
                 l_SubString = p_Response.Substring(l_IndexTheater, p_Response.Length - l_IndexTheater);
                 //m_Player.Towns[m_CurrentTownIntern].CulturalEvents[3].Ready = l_SubString.Contains("onclick=\"BuildingPlace.startCelebration('theater'"); //2.37
                 //l_Town.CulturalEvents[3].Ready = l_SubString.Contains("onclick=\\\"BuildingPlace.startCelebration('theater'");
@@ -3694,6 +3695,12 @@ namespace Bot
                     m_ControllerQueue.AddFirst(ControllerStates.StartCulturalFestival);
                     m_ControllerQueueDataQueue.AddFirst(new Dictionary<string, string>() { { "event", "party" } });
                 }
+                //only start party or theater
+                else if (m_Town.CulturalEvents[3].Enabled && m_Town.CulturalEvents[3].Ready && m_Town.CulturalEvents[3].EnoughResources)
+                {
+                    m_ControllerQueue.AddFirst(ControllerStates.StartCulturalFestival);
+                    m_ControllerQueueDataQueue.AddFirst(new Dictionary<string, string>() { { "event", "theater" } });
+                }
                 if (m_Town.CulturalEvents[1].Enabled && m_Town.CulturalEvents[1].Ready && m_Town.CulturalEvents[1].EnoughResources)
                 {
                     m_ControllerQueue.AddFirst(ControllerStates.StartCulturalFestival);
@@ -3703,11 +3710,6 @@ namespace Bot
                 {
                     m_ControllerQueue.AddFirst(ControllerStates.StartCulturalFestival);
                     m_ControllerQueueDataQueue.AddFirst(new Dictionary<string, string>() { { "event", "triumph" } });
-                }
-                if (m_Town.CulturalEvents[3].Enabled && m_Town.CulturalEvents[3].Ready && m_Town.CulturalEvents[3].EnoughResources)
-                {
-                    m_ControllerQueue.AddFirst(ControllerStates.StartCulturalFestival);
-                    m_ControllerQueueDataQueue.AddFirst(new Dictionary<string, string>() { { "event", "theater" } });
                 }
             }
             catch (Exception ex)
@@ -3723,8 +3725,31 @@ namespace Bot
         {
             try
             {
-                CallLogEvent(m_Town.TownName + ": Started " + m_ControllerQueueDataQueue.First()["event"] + ".");
+                var l_Event = m_ControllerQueueDataQueue.First()["event"];
+                CallLogEvent(m_Town.TownName + ": Started " + l_Event + ".");
                 UpdateTownDataFromNotification(p_Response);
+
+                if (l_Event == "triumpf")
+                {
+                    //update killpoints
+                    var l_Search = "\\\"att\\\":";
+                    var l_Index = p_Response.IndexOf(l_Search, StringComparison.Ordinal);
+                    Player.AttackKillPoints = int.Parse(p_Response.Substring(l_Index + l_Search.Length,
+                        p_Response.IndexOf(",", l_Index + l_Search.Length, StringComparison.Ordinal) -
+                        (l_Index + l_Search.Length)));
+
+                    l_Search = "\\\"def\\\":";
+                    l_Index = p_Response.IndexOf(l_Search, l_Index, StringComparison.Ordinal);
+                    Player.DefendKillPoints = int.Parse(p_Response.Substring(l_Index + l_Search.Length,
+                        p_Response.IndexOf(",", l_Index + l_Search.Length, StringComparison.Ordinal) -
+                        (l_Index + l_Search.Length)));
+
+                    l_Search = "\\\"used\\\":";
+                    l_Index = p_Response.IndexOf(l_Search, l_Index, StringComparison.Ordinal);
+                    Player.UsedKillPoints = int.Parse(p_Response.Substring(l_Index + l_Search.Length,
+                        p_Response.IndexOf(",", l_Index + l_Search.Length, StringComparison.Ordinal) -
+                        (l_Index + l_Search.Length)));
+                }
 
                 m_ControllerQueueDataQueue.RemoveFirst();
             }
