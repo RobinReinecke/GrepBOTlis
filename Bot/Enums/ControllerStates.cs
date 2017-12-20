@@ -26,6 +26,7 @@
         OpenBarracksWindow,
         CheckLandUnitQueue,
         OpenDocksWindow,
-        CheckNavyUnitQueue
+        CheckNavyUnitQueue,
+        CheckMilitia,
     }
 }

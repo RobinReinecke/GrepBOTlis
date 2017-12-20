@@ -12,7 +12,7 @@ namespace Bot.Custom
         /// <summary>
         /// Time the Building queued.
         /// </summary>
-        public string CreatedAt { get; set; } = "0";
+        public string CreatedAt { get; set; }
 
         /// <summary>
         /// Building completed at.

@@ -342,6 +342,11 @@ namespace Bot.Custom
         /// </summary>
         public int Priority { get; set; } = 1;
 
+        /// <summary>
+        /// Is the Militia Ready
+        /// </summary>
+        public bool MilitiaReady { get; set; } = false;
+
         #endregion Attributes
 
         #region Constructor

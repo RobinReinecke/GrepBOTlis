@@ -109,16 +109,6 @@ namespace Bot.Custom
         public string FavorArtemisProduction { get; set; }
 
         /// <summary>
-        /// Cultural Cities String.
-        /// </summary>
-        //public string CulturalCitiesStr { get; set; }
-
-        /// <summary>
-        /// Cultural Points String.
-        /// </summary>
-        //public string CulturalPointsStr { get; set; }
-
-        /// <summary>
         /// Cultural Points.
         /// </summary>
         public int CulturalPointsCurrent { get; set; } = 0;

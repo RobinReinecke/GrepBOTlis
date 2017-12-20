@@ -768,6 +768,9 @@ namespace Bot
                 case ControllerStates.CheckNavyUnitQueue:
                     CheckNavyUnitQueueRequest();
                     break;
+                case ControllerStates.CheckMilitia:
+                    CheckMilitiaRequest();
+                    break;
                 //Finish
                 case ControllerStates.FinishedCycle:
                     BotCycleFinished();
@@ -809,9 +812,8 @@ namespace Bot
             {
                 var l_Url = "https://" + Settings.GrepolisWorldServer + "/game/data?town_id=" + Player.DefaultTownID +
                             "&action=get&h=" + H;
-                var l_Uri = new Uri(l_Url);
                 //Map parameter relating to window size of browser. We emulate a normal sized window with x:7 and y:5
-                PostRequest(l_Uri, new NameValueCollection() { { "json", "{\"types\":[{\"type\":\"map\",\"param\":{\"x\":7,\"y\":5}},{\"type\":\"bar\"},{\"type\":\"backbone\"}],\"town_id\":" + Player.DefaultTownID + ",\"nl_init\":false}" } });
+                PostRequest(new Uri(l_Url), new NameValueCollection() { { "json", "{\"types\":[{\"type\":\"map\",\"param\":{\"x\":7,\"y\":5}},{\"type\":\"bar\"},{\"type\":\"backbone\"}],\"town_id\":" + Player.DefaultTownID + ",\"nl_init\":false}" } });
 
                 CallLogEvent("Updating Game Data.");
             }
@@ -1587,7 +1589,7 @@ namespace Bot
         /// <summary>
         /// Open the docks window.
         /// </summary>
-        public void OpenDocksWindowRequest()
+        private void OpenDocksWindowRequest()
         {
             try
             {
@@ -1619,7 +1621,7 @@ namespace Bot
         /// <summary>
         /// Request for building navy units.
         /// </summary>
-        public void CheckNavyUnitQueueRequest()
+        private void CheckNavyUnitQueueRequest()
         {
             try
             {
@@ -1696,6 +1698,46 @@ namespace Bot
                 Logger.WriteExceptionToLog(ex.Message);
             }
         }
+
+        /// <summary>
+        /// Check if the militia is ready.
+        /// </summary>
+        private void CheckMilitiaRequest()
+        {
+            try
+            {
+                //skip if town has conqueror
+                if (m_Town.HasConqueror)
+                {
+                    m_ControllerQueue.RemoveFirst();
+                    m_RequestTimer.Start();
+                    return;
+                }
+
+                var l_Json =
+                    "{\"town_id\":" + m_CurrentTownID + ",\"nl_init\":true}";
+                l_Json = Uri.EscapeDataString(l_Json);
+
+                var l_Url = "https://" + Settings.GrepolisWorldServer + "/game/building_farm?town_id=" + m_CurrentTownID +
+                            "&action=index&h=" + H + "&json=" + l_Json + "&_=" + ExpandedServerTime;
+
+                CallLogEvent(m_Town.TownName + ": Checking militia.");
+
+                GetRequest(new Uri(l_Url));
+            }
+            catch (Exception ex)
+            {
+                Logger.WriteExceptionToLog(ex.Message);
+            }
+        }
+
+        /// <summary>
+        /// Start the Militia.
+        /// </summary>
+        private void StartMilitiaRequest()
+        {
+            
+        } 
 
         #endregion Requests
 
@@ -1791,21 +1833,31 @@ namespace Bot
                 case ControllerStates.CheckBuildingQueue:
                     CheckBuildingQueueResponse(p_Response);
                     break;
+
                 case ControllerStates.CheckBuildingQueueTeardown:
                     CheckBuildingQueueTeardownResponse(p_Response);
                     break;
+
                 case ControllerStates.OpenBarracksWindow:
                     OpenBarracksWindowResponse(p_Response);
                     break;
+
                 case ControllerStates.CheckLandUnitQueue:
                     CheckLandUnitQueueResponse(p_Response);
                     break;
+
                 case ControllerStates.OpenDocksWindow:
                     OpenDocksWindowResponse(p_Response);
                     break;
+
                 case ControllerStates.CheckNavyUnitQueue:
                     CheckNavyUnitQueueResponse(p_Response);
                     break;
+
+                case ControllerStates.CheckMilitia:
+                    CheckMilitiaResponse(p_Response);
+                    break;
+
             }
 
             AddNotifications(p_Response);
@@ -1821,6 +1873,7 @@ namespace Bot
         /// 2 = Reconnect necessarily
         /// 3 = Server error
         /// 4 = sec_check_failed
+        /// 5 = ingame error
         /// </summary>
         /// <returns>Reponse Code</returns>
         private int ValidateResponse(string p_Response)
@@ -4023,7 +4076,6 @@ namespace Bot
                 CallLogEvent(m_Town.TownName + ": Land unit(s) added to ingame queue.");
 
                 UpdateTownDataFromNotification(p_Response);
-                AddNotifications(p_Response);    
             }
             catch (Exception ex)
             {
@@ -4123,7 +4175,24 @@ namespace Bot
                 CallLogEvent(m_Town.TownName + ": Navy unit(s) added to ingame queue.");
 
                 UpdateTownDataFromNotification(p_Response);
-                AddNotifications(p_Response);
+            }
+            catch (Exception ex)
+            {
+                Logger.WriteExceptionToLog(ex.Message);
+            }
+        }
+
+        /// <summary>
+        /// Response for CheckMilitiaResponse().
+        /// </summary>
+        private void CheckMilitiaResponse(string p_Response)
+        {
+            try
+            {
+                var l_Search = "onclick=";
+                var l_Index = p_Response.IndexOf(l_Search, StringComparison.Ordinal);
+                var l_Substring = p_Response.Substring(l_Index, p_Response.IndexOf(";", l_Index, StringComparison.Ordinal) - l_Index);
+                m_Town.MilitiaReady = !l_Substring.Contains("none");
             }
             catch (Exception ex)
             {

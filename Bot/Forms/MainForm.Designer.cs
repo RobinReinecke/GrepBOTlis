@@ -430,6 +430,7 @@
             this.BotTextBox_MainServer = new System.Windows.Forms.TextBox();
             this.BotLbl_World = new System.Windows.Forms.Label();
             this.BotTextBox_World = new System.Windows.Forms.TextBox();
+            this.Label_TownPriority = new System.Windows.Forms.Label();
             this.BotTabControl.SuspendLayout();
             this.BotTabPage_Overview.SuspendLayout();
             this.BotGroupBox_Status.SuspendLayout();
@@ -815,7 +816,7 @@
             // BotGroupBox_UnitQueue
             // 
             this.BotGroupBox_UnitQueue.Controls.Add(this.BotFlowLayoutPanel_Units);
-            this.BotGroupBox_UnitQueue.Location = new System.Drawing.Point(1, 325);
+            this.BotGroupBox_UnitQueue.Location = new System.Drawing.Point(1, 373);
             this.BotGroupBox_UnitQueue.Name = "BotGroupBox_UnitQueue";
             this.BotGroupBox_UnitQueue.Size = new System.Drawing.Size(1088, 102);
             this.BotGroupBox_UnitQueue.TabIndex = 64;
@@ -2074,6 +2075,7 @@
             // 
             // groupBox12
             // 
+            this.groupBox12.Controls.Add(this.Label_TownPriority);
             this.groupBox12.Controls.Add(this.BotNumericUpDown_TownPriority);
             this.groupBox12.Controls.Add(this.BotCheckBox_BuildingDowngrade);
             this.groupBox12.Controls.Add(this.numericUpDownMilitiaTrigger);
@@ -2084,7 +2086,7 @@
             this.groupBox12.Controls.Add(this.BotCheckBox_UnitQueueEnabled);
             this.groupBox12.Location = new System.Drawing.Point(863, 91);
             this.groupBox12.Name = "groupBox12";
-            this.groupBox12.Size = new System.Drawing.Size(163, 228);
+            this.groupBox12.Size = new System.Drawing.Size(163, 224);
             this.groupBox12.TabIndex = 63;
             this.groupBox12.TabStop = false;
             this.groupBox12.Text = "Config";
@@ -2092,7 +2094,7 @@
             // BotNumericUpDown_TownPriority
             // 
             this.BotNumericUpDown_TownPriority.Enabled = false;
-            this.BotNumericUpDown_TownPriority.Location = new System.Drawing.Point(6, 173);
+            this.BotNumericUpDown_TownPriority.Location = new System.Drawing.Point(77, 166);
             this.BotNumericUpDown_TownPriority.Maximum = new decimal(new int[] {
             5,
             0,
@@ -2176,7 +2178,7 @@
             // BotButton_SaveQueue
             // 
             this.BotButton_SaveQueue.Enabled = false;
-            this.BotButton_SaveQueue.Location = new System.Drawing.Point(6, 199);
+            this.BotButton_SaveQueue.Location = new System.Drawing.Point(6, 192);
             this.BotButton_SaveQueue.Name = "BotButton_SaveQueue";
             this.BotButton_SaveQueue.Size = new System.Drawing.Size(75, 23);
             this.BotButton_SaveQueue.TabIndex = 57;
@@ -6012,6 +6014,15 @@
             this.BotTextBox_World.TabIndex = 3;
             this.BotTextBox_World.Text = "en1";
             // 
+            // Label_TownPriority
+            // 
+            this.Label_TownPriority.AutoSize = true;
+            this.Label_TownPriority.Location = new System.Drawing.Point(3, 168);
+            this.Label_TownPriority.Name = "Label_TownPriority";
+            this.Label_TownPriority.Size = new System.Drawing.Size(68, 13);
+            this.Label_TownPriority.TabIndex = 140;
+            this.Label_TownPriority.Text = "Town Priority";
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -6569,5 +6580,6 @@
         private System.Windows.Forms.NumericUpDown BotNumericUpDown_TownPriority;
         private System.Windows.Forms.Label BotLabel_SkipUnitQueuePop;
         private System.Windows.Forms.NumericUpDown BotNumericUpDown_SkipUnitQueuePop;
+        private System.Windows.Forms.Label Label_TownPriority;
     }
 }
