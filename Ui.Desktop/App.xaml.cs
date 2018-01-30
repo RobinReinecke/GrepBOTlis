@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace GrepBOTlis.Ui.Desktop
+namespace GrepBOTlis.Ui.Desktop.Views.Views.Views
 {
     /// <summary>
     /// Interaktionslogik für "App.xaml"

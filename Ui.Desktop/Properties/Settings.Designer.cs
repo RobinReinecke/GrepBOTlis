@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GrepBOTlis.Ui.Desktop.Properties {
+namespace GrepBOTlis.Ui.Desktop.Views.Views.Views.Views.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

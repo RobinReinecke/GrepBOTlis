@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="GrepBOTlis.Ui.Desktop.Views.BrowserView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GrepBOTlis.Ui.Desktop.Views.Views.Views"
+             xmlns:util="clr-namespace:GrepBOTlis.Ui.Desktop.Utility"
+             mc:Ignorable="d" 
+             DataContext="{Binding Browser, Source={StaticResource Locator}}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <WebBrowser Grid.Row="0" util:WebBrowserUtility.BindableSource="{Binding Uri}" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button Grid.Row="1" Height="10" Content="Test" Command="{Binding ButtonClickCommand}"></Button>
+    </Grid>
+</UserControl>

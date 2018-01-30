@@ -14,6 +14,7 @@
 
 using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Ioc;
+using GrepBOTlis.Logic.Ui.Models;
 using Microsoft.Practices.ServiceLocation;
 
 namespace GrepBOTlis.Logic.Ui.ViewModels
@@ -42,10 +43,15 @@ namespace GrepBOTlis.Logic.Ui.ViewModels
             ////    SimpleIoc.Default.Register<IDataService, DataService>();
             ////}
 
+            SimpleIoc.Default.Register<DataService>();
+
             SimpleIoc.Default.Register<MainViewModel>();
+            SimpleIoc.Default.Register<BrowserViewModel>();
         }
 
         public MainViewModel Main => ServiceLocator.Current.GetInstance<MainViewModel>();
+
+        public BrowserViewModel Browser => ServiceLocator.Current.GetInstance<BrowserViewModel>();
 
         public static void Cleanup()
         {
