@@ -1,7 +1,7 @@
 # README #
 
-##A simple windows form Grepolis bot. 
-###Working application in folder bot/
+## A simple windows form Grepolis bot. ##
+### Working application in folder bot/
 
 Simplified it takes the cookies and csrf token from the webbrowser control and copies them into the controller. The controller handles the rest of the requests.
 
