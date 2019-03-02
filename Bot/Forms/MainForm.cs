@@ -249,7 +249,7 @@ namespace Bot.Forms
             {
                 m_Controller.State = ControllerStates.LoginToGrepolisPart3;
 
-                var l_Url = "https://de0.grepolis.com/start?action=login_to_game_world";
+                var l_Url = "https://" + Settings.GrepolisWorld.Substring(0, 2) + "0.grepolis.com/start?action=login_to_game_world";
                 var l_Uri = new Uri(l_Url);
                 var l_Encoding = System.Text.Encoding.UTF8;
                 var l_PostData = "world=" + Settings.GrepolisWorld + "&facebook_session=&facebook_login=&portal_sid=&name=" + Settings.GrepolisUsername + "&password=";
