@@ -2304,13 +2304,15 @@ namespace Bot
                 //CommandsMenuBubble
                 l_Search = "{\"model_class_name\":\"CommandsMenuBubble\"";
                 l_Index = p_Response.IndexOf(l_Search, 0, StringComparison.Ordinal);
-                l_Search = "\"incoming_attacks_total\":";
-                l_Index = p_Response.IndexOf(l_Search, l_Index, StringComparison.Ordinal);
-                Player.IncomingAttacks =
-                    int.Parse(p_Response.Substring(l_Index + l_Search.Length,
-                        p_Response.IndexOf(",", l_Index + l_Search.Length, StringComparison.Ordinal) -
-                        (l_Index + l_Search.Length)));
-
+                if (l_Index != -1)
+                {
+                    l_Search = "\"incoming_attacks_total\":";
+                    l_Index = p_Response.IndexOf(l_Search, l_Index, StringComparison.Ordinal);
+                    Player.IncomingAttacks =
+                        int.Parse(p_Response.Substring(l_Index + l_Search.Length,
+                            p_Response.IndexOf(",", l_Index + l_Search.Length, StringComparison.Ordinal) -
+                            (l_Index + l_Search.Length)));
+                }
                 //Researches
                 l_Search = "{\"class_name\":\"TownResearches\",\"data\":[";
                 l_Index = p_Response.IndexOf(l_Search, 0, StringComparison.Ordinal);
