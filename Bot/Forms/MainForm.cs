@@ -279,7 +279,8 @@ namespace Bot.Forms
         /// </summary>
         private void InitMisc()
         {
-            ServicePointManager.Expect100Continue = false;
+            ServicePointManager.Expect100Continue = true;
+            ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
         }
 
         /// <summary>
